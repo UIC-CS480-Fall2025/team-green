@@ -1,0 +1,7630 @@
+ECONOMIC IMPACT POTENTIAL OF 
+
+RECYCLING IN OHIO  
+
+FINAL REPORT 
+
+February 11, 2019 
+
+PREPARED BY: 
+
+COMMISSIONED BY: 
+
+OHIO ENVIRONMENTAL 
+PROTECTION AGENCY 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+ Page ii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+
+EXECUTIVE SUMMARY ....................................................................................................................... 1 
+
+Background and Goals ................................................................................................................................. 1 
+
+Highlights and Findings ............................................................................................................................... 1 
+
+Economic Impacts of Recycling ................................................................................................................... 3 
+
+Recommendations ....................................................................................................................................... 4 
+
+Development of A Waste Characterization ....................................................................................... 6 
+
+Municipal Solid Waste Definitions ............................................................................................................... 6 
+
+Methodology ................................................................................................................................................ 8 
+
+State of Ohio Waste Characterization ....................................................................................................... 14 
+
+Economic Impact ............................................................................................................................. 18 
+
+The Recycling Business Proposition ........................................................................................................... 18 
+
+Commodity Price Indexes .......................................................................................................................... 22 
+
+Jobs and Economic Development .............................................................................................................. 24 
+
+Economic Impact of Landfilled Recyclables .............................................................................................. 29 
+
+Recycling Market Trends ................................................................................................................. 31 
+
+The Impact of China’s “National Sword” Policy ........................................................................................ 32 
+
+Recycled Commodities Market Assessment ................................................................................... 36 
+
+Fibers .......................................................................................................................................................... 36 
+
+Plastics ........................................................................................................................................................ 41 
+
+Metals ......................................................................................................................................................... 46 
+
+Glass ........................................................................................................................................................... 49 
+
+APPENDICES ..................................................................................................................................... 52 
+
+ Page iii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+ Page iv 
+
+ 
+ 
+ 
+ 
+ 
+EXECUTIVE SUMMARY  
+
+BACKGROUND AND GOALS 
+
+The purpose of the Economic Impact of Recycling in Ohio is to develop a low-cost, high impact 
+
+evaluation that identifies the current statewide waste stream and supports materials management 
+
+planning. The value proposition of potential recyclables is evaluated to provide information about the 
+
+revenue-generating potential of those recycled commodities.  
+
+This project has three discrete objectives outlined below.    
+
+•  Objective 1 - Utilize existing data from the State of Ohio information and any 
+
+other relevant waste characterization studies to provide an accurate description 
+
+of the present composition of residential and commercial municipal solid waste 
+
+(MSW) that is disposed within the State of Ohio; 
+
+•  Objective 2 - Assess the economic value of recyclable materials entering the 
+
+landfills and assess the potential for job creation through the recovery of these 
+
+recyclable materials. 
+
+•  Objective 3 - Provide recommendations on recyclable materials to target for 
+
+efficient and effective recovery activities.  
+
+HIGHLIGHTS AND FINDINGS 
+
+For the purposes of the study, a waste sector is identified by the particular generation characteristics that 
+
+make it a unique portion of the total waste stream.  Each state characterization that was reviewed has a 
+
+different definition of what material was included in their studies based on their statutory definition and 
+
+their solid waste and recycling program requirements. The characterizations from other states and 
+
+communities identified 80 different categories of material that were evaluated, however not every 
+
+category was evaluated within a specific state study. An issue that complicates the development of a 
+
+waste characterization for the State of Ohio by utilizing previously conducted waste characterizations 
+
+Page 1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+studies from other states and municipalities is the “evolving ton”, a term being used to describe the shift 
+
+in the overall composition of the municipal solid waste stream over the past 20 years.  
+
+Resource Recycling Systems (RRS) developed a national landfill characterization estimation tool based 
+
+on 80 different landfill characterization studies. These studies range from individual municipality studies 
+
+to statewide studies. The development of a waste characterization for the State of Ohio is based on a 
+
+review of these statewide and municipal waste characterization studies from across the country and 
+
+then selective analysis and comparison of studies to determine the most appropriate and best fit 
+
+estimation for the State of Ohio. A summary of the selected comprehensive waste characterization 
+
+profile for the State of Ohio can be found in Table 1. 
+
+Table 1: Characterization of Statewide Disposed Waste 
+based on National Waste Composition of Residential and Commercial Material 
+
+Material Type 
+
+Yard Waste, Food Waste and Organic Subtotal 
+
+Paper Subtotal 
+
+Plastic Subtotal 
+
+Other Non- Recyclable Materials* 
+
+Other Materials such as Textiles, Batteries, Carpet 
+
+Total Wood 
+
+Metal Subtotal 
+
+Electronics Subtotal 
+
+Glass Subtotal 
+
+TONS 
+
+2,291,521 
+
+2,042,234 
+
+1,502,145 
+
+1,137,802 
+
+1,115,367 
+
+594,453 
+
+472,974 
+
+239,699 
+
+191,759 
+
+PERCENT 
+
+of TOTAL 
+
+23.90% 
+
+21.30% 
+
+15.67% 
+
+11.87% 
+
+11.63% 
+
+6.20% 
+
+4.93% 
+
+2.50% 
+
+2.00% 
+
+100.00% 
+Total 
+This category is the remainder of waste that could not be classified in characterization studies. 
+
+9,587,953 
+
+• 
+
+Many states and counties throughout the country conduct waste characterization studies at regular 
+
+intervals to evaluate recycling program effectiveness, monitor changes in the disposed waste stream, 
+
+confirm the effectiveness of landfill disposal bans, identify potential diversion opportunities, and 
+
+otherwise help manage their waste streams. Generation data can be used for strategic planning; 
+
+developing future legislative initiatives; evaluating effectiveness of current recovery efforts; targeting 
+
+programs and educational efforts to advance recovery of specific materials; and providing guidance to 
+
+state agencies and local government. It is critical that characterization data is available when prioritizing 
+
+budget expenditures for increasing diversion and  developing regulatory requirements for specific 
+
+material diversion. 
+
+Page 2 
+
+ 
+ 
+ 
+ 
+Economic Impacts of Recycling 
+
+The analysis of the economic impact of recycling includes an evaluation of the current market value of 
+
+recyclable materials, market trends, and a discussion of the recycled commodity market drivers to 
+
+provide information about the revenue-generating potential of those recycled commodities.  
+
+The current value of potentially recyclable materials that are currently landfilled is $260.5 million based 
+
+on the Midwest Market Indexes in September 2018. The value of the cost of avoided disposal, of 
+
+potentially recoverable material, based on the average gate rate of $43.42/ton for disposal, is $85.9 
+
+million. Other materials that have some value if they can be effectively collected as a separate material 
+
+stream have a value of $88.1 million. The number of jobs that could potentially be created by recycling 
+
+of marketable recyclable materials and all material that is currently recyclable but landfilled is 19,799. 
+
+An additional 1,372 jobs could be created if yardwaste and wood wastes were composted. 
+
+Table 2: Estimated Economic Value and Job Creation of  
+Potentially recoverable Materials Currently Landfilled  
+
+Material Category 
+
+Tons 
+
+Potential Value 
+
+Jobs 
+
+Avoided Disposal Cost 
+
+Total of Potentially Recycled 
+Materials with  
+Market Indexed Value 
+
+Total of Other Potentially  
+Recycled Materials 
+
+1,978,314 
+
+$260,525,025 
+
+13,453 
+
+$85,898,394 
+
+933,227 
+
+$88,090,916 
+
+6,346 
+
+$40,520,735 
+
+Total Yardwaste and Wood Waste 
+
+3,429,291 
+
+Not Calculated* 
+
+1,372 
+
+$148,899,823 
+
+TOTAL 
+
+ $ 348,615,941  
+- No Value unless converted to compost or other product 
+
+6,340,833  
+
+• 
+
+21,171 
+
+         $275,318,969 
+
+An objective of this report is to determine the potential value of recycling that will provide information 
+
+important to decision makers at the state and local levels. 
+
+•  The majority of recycling revenue generated by a Material Recovery Facilities (MRF) comes 
+
+from the denser suite of materials, like fiber, which represents as much as 65% of the weight 
+
+but about 48% of the value. 
+
+•  Beginning in 2014, the general trend in overall average commodity revenue has declined as 
+
+global demand for all commodities, primarily driven by Chinese demand, has declined. This 
+
+has been exacerbated with the implementation of a new policy in China that limits the 
+
+import of recycled materials that do not meet strict quality requirements. 
+
+Page 3 
+
+ 
+ 
+ 
+ 
+• 
+
+It is difficult to project future prices for recycled commodities as the value is closely linked to 
+
+global economic growth and is especially sensitive to the growth in industrialization of 
+
+international markets such as China and India. 
+
+The overall benefit gained from recycling depends on a number of questions, such as:  
+
+•  What is the transport and pre-treatment requirements of the recycled materials?  
+
+•  What kind of materials are produced?  
+
+•  What kind of products are to be replaced by different products using new materials?  
+
+Waste and recyclables that end up in landfills embody lost energy and loss of materials as inputs to 
+
+manufacturing and other products. Furthermore, in a landfill, organic residuals decomposing in 
+
+anaerobic landfill conditions produce landfill gas, primarily methane, which may be of additional 
+
+concern. 
+
+Recommendations  
+
+The State of Ohio should evaluate the characterization of waste and recyclables on a regular basis to 
+
+assess progress towards the recovery of greater quantities of recyclables and to determine how new 
+
+products and consumer behavior are impacting the composition of the waste stream. These 
+
+assessments can assist in the identification of materials that should be targeted for more intensive 
+
+recovery efforts or for the development of end  markets for new materials. In addition to measuring the 
+
+types of materials disposed and recovered, the State of Ohio should focus on: 
+
+•  Support of increased collection of high value material such as Polyethylene Terephthalate 
+
+(PET) and High Density Polyethylene (HDPE) containers and metal containers because there 
+
+are still recoverable quantities in the disposed MSW stream. 
+
+• 
+
+Investigation and support of the future collection and markets for materials that are 
+
+displacing current recovered material, especially in the packaging materials such as Flexible 
+
+Packaging, as these materials are growing in volume; 
+
+•  Measuring  contamination  rates  in  disposed  material at a  MRF  (for  both  particulate 
+
+matter  and moisture) as a means of investigating the impact on the value of material; 
+
+Page 4 
+
+ 
+ 
+ 
+ 
+•  Determining the composition of residuals from MRFs to test recovery efficiency and 
+
+potential for additional processing, especially given the newly developing quality standards 
+
+that are being driven by China’s new material import requirements.   
+
+•  Targeted generator sampling of the most prevalent business types (e.g., grocery stores, 
+
+manufacturing, retail malls, etc.) that generate significant quantities of waste; 
+
+•  Enhanced research into waste generation indicators for certain waste streams, especially 
+
+Food Wastes, to improve future understanding of the types of food waste generated by 
+
+different sectors and to develop sampling plans for this waste stream; and 
+
+•  Calculating energy values in disposed waste for thermal conversion processes if recovery 
+
+rates of potentially recyclable material cannot be increased in a cost effective manner. 
+
+The State of Ohio can leverage its economic development in recycling infrastructure (e.g. Pratt 
+
+Industries paper recycling plant in Wapakoneta; Rumpke Industries glass recycling plant in Dayton) and 
+
+materials management (the Ohio Materials Marketplace) through continued partnerships with industry 
+
+led recycling infrastructure initiatives and the public/private partnerships that are made possible by 
+
+these initiatives.  Leadership from the state can assist regional and local district based efforts to develop 
+
+a strong sustainable market based recycling infrastructure that continues to capture valuable recyclables 
+
+from the ever evolving waste stream.  Roadmaps for partnerships can be developed for each of these 
+
+candidate initiatives that can become the backbone of the state's leadership in sustainable material 
+
+management. 
+
+Page 5 
+
+ 
+ 
+ 
+ 
+ 
+DEVELOPMENT OF A WASTE CHARACTERIZATION  
+
+This study is limited to analysis of the statutory definition of municipal residential and commercial solid 
+
+waste (MSW or solid waste).  Each state characterization that was reviewed has a different definition of 
+
+what material was included in their studies based on their statutory definition and the types of solid 
+
+waste and recycling program requirements. The characterizations from other states and communities 
+
+identified 80 different categories of material that were evaluated, however not every category was 
+
+evaluated within a specific state study. It is important to understand the types and quantities of 
+
+materials generated, the generating sectors, the quantities that are potentially recoverable and those 
+
+that are otherwise disposed to enable sound policy and program design, implementation, and program 
+
+analyses for both the public sector and private sector in the State of Ohio.   
+
+MUNICIPAL SOLID WASTE DEFINITIONS  
+
+The U.S. Environmental Protection Agency (U.S. EPA) defines Municipal Solid Waste (MSW) as “discards 
+
+from residential and commercial sources that do not contain regulated hazardous wastes.” (U.S. EPA, 
+
+State Measurement Program Template, 2013) The U.S. EPA has provided a detailed description of 
+
+materials that are considered MSW and those that are not considered MSW, and the full table is 
+
+appended to this document. Key considerations in the definition of MSW include: 
+
+•  MSW excludes waste from industrial operations, manufacturing, construction and demolition, 
+
+and transportation equipment (automobiles). 
+
+•  MSW excludes sludges and combustion ash. 
+
+Effectively, the U.S. EPA definition of MSW was used in this methodology and is based on the historical 
+
+management of municipal solid waste throughout the country. Although it is common practice to landfill 
+
+materials such as municipal sludge, nonhazardous industrial process wastes, and construction and 
+
+demolition (C&D) debris along with MSW, these materials are not included in the standard scope of 
+
+MSW or a recycling rate. 
+
+Although the State of Ohio has a broad definition of solid waste, the types of materials that the State of 
+
+Ohio manages in the recycling programs are typically considered to be residential and commercial 
+
+wastes that do not include industrial process wastes. As stated in the Ohio EPA State Solid Waste 
+
+Management Plan 2009, MSW is “comprised largely of the products, packaging, food, and yard waste 
+
+trimmings discarded by residential, commercial, institutional, and industrial generators ISW (Industrial 
+
+Page 6 
+
+ 
+ 
+ 
+Solid Waste) is comprised of the non-liquid and nonhazardous wastes generated as the result of an 
+
+industrial or manufacturing process. Technically, non-process waste generated by industries is MSW, not 
+
+ISW. Practically, however, non-process and process ISW are often combined by the generator and cannot 
+
+be discreetly measured”. 
+
+RECYCLING  
+
+Recycling is defined by the U.S. EPA as “the series of activities by which discarded materials are collected, 
+
+sorted, processed, and converted into raw material and returned to the economic mainstream by being 
+
+used in the production of new products. It does not include the use of these materials as a fuel substitute 
+
+or for energy production.” (U.S. EPA, State Measurement Program Template, 2013). Similar detail 
+
+identifying the activities by material that are and are not considered recycling is excerpted from 
+
+“Measuring Recycling: A Guide for State and Local Governments”. Key activities that are not considered 
+
+recycling in this guidance document are: 
+
+•  Combustion of material for energy recovery; 
+
+•  Backyard (onsite) composting of food scraps and yard trimmings; 
+
+•  Reuse (e.g. of refillable packaging, textiles, pallets, plastic products, etc.); 
+
+•  Recycling of non-MSW such as waste from industrial processes; and  
+
+•  Recycling of wood waste or yard trimmings from Construction and Demolition (C&D) 
+
+debris. 
+
+Although the U.S. EPA provides this guidance document for measuring recycling, every state has 
+
+different definitions of materials and activities related to managing those materials that are considered 
+
+for recycling. The varying definitions of recycling, as well as the varying definitions of MSW, by each 
+
+state can affect the methodology for conducting waste characterizations, including what generating 
+
+sources and what specific materials are included in a study. 
+
+Another consideration that complicates the use of waste characterization studies for the development 
+
+of a waste characterization for the State of Ohio is the “evolving ton”, a term being used to describe the 
+
+shift in the overall composition of the municipal solid waste stream over the past 20 years. One of the 
+
+trends responsible for this evolution has been the light weighting of packaging, especially through the 
+
+use of materials like plastics and aluminum that have displaced materials like glass and steel. More 
+
+recently, even rigid plastic packaging formats have started to be displaced by rapidly growing formats in 
+
+flexible packaging. But plastics are not alone in driving the waste shift: Electronic media have played a 
+
+Page 7 
+
+ 
+ 
+ 
+ 
+major role in changing the composition of our recycling stream by reducing the absolute volume of 
+
+newspaper and office paper.  
+
+FIGURE 1: THE EVOLVING TON 
+
+It’s also critical to understand that while more types of plastics are getting collected, complexity has 
+
+increased even within the resin types the recycling system has traditionally handled. In response to 
+
+growing pressure to recycle more, many companies are shifting to “recyclable” materials, often defining 
+
+them as those accepted in community recycling programs.  One of the best examples of this trend has 
+
+been Polyethylene Terephthalate (PET) replacing Polyvinyl Chloride (PVC) or Polystyrene (PS) 
+
+thermoforms and heavier jar and container material like glass.  The unforeseen consequence of this well-
+
+intentioned transition is the recent diversification of PET in the recycling stream, a phenomenon that has 
+
+lowered the yield of usable materials (the PET used in clamshells, blisters and ketchup bottles is not the 
+
+same as that used in a soda bottle). 
+
+METHODOLOGY 
+
+The development of a waste characterization for the State of Ohio is based on a review of statewide and 
+
+municipal waste characterization studies from across the country. Additionally, RRS completed a 
+
+literature review for any new waste characterization studies. RRS developed a national landfill 
+
+Page 8 
+
+ 
+ 
+ 
+ 
+characterization estimation tool based on 80 different landfill characterization studies. These studies 
+
+range from individual municipality studies to statewide studies. For each study, RRS standardized the list 
+
+of materials and summarized the composition of the landfill by percentage of each material. The studies 
+
+are categorized as coming from low-, medium-, or high-diversion communities, since as more material is 
+
+diverted from the landfill the composition of the remaining material changes. The Project Team believes 
+
+that a credible estimation of the percentage of materials that are recyclable, and the value of that 
+
+material, can be developed for the State of Ohio based on the evaluation of these waste 
+
+characterization studies. 
+
+It should be noted that the national and world economy experienced the effects of a significant 
+
+economic downturn in 2008-2009, with the effects impacting several of the studies that were reviewed. 
+
+While it is beyond the scope of this study to quantify the impacts, it can be qualitatively asserted that 
+
+waste generation patterns may have been affected and generation of specific types of material have 
+
+changed for a number of reasons: 
+
+•  Changes in business activity have resulted in absolute and per-capita  decreases  in  waste 
+
+generation. 
+
+•  Construction was lower than  average  for  both  residential  and  non-residential  projects. 
+
+•  Markets for recycled materials, like many commodities markets, dropped precipitously during 
+
+the recession of 2009 and although the markets rebounded in 2010 and 2011, international 
+
+markets for recycled commodities did not recover to the levels prior to the recession. The 
+
+development of China’s National Sword program has also negatively impacted markets in 2018. 
+
+Each state or regional study was evaluated for inclusion in the tool to ensure compatibility with the 
+
+existing studies. The studies were reviewed and evaluated on the basis of thoroughness and accuracy 
+
+(number of samples, geographic and socio-economic sample, seasonal variation of samples, statistically 
+
+valid sample protocols), date conducted, and relevance to the material types under consideration, 
+
+particularly those materials related to inclusion of institutional, commercial and industrial sources. The 
+
+studies were considered accurate if the methodology was based on the ASTM D5231 – 92 Standard Test 
+
+Method for Determination of the Composition of Unprocessed Municipal Solid Waste or a similar 
+
+statewide standard that defined sampling protocols that achieved statistically valid results. 
+
+Based on the unique characteristics of the waste characterization studies the Project Team performed 
+
+a statistical analysis of existing composition  studies to quantify  the effects of  each.  For  example,  the 
+
+Page 9 
+
+ 
+ 
+ 
+waste characterization for states with landfill bans (or strong policy promoting the diversion of organics) 
+
+were compared with those without to determine the deviation from the average. This analysis was 
+
+completed for each of the factors to fully understand the effects of specific policies and conditions now 
+
+present in the State of Ohio.  
+
+RRS reviewed the data from all studies related to their methodology and statistical robustness. All of the 
+
+major state-wide studies utilized the ASTM D5231-92 standard for the collection of data and data 
+
+analysis.  This test method describes procedures for measuring the composition of unprocessed 
+
+municipal solid waste (MSW) by employing manual sorting. This test method applies to determination of 
+
+the mean composition of MSW based on the collection and manual sorting of a number of samples of 
+
+waste over a selected time period covering a minimum of one week. Data presented include mean 
+
+percentages by weight, standard deviations, and statistical confidence intervals (90% confidence 
+
+interval) for each group of data. There were some minor adjustments made in some studies for material 
+
+categories that were generated from a small number of generators. This included studies where small 
+
+quantities less than 0.1% of the total) of specific items were quantified, such as paper bags, used motor 
+
+oil, batteries, aerosol cans, or leaves and grass separate from other brush and trees. Most studies did 
+
+not include these small quantities or leaves and grass as separate categories so these materials were 
+
+combined into broader categories, such as including paper bags in “Low Grade Paper”. 
+
+An approach was developed that utilized the average of the low, medium, and high diversion 
+
+compositions from the review of waste characterizations studies as well as diversion categorizations for 
+
+states with yard waste bans. Each of the studies was classified in one of these categories based on its 
+
+diversion rate (less than 15% for low diversion and greater than 40% for high diversion). Several studies 
+
+also included a breakdown between residential and the institutional, commercial, and industrial (ICI) 
+
+categories. Separate characterizations were created specifically for states with a bottle bill to determine 
+
+the impact of capturing those materials (Glass and PET) outside of the traditional curbside/drop-off 
+
+collection approach on the relative distribution of materials within the waste stream. By averaging 
+
+across several studies, generic profiles for low, medium, and high diversion states and communities 
+
+were developed.  
+
+For example, the Project Team reviewed recent landfill characterization studies from certain states, 
+
+including Pennsylvania, Illinois, Tennessee, and Nebraska, that had specific characterizations for 
+
+residential material. All four of these states have less than 15% diversion. The percentage of standard 
+
+Page 10 
+
+ 
+ 
+ 
+residential recyclables in the residential waste stream was on average 37% and ranged from 35% to 
+
+39%. The percentage of standard residential recyclables in the residential waste stream that was 
+
+landfilled for states categorized as medium diversion (15%–40% statewide) ranged from 19% to 24%. 
+
+The recycling rate in the State of Ohio, which includes residential and commercial materials, was 28.4% 
+
+based on the Ohio EPA Annual Diversion Reports (ADR) Review Forms for calendar year 2016. The 
+
+national average from other characterization studies shows that residential waste is 47% of the waste 
+
+stream. 
+
+The statistical variance and the averages for each of the 80 categories were calculated. The standard 
+
+deviations in the studies were all within reasonable limits of less than 2% for any specific category with 
+
+very negligible variances less than 0.2%, except in a few categories. The categories where there were 
+
+wide discrepancies between the studies were: 1) All Other Paper, 2) Food Waste, 3) Other Compostable 
+
+Organics, 4) Untreated Wood, and 5) Other Non-recyclable materials. A review of the studies identified 
+
+the major issue of deviation was how a particular study defined materials for sorting.  
+
+An example in the food waste category that illustrates how discrepancies are introduced in 
+
+characterizations studies is whether food waste that is in a container that had been opened could be 
+
+counted as a food waste or could be counted in the container category (i.e. plastic container with a lid). 
+
+In addition, based on the studies reviewed and the work that RRS has been conducting relative to 
+
+flexible packaging and plastic films, RRS believes that the characterization of materials is changing driven 
+
+by an emerging category for Flexible Packaging, although many of the studies included this material 
+
+within the Low Density Polyethylene (LDPE) category. 
+
+The final step was to combine the over 80 categories of material that were identified in the 
+
+characterization states into a classification system that typifies broader categories consistent with 
+
+market specifications. RRS consolidated the 80 categories into 24 categories that are consistent with 
+
+currently graded market specifications for the majority of recycled material marketed in the Midwest 
+
+(See Appendix V: Consolidation of Characterization Categories). An average residential composition or a 
+
+composition for combined residential and commercial waste can then be generated for the State of 
+
+Ohio material which does not include imported material.  
+
+Each profile related to the average of the low, medium, and high diversion compositions consists of an 
+
+estimate of per capita generation, and the composition of this material, as well as residential and 
+
+commercial generation and composition from studies that included separate characterizations of those 
+
+Page 11 
+
+ 
+ 
+ 
+sectors. In this manner, a characterization could be applied to each county in Ohio, based on the 
+
+reported tons generated in that county by sector if the waste generation data in the most recent Landfill 
+
+Report provides this level of detail.  
+
+Comparison of Data  
+
+Table 3 illustrates a sample of the comparison of the different analysis conducted to determine the 
+
+variances between different state studies based on the level of diversion and whether the studies 
+
+included both residential and commercial wastes sorts. The table for plastic shows the variability of 
+
+studies for specific categories of material. These characterizations show that there is a difference of 
+
+2.13% in the total plastics from the low estimate to the high estimate. The medium diversion 
+
+characterization is very similar to the bottle bill diversion characterization. 
+
+Table 3: Percentage of High-Volume Plastic Landfilled for Characterization Studies  
+Categorized by Diversion Rate  
+
+Diversion Scenario 
+
+s
+e
+l
+t
+t
+o
+b
+T
+E
+P
+
+s
+e
+l
+t
+t
+o
+B
+E
+P
+D
+H
+
+l
+
+a
+r
+u
+t
+a
+N
+
+t
+o
+n
+s
+e
+l
+t
+t
+o
+B
+E
+P
+D
+H
+
+l
+
+d
+e
+r
+o
+o
+C
+/
+d
+e
+i
+f
+i
+c
+e
+p
+s
+
+s
+e
+d
+u
+l
+c
+n
+i
+(
+E
+P
+D
+L
+
+)
+
+m
+
+l
+i
+f
+
+,
+s
+g
+a
+b
+e
+m
+o
+s
+
+d
+e
+d
+n
+a
+p
+x
+E
+
+e
+n
+e
+r
+y
+t
+s
+y
+l
+o
+P
+
+d
+i
+g
+i
+R
+d
+n
+a
+e
+b
+a
+r
+u
+D
+
+l
+
+i
+
+s
+r
+e
+n
+a
+t
+n
+o
+c
+
+l
+
+s
+c
+i
+t
+s
+a
+P
+r
+e
+h
+t
+o
+
+l
+l
+
+A
+
+l
+
+a
+t
+o
+t
+b
+u
+s
+
+c
+i
+t
+s
+a
+P
+
+l
+
+Low Diversion - Residential & Commercial  
+
+1.09% 
+
+0.15% 
+
+0.84% 
+
+5.73% 
+
+1.02% 
+
+3.95% 
+
+0.65% 
+
+13.46% 
+
+Medium Diversion - Residential & Commercial  
+
+High Diversion - Residential & Commercial  
+
+0.63% 
+
+0.65% 
+
+0.07% 
+
+0.37% 
+
+4.00% 
+
+0.67% 
+
+2.43% 
+
+3.27% 
+
+11.47% 
+
+0.10% 
+
+0.44% 
+
+5.27% 
+
+0.49% 
+
+0.33% 
+
+4.49% 
+
+11.77% 
+
+Low Diversion - Residential  
+
+1.20% 
+
+0.30% 
+
+0.80% 
+
+4.40% 
+
+0.70% 
+
+3.45% 
+
+1.15% 
+
+12.00% 
+
+Medium Diversion - Residential 
+
+0.53% 
+
+0.10% 
+
+0.63% 
+
+4.27% 
+
+0.47% 
+
+2.07% 
+
+2.33% 
+
+10.40% 
+
+High Diversion - Residential  
+
+0.75% 
+
+0.00% 
+
+0.75% 
+
+5.13% 
+
+0.38% 
+
+0.95% 
+
+1.93% 
+
+9.88% 
+
+All of the Great Lakes states (Illinois, Indiana, Michigan, Minnesota, Ohio, Pennsylvania) that were 
+
+evaluated have a yard waste ban in place while an additional 15 states that were evaluated have yard 
+
+waste bans and 11 states have container deposit laws. Only Michigan has a yard waste ban and a 
+
+container deposit law.1 The higher percentage of organics in states without organics management 
+
+1 U.S. Composting Council Regulatory Database and American Biogas Council Organics Recycling Policy Factsheet 
+
+Page 12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                             
+programs is primarily driven by higher percentages of leaves and grass. Leaves and grass make up 3.7 - 
+
+3.9% of the total waste stream in the states without organics management programs.  
+
+Table 4 provides the characterization for all major categories of materials for states categorized as low, 
+
+medium or high diversion. The compositions provided in the table show high variance for the paper, 
+
+organics and other non-recyclable material categories. The discrepancies can be explained because 
+
+more wood is being generated in the commercial sector, and even though restaurants might be included 
+
+in the commercial sector, their contribution is a small percentage of the total commercial waste stream 
+
+than what is seen in the residential stream, and more non-recyclables are present in the commercial 
+
+stream. 
+
+The other comparison that was calculated was to states in the Great Lakes region (Illinois, Michigan, 
+
+Indiana, Wisconsin, New York, and Pennsylvania). These composition estimates were compared to select 
+
+an appropriate composition to be applied to the State of Ohio. A comprehensive table of the percentage 
+
+allocation of all major categories of studies is included in Appendix IV. 
+
+Table 4: Percentage of Categories of Landfilled Materials 
+
+l
+
+a
+t
+o
+t
+b
+u
+s
+
+r
+e
+p
+a
+P
+
+l
+
+a
+t
+o
+t
+b
+u
+s
+
+c
+i
+t
+s
+a
+P
+
+l
+
+l
+
+a
+t
+o
+t
+b
+u
+s
+
+l
+
+a
+t
+e
+M
+
+l
+
+a
+t
+o
+t
+b
+u
+S
+s
+s
+a
+G
+
+l
+
+s
+c
+i
+n
+o
+r
+t
+c
+e
+E
+
+l
+
+l
+
+a
+t
+o
+t
+b
+u
+S
+
+d
+o
+o
+W
+a
+t
+o
+T
+
+l
+
+l
+
+a
+t
+o
+t
+b
+u
+S
+c
+i
+n
+a
+g
+r
+O
+
+d
+r
+a
+H
+r
+e
+h
+O
+
+e
+l
+c
+y
+c
+e
+R
+o
+t
+
+-
+n
+o
+N
+r
+e
+h
+t
+O
+
+l
+
+e
+b
+a
+l
+c
+y
+c
+e
+R
+
+l
+
+a
+i
+r
+e
+t
+a
+M
+
+Low Diversion - Residential 
+& Commercial  
+Medium Diversion - 
+Residential & Commercial  
+
+High Diversion - 
+Residential & Commercial  
+Low Diversion - Residential  
+Medium Diversion - 
+Residential 
+High Diversion - 
+Residential 
+Great Lakes Residential 
+Great Lakes Residential and 
+Commercial 
+
+32.69% 
+
+13.88% 
+
+5.33% 
+
+3.28% 
+
+2.23% 
+
+8.67% 
+
+20.79% 
+
+6.23% 
+
+6.90% 
+
+21.30% 
+
+11.63% 
+
+4.93% 
+
+2.00% 
+
+2.50% 
+
+11.87% 
+
+23.90% 
+
+6.20% 
+
+15.67% 
+
+18.43% 
+
+12.77% 
+
+4.80% 
+
+2.54% 
+
+0.70% 
+
+7.61% 
+
+36.35% 
+
+4.56% 
+
+12.24% 
+
+27.30% 
+
+12.75% 
+
+5.65% 
+
+3.95% 
+
+2.15% 
+
+6.35% 
+
+25.85% 
+
+7.65% 
+
+8.35% 
+
+23.60% 
+
+11.10% 
+
+4.57% 
+
+2.43% 
+
+2.50% 
+
+6.27% 
+
+33.37% 
+
+7.70% 
+
+8.47% 
+
+18.85% 
+
+12.09% 
+
+4.87% 
+
+2.80% 
+
+0.37% 
+
+3.77% 
+
+32.54% 
+
+3.45% 
+
+21.28% 
+
+28.09% 
+
+13.06% 
+
+4.89% 
+
+4.14% 
+
+2.27% 
+
+7.49% 
+
+28.75% 
+
+7.03% 
+
+4.29% 
+
+27.52% 
+
+14.04% 
+
+5.77% 
+
+2.88% 
+
+2.00% 
+
+9.81% 
+
+20.92% 
+
+5.73% 
+
+11.33% 
+
+Page 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE STATE OF OHIO WASTE CHARACTERIZATION 
+
+RRS recommends utilizing the Medium Diversion Residential and Commercial category of materials 
+
+listed in Table 5 because the paper, plastic, metal and glass categories are within small percentage 
+
+differences from the medium and high diversion percentages for both residential and commercial 
+
+combined, as well as from residential only. This recommendation is the most useful approach for the 
+
+State of Ohio because solid waste that is currently landfilled in the state is reported with both residential 
+
+and commercial waste combined. 
+
+Page 14 
+
+ 
+ 
+ 
+Table 5: The State of Ohio Waste Characterization by Percentage* 
+
+Material Type 
+
+High Grade - White and Colored Ledger 
+
+Mixed/ unspecified Office 
+Low Grade - general (OMG), Boxboard, Paper 
+Bags, Phonebooks other recyclables 
+
+Old Newspaper (ONP) 
+Old Corrugated Cardboard (OCC) 
+Cartons, Aseptics and Poly-coated 
+Compostable/ soiled and all other paper 
+
+Paper Subtotal 
+
+PET bottles and containers 
+HDPE Bottles Natural & Colored 
+Plastic bottles and #3-7 (general) 
+All other Plastics and Packaging, LDPE, 
+Polystyrene (foam), Durable and Rigid containers 
+and PP tubs) 
+Plastic Subtotal 
+
+Aluminum cans 
+Ferrous metals (includes Tin/Steel Cans, tin) 
+Non-ferrous metals, Aluminum (foil) and Other 
+Metal and Aerosol Cans 
+
+Metal Subtotal 
+
+Glass - general including containers 
+Other Glass 
+Glass Subtotal 
+
+Electronics - general, computer related, CRT 
+White goods (appliances) 
+
+Electronics Subtotal 
+
+Medium 
+Diversion - 
+Residential and 
+Commercial  
+
+1.267% 
+0.400% 
+
+4.100% 
+
+1.733% 
+4.867% 
+0.067% 
+8.867% 
+21.300% 
+0.667% 
+0.433% 
+0.167% 
+
+10.367% 
+11.633% 
+0.200% 
+3.033% 
+
+1.700% 
+4.933% 
+1.233% 
+0.767% 
+2.000% 
+2.133% 
+0.367% 
+2.500% 
+
+Wood Subtotal 
+
+Yard waste - general 
+Food 
+
+6.267% 
+7.867% 
+17.500% 
+8.000% 
+Other R/C Organics, Branches and Stumps 
+33.367% 
+Yard Waste and Organic Subtotal 
+7.700% 
+Other Textiles, Batteries, Tires, Carpet, Light Bulbs 
+8.467% 
+Other Non- Recyclable Materials 
+Total 
+100.000% 
+*Numbers may not total due to rounding errors. Percentages are truncated to 3 decimal places. 
+
+11.867% 
+5.700% 
+13.067% 
+5.133% 
+23.900% 
+6.200% 
+15.667% 
+100.000% 
+
+Page 15 
+
+Medium 
+Diversion - 
+Residential 
+
+All 
+Residential 
+and 
+Commercial  
+
+ GL 
+Residential 
+and 
+Commercial 
+
+1.167% 
+0.567% 
+
+1.320% 
+0.656% 
+
+1.432% 
+0.667% 
+
+6.000% 
+
+2.833% 
+2.600% 
+0.033% 
+10.400% 
+23.600% 
+0.833% 
+0.733% 
+0.400% 
+
+9.133% 
+11.100% 
+0.300% 
+2.667% 
+
+1.600% 
+4.567% 
+1.700% 
+0.733% 
+2.433% 
+2.067% 
+0.433% 
+2.500% 
+
+5.270% 
+
+2.866% 
+6.090% 
+0.234% 
+9.106% 
+25.542% 
+1.151% 
+0.882% 
+0.644% 
+
+10.171% 
+12.848% 
+0.483% 
+3.028% 
+
+1.818% 
+5.329% 
+2.460% 
+0.689% 
+3.149% 
+1.073% 
+0.272% 
+1.345% 
+
+5.716% 
+
+3.325% 
+9.090% 
+0.183% 
+7.109% 
+27.522% 
+1.289% 
+1.517% 
+0.511% 
+
+10.723% 
+14.040% 
+0.480% 
+3.917% 
+
+1.371% 
+5.767% 
+2.429% 
+0.448% 
+2.878% 
+1.755% 
+0.244% 
+1.999% 
+
+7.252% 
+3.603% 
+16.924% 
+3.526% 
+24.053% 
+5.139% 
+15.342% 
+100.000% 
+
+9.807% 
+4.098% 
+13.291% 
+3.530% 
+20.920% 
+5.733% 
+11.336% 
+100.000% 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The estimate based on a medium diversion, including residential and commercial wastes, provides a 
+
+reasonable approach for the State of Ohio given that the state has a 28.4% diversion rate and that the 
+
+Ohio waste reporting data combines both residential with commercial material. The medium diversion 
+
+estimate shows a lower percentage of compostable materials relative to a residential only estimate, 
+
+where the higher percentages occur when the commercial sector is less representative in the waste 
+
+stream.  
+
+Table 6 represents the characterization of waste by weight based on the total disposed waste 
+
+(9,587,953 tons) from residential and commercial generators reported on the Ohio EPA ADR Review 
+
+Forms for calendar year 2016.  The estimate weight of landfilled material by category was calculated by 
+
+multiplying the quantity of total landfilled material by the average percent of material types selected 
+
+that are representative of the potential characterizations similar to the State of Ohio.  
+
+Page 16 
+
+ 
+ 
+ 
+ 
+Table 6: State of Ohio, OH Waste Characterization by Weight* 
+
+Material Type 
+
+High Grade - White and Colored Ledger 
+Mixed/ unspecified Office 
+Low Grade - general (OMG), Boxboard, Paper 
+Bags, Phonebooks other recyclables 
+ONP 
+OCC 
+Cartons, Aseptics and Poly-coated 
+Compostable/ soiled and all other paper 
+
+Paper Subtotal 
+
+PET bottles and containers 
+HDPE Bottles Natural & Colored 
+Plastic bottles and #3-7 (general) 
+All other Plastics and Packaging, LDPE, 
+Polystyrene (foam), Durable and Rigid containers 
+and PP tubs) 
+Plastic Subtotal 
+
+Aluminum cans 
+Ferrous metals (includes Tin/Steel Cans, tin) 
+
+Non-ferrous metals, Aluminum (foil) and Other 
+Metal and Aerosol Cans 
+
+Metal Subtotal 
+
+Glass - general including containers 
+
+Other Glass 
+
+Glass Subtotal 
+
+Electronics - general, computer related, CRT 
+White goods (appliances) 
+
+Electronics Subtotal 
+Wood Subtotal 
+
+Yard waste - general 
+Food 
+Other R/C Organics, Branches and Stumps 
+
+Medium 
+Diversion - 
+Residential 
+and 
+Commercial  
+121,479 
+38,352 
+
+Medium 
+Diversion - 
+Residential 
+
+All 
+Residential 
+and 
+Commercial  
+
+ 111,859  
+ 54,332  
+
+ 126,589  
+ 62,928  
+
+393,106 
+
+ 575,277  
+
+ 505,247  
+
+166,159 
+466,646 
+6,424 
+850,164 
+ 2,042,234  
+63,952 
+41,516 
+16,012 
+
+ 271,659  
+ 249,287  
+ 3,196  
+ 997,147  
+ 2,262,757  
+ 79,900  
+ 70,312  
+ 38,352  
+
+ 274,816  
+ 583,897  
+ 22,410  
+ 873,047  
+ 2,448,935  
+ 110,323  
+ 84,600  
+ 61,745  
+
+993,983 
+
+ 875,700  
+
+ 975,234  
+
+1,115,367 
+19,176 
+290,803 
+
+ 1,064,263  
+ 28,764  
+ 255,679  
+
+ 1,231,901  
+ 46,309  
+ 290,327  
+
+162,995 
+
+ 153,407  
+
+ 174,347  
+
+472,974 
+118,219 
+
+73,540 
+
+ 437,850  
+ 162,995  
+
+ 510,983  
+ 235,867  
+
+ 70,312  
+
+ 66,027  
+
+191,759 
+204,511 
+35,188 
+239,699 
+1,137,802 
+546,513 
+1,252,858 
+492,150 
+2,291,521 
+594,453 
+1,502,145 
+ 9,587,953  
+
+ 233,307  
+ 198,151  
+ 41,548  
+ 239,699  
+ 600,845  
+ 754,252  
+ 1,677,892  
+ 767,036  
+ 3,199,180  
+ 738,272  
+ 811,780  
+ 9,587,953  
+
+ 301,894  
+ 102,895  
+ 26,085  
+ 128,980  
+ 695,347  
+ 345,410  
+ 1,622,695  
+ 338,041  
+ 2,306,146  
+ 492,772  
+ 1,470,996  
+ 9,587,953  
+
+Yard Waste and Organic Subtotal 
+Other Textiles, Batteries, Tires, Carpet, Light Bulbs 
+Other Non- Recyclable Materials 
+Total 
+*Numbers may not total due to rounding errors. Category equivalents may not be the result of 
+multiplying the total waste generation multiplied by the truncated percentages in Table 5 due to 
+rounding. 
+
+Page 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ECONOMIC IMPACT 
+
+The analysis of the economic impact of recycling includes an evaluation of the recyclable market value of 
+
+materials, market trends, and a discussion of the recycled commodity market drivers. The economic and 
+
+environmental impact of current and potential recyclables was calculated to provide information about 
+
+the revenue-generating potential of those recycled commodities.  Materials collected and processed in a 
+
+recycling program are considered commodities, except for the materials that are not identified as 
+
+acceptable materials and become a residue for disposal when the materials are processed into 
+
+marketable commodities. This means that the total collected tonnages must yield a value that 
+
+contributes to healthy, stable recycling programs, in spite of market demand fluctuations and associated 
+
+price increases or decreases.  
+
+Recycling opportunities vary from one municipality to the next. In the State of Ohio, paper, corrugated 
+
+cardboard, paperboard, plastics (Polyethylene Terephthalate (PET) and High Density Polyethylene 
+
+(HDPE)), glass, and metal are generally collected. Several municipalities also collect other plastics (#4-7), 
+
+cartons (gable top and aseptic) and organics. Many cities and towns in the state have privately operated 
+
+reuse centers, flea markets or second-hand shops, which also help promote recycling and reuse. 
+
+THE RECYCLING BUSINESS PROPOSITION 
+
+Arrangements with a Material Recovery Facility (MRF) in which haulers or processors rebate some 
+
+revenue to communities has become a common practice, based on the cost per ton using a blended 
+
+commodities pricing index. Taking competitive bids for recyclable processing can maximize the revenue 
+
+that municipalities can receive for the recycled commodities. Many municipalities do not operate a MRF 
+
+but use a contractor to process and market their recyclables. Communities can choose to request MRF’s 
+
+to share in the market value of materials that are sold, as contracts are prepared. MRF operations are 
+
+usually covered by the tipping fee and may receive additional compensation based on the prices for 
+
+recyclables. 
+
+Page 18 
+
+ 
+ 
+ 
+Utilizing the Average Commodity Revenue (ACR)2 index in a contractual approach is one of the 
+
+mechanisms for a community to hedge the risks of volatile swings in the value of recycled commodities. 
+
+This approach provides flexibility and helps to maximize revenues. A market share arrangement may 
+
+include an established floor price, which guarantees a minimum price per ton paid to the community for 
+
+materials brought to the MRF. The floor price can be fixed based on the market value of a select number 
+
+of items or the total mix of recyclable materials collected. When the market value of the recyclable 
+
+tonnages exceeds the established floor price, the community and the MRF share in the value of the sold 
+
+commodities, based upon an established percentage split.  
+
+The ACR is also useful in monitoring fee based contracts where the community pays a fixed fee for 
+
+processing. Many MRFs have structured their fees under the assumption that the ACR  would provide 
+
+enough material revenue to offset the difference between the fee revenue and the operating costs. 
+
+Given the recent dramatic downturn in commodity revenue, MRFs have been renegotiating fee based 
+
+contracts to increase fees to recover costs or dropping materials from collection and processing where 
+
+the revenue from a specific material does not cover the costs of processing that material.  
+
+Figure 2 represents the ACR generated from a representative composition of recovered material over 
+
+the past 10 years. During the first period from December 2008 to September 2009, the recession was in 
+
+full-swing, but fiber prices had not yet fallen. The ACR index began to increase in late 2010 carried by the 
+
+higher fiber prices. The period (January 2011 to November 2011) portrays overall higher prices and the 
+
+higher ACR price as a result of higher demand. Beginning in 2014, the general trend in overall average 
+
+commodity revenue has declined as global demand for all commodities, primarily driven by Chinese 
+
+demand, has declined.  
+
+After accounting for negative-value glass, which is not necessarily the market condition in all Ohio 
+
+market areas due to the presence of Rumpke’s glass beneficiation plant, and residue in the recycling 
+
+2 A commodity price index is a fixed-weight index or (weighted) average of selected commodity prices, which may be based on 
+spot or futures prices. It is designed to be representative of the broad commodity asset class or a specific subset of 
+commodities, such as energy or metals. It is an index that tracks a basket of commodities to measure their performance.  
+
+Page 19 
+
+ 
+ 
+ 
+                                                             
+ 
+stream, the blended value per ton, or Average Commodity Revenue value was estimated at $64.85 per 
+
+ton as of September 2018 in the Midwest region. 
+
+Several trends can be seen in the graph, especially in terms of rank in per ton prices for materials. 
+
+Aluminum tends to sit much higher in price while experiencing slightly less of the volatility found in #1 
+
+and #2 plastics. PET and Colored HDPE have switched rank several times since 2008. In fact, all plastics 
+
+have experienced peaks and valleys at different points over time. There is less volatility in commingled 
+
+plastics #1-7 due to the broader range of materials although the unit price is lower due to the mixed 
+
+bales. Finally, both steel and glass dropped in value due to the current global downturn in commodity 
+
+values; however, they remain relatively stable compared to other materials. 
+
+FIGURE 2: AVERAGE COMMODITY REVENUE (ACR) ANALYSIS 
+
+Historic Composition Average Commodity Revenue
+
+$160
+
+$140
+
+$120
+
+$100
+
+$80
+
+$60
+
+$40
+
+$20
+
+$0
+
+9/2009
+
+1/2010
+
+5/2010
+
+9/2010
+
+1/2011
+
+5/2011
+
+9/2011
+
+1/2012
+
+5/2012
+
+9/2012
+
+1/2013
+
+5/2013
+
+9/2013
+
+1/2014
+
+5/2014
+
+9/2014
+
+1/2015
+
+5/2015
+
+9/2015
+
+1/2016
+
+5/2016
+
+9/2016
+
+1/2017
+
+5/2017
+
+9/2017
+
+1/2018
+
+5/2018
+
+9/2018
+
+Mixed Paper
+Corrugated Containers (OCC)
+Glass 3 Mix
+Steel Cans (Sorted, Densified)
+Natural HDPE (Baled,picked up)
+Comingled (#3-7, Baled, picked up)
+
+Sorted Residential Papers and News (SRPN)
+Aseptic Cartons
+Aluminum Cans (Sorted, Baled)
+PET (Baled,picked up)
+Colored HDPE (Baled,picked up)
+
+According to the analysis, a majority of recycling revenue comes from the denser suite of materials like 
+
+fiber, which represents as much as 65% of the weight and about 48% of the value per processed ton 
+
+generated at an average MRF (see Figure 3). Aluminum, which is about 1.1% of a processed ton by 
+
+Page 20 
+
+ 
+ 
+ 
+ 
+ 
+weight, accounts for about 14.4% of the revenue.  Plastics, mostly PET and HDPE, meanwhile, represent 
+
+about 6.7% of the weight of a processed ton and about 20.8% of the revenue.  
+
+An analysis of the ACR approach to commodity sales is illustrated in Figure 3. Pulling from numerous 
+
+recycling commodity processing reports from MRFs across the U.S., RRS determined  the average 
+
+weight composition of  incoming materials to MRFs, which is represented on  the left side  of  the Figure 
+
+3.  The  right side  represents the average commodity revenue per ton of  processed material and 
+
+excludes residue.  The  figure was  updated in October 2017  and continually fluctuates with markets 
+
+and recycling participation.   MRF operators frequently adapt their operations to respond to these price 
+
+indexes or risk missing out on revenue, regardless of equipment, techniques or contamination. 
+
+FIGURE 3: THE RECYCLING BUSINESS PROPOSITION  
+
+1.2%
+1.1%
+1.3%
+2.0%
+2.9%
+1.1%
+
+0.6%
+
+27.1%
+
+13.1%
+
+39.9%
+
+y
+t
+i
+t
+n
+a
+u
+Q
+
+f
+o
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+9.8%
+
+Mixed Paper
+Cardboard (OCC)
+Mixed Glass
+Steel Cans
+Natural HDPE #2
+
+l
+
+e
+u
+a
+V
+f
+o
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+0.3%
+3.5%
+8.1%
+
+6.9%
+
+5.5%
+
+-6.3%
+0.6%
+
+15.8%
+
+23.0%
+
+35.9%
+
+6.9%
+
+Newspaper (ONP)
+Aseptic and Gable Top Containers
+Aluminum Cans
+PET #1
+Colored HDPE #2
+
+Page 21 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COMMODITY PRICE INDEXES 
+
+There is not one “unifying” Price Index that can be used for calculating an ACR for either historical 
+
+transactions or current pricing that can be applied for all commodities.  RRS recommends the following 
+
+pricing indices by commodity group, and is very confident that, within the limitations of an index’s 
+
+behavior, the following indices are the best available for tracking current and historical pricing. Readily 
+
+available indices were thoroughly analyzed, rated and their methods analyzed.  RRS conducted 
+
+confidential interviews with end market representatives and received feedback on each commodity 
+
+before arriving at the conclusions about market indexes. All the indices have 2 or more years of data for 
+
+the commodities listed.  Each has published methodologies.  Finally, each is overwhelmingly preferred 
+
+by the end markets and traders of the respective commodities.   
+
+•  Paper- RRS recommends the on-line RISI (aka Official Board Markets (OBM), Yellow Sheet, Pulp and 
+
+Paper Price Index (PPI)) platform.  The paper market by far is the most “social network” and is based 
+
+on trust relationships, loyalty, quantity, and quality reputation- these matter a lot in the paper 
+
+world.   The language used by the market for trading overwhelmingly is the RISI Pricing, using 
+
+Institute for Scrap recycling Industries (ISRI) grade specifications, at the beginning of each month. 
+
+The RISI index historically has been used more as a floor price for most grades, except in the current 
+
+topsy-turvy market. RISI uses over 80 sources. 
+
+•  Plastics- Recyclingmarkets.net (RMN).  This is the newest recommended index and has not 
+
+established a firm culture, like RISI or American Metals Market (AMM).  It also has the least available 
+
+research.   All players in the plastic value chain believe this is an accurate index for contracting, 
+
+when it comes to PET or HDPE  
+
+•  Glass- Recyclingmarkets.net- Glass pricing on RMN is the only authoritative index available.   Glass 
+
+pricing is very freight and quality dependent.   
+
+•  Metals- American Metal Market (AMM) - Metal trading is the most orderly market and real 
+
+published market transactions augment market surveys conducted.  The metal market is over 100 
+
+years old and all pricing is based on London Metal Exchange (LME) pricing for both virgin ingot and 
+
+scrap (as a percentage of pure aluminum 99.7% ingot).  AMM is the trusted source, has twice 
+
+monthly published pricing, and the LME cash settlement price is the indicator used for both 
+
+Aluminum Used Beverage Containers (UBC) and steel cans.  Deductions are made for quality, 
+
+moisture, and other services provided by the buyer, so the index price is the ceiling best price.     
+
+Page 22 
+
+ 
+ 
+ 
+Although the pricing indices indicated above are used overwhelmingly for the material described, the 
+
+prices quoted historically are representative points of reference, and not fully accurate for any of them. 
+
+For instance, while paper trading is a ‘relationship-based’ activity and the index is the indicator of the 
+
+floor, plastic markets have more to do with very local conditions and freight, and metal is traded at the 
+
+index price, less deducts for quality, freight, and services rendered.  Finally, glass is very freight-
+
+dependent and can’t be transported long distances before the freight costs outweigh the market value.   
+
+Pricing indices have performed poorly in predicting the downturn pricing accurately.  As late as October 
+
+2017, a short surge in the buying of China-bound commodities resulted in higher than actual November 
+
+prices, though orders continued to fall, and import/export licenses levels were curtailed.  The indices have 
+
+also  been  conservative,  until  March  2018,  in  predicting  magnitude  of  price  movement  relative  to  real 
+
+prices experienced, especially for bulk grade paper.     
+
+The State of Ohio should not underestimate the impact of the Chinese policies to short-term or long-term 
+
+pricing and its use of market indices.  It reflects a changing Chinese recycled scrap industry paradigm from 
+
+a volume-based economy to a quality-based economy for scrap imported there.  Short term is a resultant 
+
+unmet demand inside China, with prices, for instance, of Old Corrugated Cardboard (OCC) reaching $600 
+
+per short ton.  This structural shift is changing world recovered paper patterns.   
+
+To further understand pricing dynamics, the State of Ohio is best served by becoming a bigger part of 
+
+the market community.  Some of the following best practices will augment price understanding. The 
+
+State of Ohio should become part of the End Market Community by shepherding resources towards the 
+
+following activities: 
+
+• 
+
+Join local, state and North American Associations for each type of commodity;  
+
+•  Build a network of go-to contacts:  traders, MRFs, mills, and exporters and keep regular contact.  
+
+Paper especially requires this outreach and local pricing is best determined having this as an 
+
+input to index pricing behavior; 
+
+•  Understand recovered markets through tours and discussions; 
+
+•  Use other Indices and Periodicals to check pricing and trends. 
+
+Page 23 
+
+ 
+ 
+ 
+ 
+ 
+JOBS AND ECONOMIC DEVELOPMENT 
+
+Based on published reports of job creation for recycling, an assessment of the number of jobs created by 
+
+recycling and an assessment of the number of jobs that could be created by increasing the recycling rate 
+
+has been performed. Recycling is a diverse industry. Securing these raw materials for manufacturing 
+
+through recycling is an integrated system that starts with collection of materials from the curb, at drop-
+
+off centers or from businesses. The U. S. Recycling Economic Information Study (REI)1 identified 26 
+
+different types of recycling businesses from collection to manufacturing, such as processing, equipment 
+
+manufacturing, foundries, education, and training. A study3 on the state of composting in the U.S. stated 
+
+the “Utilizing 10,000 tons of finished compost annually in green infrastructure can sustain one new 
+
+business. For every 10,000 tons of compost used annually by these businesses, 18 full time equivalent 
+
+jobs can be sustained.” The report further states that composting operations alone sustain four jobs for 
+
+every 10,000 tons per year they process. 
+
+Potentially recyclable materials encompass newspapers, bottles and cans, glass, steel, textiles, organics, 
+
+industrial materials such as asphalt, concrete, fly ash, construction and demolition debris, and 
+
+electronics. The list of potentially recyclable materials is lengthy and could be increased with targeted 
+
+governmental support. 
+
+Studies have been undertaken over the past years that look at recycling and waste diversion activities 
+
+(also called materials management) with an eye to determining what impact recycling and waste 
+
+diversion have on the economy, both in individual states as well as on the United States as a whole. 
+
+Recycling is cost competitive with other extractive industries. As a driver of economic activity, the 
+
+recycling industry compares favorably to heavy industries, such as automobile manufacturing and 
+
+mining. It outpaces the solid waste disposal industry for job creation (see Table 7 below) and recycling 
+
+adds value to materials and contributes to growing the labor force. Recycling supports U.S. 
+
+manufacturing jobs and increases U.S. competitiveness through cost savings. The following table 
+
+identifies  the range of jobs that are related to the use of recycled material and the potential of job 
+
+creation if all potentially recyclable materials were recovered. 
+
+3 State of Composting in the U.S., Institute for Local Self-Reliance, July 2014 
+
+Page 24 
+
+ 
+ 
+ 
+ 
+                                                             
+Table 7: Recycling  Jobs Created 
+
+Types of Operation 
+
+Computer Reuse 
+Textile Reclamation 
+Misc. Durables Reuse 
+Wooden Pallet Repair 
+Recycling-based Manufacturers 
+Paper Mills 
+Glass Product Manufacturers 
+Plastic Product Manufacturers 
+Conventional Materials Recovery Facilities 
+Composting 
+Landfill & Incineration 
+*TPY = tons per year  of recycled material 
+
+Jobs per 10,000 
+TPY* 
+296 
+85 
+62 
+28 
+25 
+18 
+26 
+93 
+10 
+4 
+1 
+
+Table 8 presents the calculated potential level of economic impact per 10,000 tons of additional 
+
+diversion, including the creation of 68 jobs plus an additional 4 jobs related to processing organics at 
+
+compost facilities. An estimate of the annual cost to recover 10,000 tons, which includes trucks for 
+
+collection, carts and MRF operations as well as potential market revenue and the avoided disposal costs, 
+
+provides an overview of the potential economic growth of increased diversion. The economic growth 
+
+will come from the market value of recovered material, investment in collection and processing 
+
+infrastructure, job growth, efficiencies in transport and collection, and decreased disposal costs for local 
+
+government.  
+
+Page 25 
+
+ 
+ 
+ 
+ 
+ 
+Table 8: Economic Development Impact of  
+processing 10,000 Tons of Recyclables 
+
+Single-stream Material (10,000 Tons) 
+
+Annual Capital Investment4 
+Collection Trucks  
+Carts  
+MRF Infrastructure 
+
+Market Efficiencies5 
+Avoided Disposal 
+Material Value* 
+
+Job Growth 
+
+$406,250  
+$500,000  
+$1,225,000  
+$2,131,250  
+
+$434,200  
+$648,500  
+$1,082,700  
+
+Material Collection 
+MRF Operations 
+Plastic Manufacturing 
+Glass Manufacturing 
+Paper Mills 
+Recycling-Based Manufacturers 
+Total Number of Jobs with Recycling 
+Compost Processing 
+Total Number of Jobs with Composting 
+
+• 
+
+Based on Average ACR - Midwest 
+
+10 
+10 
+9 
+4 
+10 
+25 
+68 
+4 
+72 
+
+Across the state, local communities have varied programs collecting a range of different materials.  
+
+Some include glass; others do not.  Some collect all plastic; others just plastic bottles.  Many 
+
+communities have moved to single-stream programs, others still source separate at drop-off 
+
+convenience centers or collect material in dual streams (fiber and containers).  Some single-stream 
+
+programs accept cartons (gable-top containers and juice/wine/soup boxes), which are a growing portion 
+
+of the waste stream, and others do not. These are just a few examples of the variation in collection and 
+
+4 Collection trucks:  10 @ $325,000 each = $3.25 million, investment amortized over 8 years (principal only) equals 
+
+$406,250.  Carts: @ $50/95-gallon cart, estimated 50,000 carts needed per 10,000 tons per year (400 pounds per household 
+
+per year), amortized over 5 years (principal only).  MRF Infrastructure:  Building amortized over 20 years, equipment over 
+
+10. 
+
+5 Avoided Disposal:  Residential disposal cost estimate based on $43.42/ton tipping fee.  Material Value:% mix of single-
+
+stream material based on Resource Recycling “A Common Theme,” Collins, S. February 2012.  Value is based on pricing from 
+
+material value chart above. 
+
+Page 26 
+
+ 
+ 
+ 
+  
+  
+ 
+                                                             
+processing programs. The consistent collection of  recyclable material that meet end market 
+
+specifications will impact markets and job creation.  
+
+The U.S. Scrap Recycling Industry Creates Jobs in the State of Ohio 
+
+An analysis of the impact of jobs related to the scrap recycling industry conducted by the Institute of 
+
+Scrap Recycling Industries (ISRI) that includes residential, commercial and industrial recycling provides a 
+
+broad overview of the impact on the State of Ohio. The ISRI analysis stated the following conclusions: 
+
+“From the earliest known uses of scrap thousands of years ago, to the optical scanners, x-rays, 
+
+air jets, high-tech shredders and other technologically advanced equipment used today; scrap 
+
+recycling has evolved into a major industry dedicated to transforming end-of-life products to 
+
+create new commodity grade materials that boost national, state and local economies. 
+
+With a continuing societal focus on protecting our natural resources, energy savings and 
+
+reducing greenhouse gas emissions, the scrap recycling industry is recognized as one of the 
+
+world’s first green industries, while playing a prominent role as an economic leader, job creator, 
+
+major exporter and environmental steward. In fact, the people and firms that purchase, process 
+
+and broker old scrap to be manufactured into new products provide 16,673 people with good 
+
+jobs in Ohio.6 
+
+Table 9: The Economic Impact of the Scrap Recycling Industry2 
+
+Jobs 
+Wages 
+Economic 
+Impact 
+
+Direct 
+8,376 
+$628,080,000 
+$2,537,825,50
+0 
+
+Supplier 
+10,003 
+$641,625,800 
+ 2,214,870,500 
+
+Induced 
+11,719 
+$572,732,400 
+ 1,949,230,00
+0 
+
+Total 
+30,098 
+ 1,842,438,200 
+ 6,701,926,000 
+
+6 Based on the Economic Impact of the Scrap Recycling Industry in the United States (2015), produced for the Institute of 
+Scrap Recycling Industries, Inc. by John Dunham and Associates, 2017. 
+
+Page 27 
+
+ 
+ 
+ 
+ 
+ 
+                                                             
+ 
+ISRI states that 8,376 jobs are being supported by the manufacturing and brokerage operations of the 
+
+scrap recycling industry in the State of Ohio in 2017.
+
+7 These are good jobs paying an average wage of 
+
+$61,200. In addition to this, the scrap recycling industry through suppliers and the indirect impact of the 
+
+industry’s expenditures supports 21,722 jobs.8 
+
+•  All of this activity generates $6.7 billion in economic benefits in Ohio. 
+
+•  When all scrap materials are considered, the U.S. scrap recycling industry accounts for 
+
+0.603%  of  the  nation’s  total  economic  activity, 9  making  it  similar  in  size  to  the  data 
+
+processing and hosting industry, the dental industry, and the automotive repair industry. 
+
+•  The  value  of  the  scrap  sold  in  Ohio  is  created  through  the  capital  and  job  intensive 
+
+processing operations of the American scrap recycling industry that transforms old and 
+
+obsolete  materials  into  commodities  that  meet  the  exacting  needs  of  manufacturers 
+
+worldwide. This not only benefits workers, but also the government. All told, the scrap 
+
+recycling industry generates $444.84 million in tax revenues for the federal government 
+
+and $264.19 million in state and local revenues.” 
+
+7 This includes firms involved in the purchasing, processing, recycling and brokering of scrap materials including ferrous and 
+
+nonferrous metals, paper, electronics, rubber, plastics, glass and textiles. 
+
+8 Direct impacts are those associated with scrap processors and brokers. Supplier impacts are associated with firms 
+
+providing goods and services to scrap recyclers and brokers, including peddlers, and induced impacts are those resulting 
+
+from the re-spending of wages by workers in the direct and supplier sectors. 
+
+9 Bureau of Economic Analysis.  GDP based on fourth quarter 2017, value of $ 19.386 trillion, see: Gross Domestic Product: 
+
+Fourth Quarter and Annual 2017 (Third Estimate); Corporate Profits: Fourth Quarter and Annual 2016, March 27, 2017. 
+
+Page 28 
+
+ 
+ 
+ 
+ 
+ 
+                                                             
+ECONOMIC IMPACT OF LANDFILLED RECYCLABLES  
+
+RRS estimated the value of materials that are recycled by most programs and that also have known 
+
+commodity value as published in indexes. Table 10 identifies the quantity of these specific materials and 
+
+multiplied the quantity of material by a specific market index to determine the values of the material 
+
+that is currently landfilled. In addition, an estimate of the potential value of materials that are often 
+
+targeted for recovery but that are not typically collected in curbside collection programs. The three 
+
+highest value material that are currently landfilled are non-ferrous metals (aluminum), Steel cans, and 
+
+Old Corrugated Cardboard. 
+
+Table 10: Value of Landfilled Material  
+
+RECOVERBLE COMMODITY * 
+
+Non-ferrous metals, Aluminum (foil) and Aerosol Cans 
+Steel Cans (Sorted, Densified) 
+Old Corrugated Cardboard (OCC) 
+Aluminum Cans (Sorted, Baled) 
+PET (Baled, picked up) 
+Soft Mixed Paper (Does not include soiled and 
+Compostable Papers) 
+Colored HDPE (Bailed, picked up) 
+Sorted Residential Papers and News (SRPN) 
+Natural HDPE (Bailed, picked up) 
+Aseptic Cartons 
+Glass 3 Mix 
+Comingled (#3-7, Baled, picked up) 
+TOTAL POTENTIAL RECYCLABLE  
+Jobs Created from Potential Recoverable 
+LDPE (includes some bags, film) 
+Durable and Rigid containers (HDPE Rigid (Baled) 
+Computers 
+Textiles 
+TOTAL OTHER MATERIAL  
+Jobs Created from Other Material 
+TOTAL RECYCLABLES AND OTHER  
+Jobs Created Recycling Materials 
+RECOVERABLE ORGANICS 
+C&D Wood  
+Yard Waste and Organics 
+TOTAL WOOD AND YARD WASTE 
+Jobs Created from Composting Organics 
+TOTAL 
+
+Total Potential Jobs Created 
+Avoided Landfill Disposal 
+
+TONS 
+
+162,995  
+290,835  
+466,614  
+19,176  
+63,920  
+
+552,905  
+35,156  
+166,191  
+6,392  
+6,392  
+191,759  
+15,980  
+1,978,314  
+
+383,518  
+233,307  
+38,352  
+278,051  
+933,227  
+
+2,911,542  
+
+1,137,770  
+2,291,521  
+3,429,291  
+
+6,340,833  
+
+6,340,833 
+
+February 
+2018 
+$/TON 
+
+$583.03 
+$170.23 
+$91.50 
+$1,166.06 
+$253.30 
+
+$27.66 
+$280.88 
+$46.81 
+$540.47 
+$72.35 
+-$12.50 
+$17.02 
+
+13,453 
+ $ 120.00  
+ $ 155.00  
+ $ 125.00  
+$ 4.00  
+
+6,346  
+
+19,799 
+
+February 2018 
+Value 
+
+Percent 
+of Total 
+Value 
+
+$95,031,070 
+$49,508,100 
+$42,693,936 
+$22,360,252 
+$16,190,781 
+
+$15,294,467 
+$9,874,418 
+$7,779,844 
+$3,454,686 
+$462,438 
+-$2,396,988 
+$272,023 
+$260,525,025 
+
+$46,022,174 
+$36,162,563 
+$4,793,977 
+$1,112,203 
+$88,090,916 
+
+$348,615,941 
+
+36.5% 
+19.0% 
+16.4% 
+8.6% 
+6.2% 
+
+5.9% 
+3.8% 
+3.0% 
+1.3% 
+0.2% 
+-0.9% 
+0.1% 
+100.0% 
+
+52.2% 
+41.1% 
+5.4% 
+1.3% 
+100.0% 
+
+1,372 
+
+21,171 
+$43.42 
+
+$348,615,941 
+
+$275,318,969  
+
+• 
+
+Selected Materials from Waste Characterization based on Materials with Market Value Published in Indexes 
+
+Page 29 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The current value of potentially recyclable materials that are currently landfilled is $260.5 million based 
+
+on the Midwest Market Indexes in September 2018. The value of the cost of avoided disposal of 
+
+potentially recyclable material of 1,978,314 tons, based on the average gate rate of $43.42/ton for 
+
+disposal, is $85.9 million. Other materials that have some value if they can be effectively collected as a 
+
+separate material stream have a value of $88.1 million. The total of avoided disposal cost for all 
+
+recyclable and recoverable material is $275.3 million. These market values exhibited volatility, as 
+
+illustrated in Figure 2: Average Commodity Revenue, so these estimates provide a snapshot of value.  
+
+The volatility in the value of recycled materials over the past two years is driven by the global decline in 
+
+commodity demand and the imposition of strict import standards under the Chinese “National Sword” 
+
+policy for recycled commodities.  
+
+The number of jobs that could potentially be created by recycling of marketable recyclable materials and 
+
+all material that is currently recyclable but landfilled is 19,799. This calculation does not attempt to 
+
+assess the tradeoff in jobs due to the reduction in jobs required to collect, transfer, landfill or otherwise 
+
+manage solid waste that is not currently recovered. If collection systems are optimally and efficiently 
+
+managed, the gain and loss in collection would be a net neutral job change, but job gains would be seen 
+
+in processing, reprocessing and remanufacturing. An additional 1,372 jobs could be created if yardwaste 
+
+and wood wastes were composted. 
+
+Based on the value proposition and the potential economic value of landfilled material, RRS 
+
+recommends that the State of Ohio focus on the materials that have high volumes with a strong market 
+
+or a high value to weight ratio. This means that materials such as clean high value plastics (PET and 
+
+HDPE) and high value materials with good value (OCC) are good targets. Materials with a low value to 
+
+weight ratios such as glass are not good targets unless there is a strong local market. Materials that are 
+
+low value to weight ratios can become a negative value proposition of the markets for those materials 
+
+where the markets are farther from the point of generation. Transportation costs to move materials to 
+
+market are the biggest risk for a recycling program.  
+
+Page 30 
+
+ 
+ 
+ 
+ 
+ 
+RECYCLING MARKET TRENDS 
+
+The overriding story for recycled commodity markets has been the complete imposition of Chinese 
+
+inspections and enforcement initiatives under the branded “National Sword” and “Blue Sky 2018” 
+
+campaigns, and the Chinese World Trade Organization (WTO) ban on unsorted mixed recovered 
+
+materials and all “human consumed” packaging and post-consumer plastic grades.  These actions have 
+
+all but stopped Sorted Residential Paper and News (SRPN Grade 56), Mixed Paper (Grade 54) and Mixed 
+
+Plastics from being shipped to China, the world’s biggest consumer of scrap recycling materials, for fear 
+
+inspections will lead to rejection and demurrage charge backs.   
+
+Heavy rejections of all imported materials, especially bales from Material Recovery Facilities (MRFs), 
+
+along with lower import quotas given to Chinese mills, have even curtailed old corrugated container and 
+
+aluminum scrap shipments to China. The Chinese ban has resulted in an oversupply of paper that has 
+
+caused prices to plummet for all bulk paper grades by over 50% through March 2018, compared to 2017 
+
+prices.  Additionally, the July-announced WTO ban has forced sellers to scramble for new homes.  These 
+
+conditions especially target and limit markets for post-consumer Material Recovery Facility materials.   
+
+The orderly supply chain for the previously healthy recycling commodities market has experienced an 
+
+overall price decline, as indicated in the Average Commodity Revenue. Freight and shipping costs have 
+
+spiked as new markets are developed that do not have the advantages related to the Chinese export 
+
+market (Demand, Infrastructure, Freight Backhaul).    
+
+Further, the United States, through current administration and court actions, has imposed a series of 
+
+tariffs and trade sanctions affecting newsprint, aluminum, and steel. In addition, regulations that limit 
+
+truck driver productivity has created shipping constraints that impact the supply chain. RRS has 
+
+identified a looming freight crisis due to a severe domestic over-the-road driver shortage, with 500-900 
+
+thousand needed in the U.S. Coupled with the shortage is the new Electronic Log Devices that the U.S.   
+
+enacted in January, which further restricted productive driver hours in the name of safety.  Together 
+
+these conditions are increasing costs and availability for reliable freight to move recovered materials.  
+
+The short-term effect of these conditions is to price marginal markets out of both domestic and export 
+
+opportunities.    
+
+These factors directly affect pricing for North American recovered materials.   The factors have caused 
+
+unexpected market movement and profit changes; for instance, recovered paper producer costs have 
+
+Page 31 
+
+ 
+ 
+ 
+sharply risen with the need for more sorting and the higher freight; while, conversely, metal prices have 
+
+spiked to record highs for all domestic scrap grades.  
+
+The recycling commodities market is in a very volatile state.   Metals are near record high and have not 
+
+been as affected by the ban but are affected by tariff actions.  Dramatic price changes are the norm in 
+
+this fractal space right now, and price conditions can quickly change.  A trade war between China and 
+
+USA could erupt, or some of the Bans lifted as part of a future agreement.   Metal markets are still 
+
+reacting to the tariffs, but big foreign producers, like Rusal Aluminum (Russia), are experiencing financial 
+
+difficulty now that they are under a tariff.   
+
+Overseas producers, who relied on selling primary metal and finished manufacturing products (like coil 
+
+and billet) to North America, may start emptying vast warehouses of metal, driving prices down. World 
+
+demand and the world economy are still growing for consumer goods and recovered paper, yet prices 
+
+are languishing under the above pressures.   Major post-consumer polyolefin pricing (PET, HDPE, and PP) 
+
+are rebounding domestically after initially dropping, despite being banned from China.  
+
+RRS further found several other notable conditions which directly affect commodities markets, 
+
+including:  
+
+•  Confusion and fragmentation occurring within all the bulk paper grades, Sorted Residential Paper and 
+
+News (SRPN), Old Corrugated Cardboard (OCC), and Mixed Paper (MP); and, a divergence in price for 
+
+higher quality, China-ready material of up to $100 per short ton.   
+
+•  With poor financial conditions, the MRF community is concerned about processing low or negative 
+
+value materials and some markets have reverted to disposal for some grades of material.   
+
+THE IMPACT OF CHINA’S “NATIONAL SWORD” POLICY 
+
+Even though China is consuming over 75 million tons of recovered paper, plastics, and metals from 
+
+containers, far and away the largest consumer, its use of imports has declined by 10 million tons (from 
+
+33 to 22 million tons) as domestic capacity grew.10  China’s long-term intention has long-been to become 
+
+10 Moore, Bill, “Global Recovered Paper Market Trends, International Molded Fiber Seminar”, Vancouver, British Columbia, 
+
+13 April 2016 
+
+Page 32 
+
+ 
+ 
+ 
+                                                             
+a ‘circular economy’ and rely on its own collection/recovery infrastructure over time; banishing 
+
+“loathsome foreign waste” scrap and “smuggled garbage” completely, as part of a massive campaign of 
+
+environmental improvement.  This is the context for the State of Ohio to understand the current 
+
+Chinese policies impacting the global recovered scrap industry.   
+
+China’s National Sword regulatory and inspection policies, which began in February of 2017, and the 
+
+WTO Trade ban on Foreign wastes (July 2017), and fully implemented March 1, 2018, continues to 
+
+depress all MRF-derived material prices, and most of the recovered commodity market which makes up 
+
+recycled commodities (apart from bottle grade plastics and UBC for the most part).  Depending upon 
+
+reporting source, 30-50% of all curbside materials from North America historically ended up in Chinese 
+
+production with a downward trend in demand occurring before the ban.   
+
+The Chinese actions have severely depressed or disrupted commodity markets for mixed waste paper 
+
+grades (SRPN and MP), mixed and lower grades of plastics, and has increased freight costs for all 
+
+commodities, due to the loss of the reverse haulage and well-used freight lanes. Quality standards have 
+
+also brought down OCC and metal pricing. The market is in a state of dramatic, high, downward 
+
+volatility, despite the continuing high worldwide demand for almost all recovered materials in a good 
+
+economy.  With full implementation March 1, 2018, the world and China export market for bulk 
+
+recycling commodities have experienced dramatic price decreases11 and the lowest prices in nine years, 
+
+even for the most sought-after materials.   
+
+The heavily enforced import ban paired with license restrictions mean that many millions of tons of 
+
+materials will not be allowed into Chinese ports and will have to find new end markets.  The resultant 
+
+flood of lower quality paper and plastics into the rest of the available markets has pushed pricing down 
+
+to zero (no value) on mixed commodities like #1-7 plastics and SRPN, and reduced OCC prices to nine-
+
+year lows.   Paper Industry stalwart Bill Moore projected in October 2017, “If recyclers can’t find new 
+
+markets, or places to store the scrap they collect, some waste could end up in the landfill.”12  This 
+
+11 For instance, one of several articles per day now, “China demand plunge drops OCC to 9-yr low, domestic off $5-30/ton, 
+
+mixed being landfilled; white grades surge’’, RISI 9 March 2018 Price alert 
+
+12 Phillips, Erica E., “Trash Talk:  Price of Recyclables Sinks After China Band U.S. Scrap”, Wall Street Journal, 20 October 2017 
+
+Page 33 
+
+ 
+ 
+ 
+                                                             
+ 
+practice is now being implemented in the U.S. Regulators in Oregon are allowing processors to landfill 
+
+bales of mixed paper and plastic.13   
+
+Meanwhile, many other processors are stockpiling material and waiting for the market to open up.  
+
+According to one interview, a single processor had over 10,000 tons of mixed paper stockpiled.  This is 
+
+leading certain states and communities to scale back their commingled programs, removing items such 
+
+as shredded paper, cartons, glass (though unaffected by the ban), and most plastics other than bottles.14 
+
+Even materials that are not outright banned but are coming from the domestic MRF ecosystem are not 
+
+entering China due to the carried waste standard, which processors time and again insist cannot be met.  
+
+Commodities such as OCC and UBC as of March are suddenly being discounted when entering secondary 
+
+export markets in India and Southeast Asia.   
+
+There is also a fragmenting of traditionally reported grades of materials which impacts indices.  For 
+
+instance, for Old Corrugated Containers or OCC #12, wide premium gaps are being reported versus 
+
+indices-reported OCC pricing for all markets. Double Sorted Cardboard (DS-OCC 12), Double-Lined Kraft 
+
+(DLK 13), and non-standard grades such as “Select OCC”, “OCC 11/12” and “OCC 11.5”, are still being 
+
+shipped to China, far above index-reported prices.  Sorted Clean News (SCN), “Premium #8”, “High-
+
+quality” Old News Paper (ONP) 8/9 are also continuing to ship to China at substantial premiums above 
+
+indexed pricing, along with higher graphic grades like Old Magazine Grades (OMG) and Sorted Office 
+
+Paper (SOP).  Finally, if exported at all, MRF-generated OCC and SRPN are going to other Southeast Asian 
+
+mills for re-sorting and shipping into China at a discount.  
+
+Bottle graded sorted plastics, such as PET, HDPE and PP typically wouldn’t go to export and there is 
+
+plenty of capacity in the U.S. to handle extra supply.  This is the same for Aseptic and Gable Top Cartons 
+
+(PS 52) and Steel Can Bundles.  Aluminum Used Beverage Container (UBC) must use North American 
+
+UBC kiln companies (i.e. Novelis, Constellum, Alcoa) with freight discounts off reported prices, to move 
+
+material.  The differences are not significant ($0.04-0.08 per ton, according to buyers). Aluminum, due 
+
+to its value, enjoys continental movement compared to other materials.     
+
+13 Oregon DEQ Recycling Stakeholder Meeting, Attended 15 February 2018 
+
+14 IBID 
+
+Page 34 
+
+ 
+ 
+ 
+                                                             
+In conclusion, this is a watershed moment in the global recycling industry.  The recycling infrastructure 
+
+in North America that developed around single stream residential programs was designed with the 
+
+Chinese end market in mind and is systemically unable to meet the carried waste standard for any 
+
+materials, including materials which are not banned, such as OCC and UBC.    A shift in focus towards 
+
+quality is needed along the entire recycling value chain.  According to Bob Cappadonna of Casella 
+
+Recycling LLC “(North American) recycling businesses will need to invest in machinery to more 
+
+stringently sort the waste they collect. It also means households will have to do a better job of sorting 
+
+items headed for recycling.”15   
+
+Furthermore, it is important to see the bigger implications on China’s role in the global economy.  The 
+
+rampant growth over the past two decades led to greater wealth and a growing middle class that 
+
+resulted in significant environmental problems.  At the same time the Chinese economy has reached a 
+
+point of maturation where there are signs of shifting towards becoming more of a global consumer of 
+
+manufactured goods and an internal producer of its own scrap.  Moving forward, there should be an 
+
+increasing demand for high-quality scrap from every buyer because of market oversupply, above and 
+
+beyond Chinese requirements.  
+
+15 Phillips, Erica E., “Trash Talk:  Price of Recyclables Sinks After China Band U.S. Scrap”, Wall Street Journal, 20 October 2017 
+
+Page 35 
+
+ 
+ 
+ 
+ 
+ 
+                                                             
+ 
+RECYCLED COMMODITIES MARKET ASSESSMENT  
+
+This section provides the State of Ohio with an in-depth look at the market dynamics for each relevant 
+
+grade of material encompassing recycled commodities that are recycled and currently need focus within 
+
+the U.S. and Midwest marketplace related to quality and standards.  This assessment includes comments 
+
+on the state of the market for each grade, in addition to short and long-term viewpoints. In addition, the 
+
+end markets that are available to producers in Ohio are identified for specific commodities. An assessment 
+
+is also provided on the single most impactful issue affecting markets today – Chinese import policy and 
+
+enforcement activities, including Operation Green Fence, National Sword, WTO Waste Import Ban and 
+
+Operation Blue Sky.   
+
+Ongoing market impacts are described, including the effect that these policies have on the flow of 
+
+recycled commodities generated through curbside programs, reliability of the recommended indices, 
+
+and ability to develop reliable market forecasts. This information will allow the State of Ohio to better 
+
+understand the market dynamics of recycled commodities and use the best possible pricing information, 
+
+supplemented by continuous market research and engagement, to complete their required activities 
+
+related to support of recycling programs and service contract support.   
+
+FIBERS 
+
+Old Corrugated Containers (OCC) 
+
+OCC has been and will remain the most widely recovered paper commodity in the world.  It is also the 
+
+largest North America export of recovered paper.  There is very good demand worldwide. OCC world 
+
+demand is not being met and some Chinese mills are paying as much as $450-550 per containerized ton 
+
+as the world’s largest consumer of recovered OCC.  Due to China regulatory actions, this demand is not 
+
+reflected in the price in North America or the Midwest.  In fact, China’s WTO ban and National Sword 
+
+inspection policies have made OCC prices drop over 70% in 12 months, and over 75% of the half-million-
+
+ton shipments from North America per month have stopped, with full implementation of the Chinese 
+
+Ban and quality standards on March 1, 2018.   
+
+This is creating immediate oversupply throughout North America.  In addition, there are new 
+
+announcements every day of fragmenting grades with higher quality thresholds and undefined 
+
+specifications, which further changes prices.  Today the fabric of the OCC market is chaotic and hard to 
+
+Page 36 
+
+ 
+ 
+ 
+measure.  Indexes are not predictive because surveys take time, and buyers report transactions with 
+
+large deviations from stated pricing. In March 2018, the price dropped another 30%, and orders which 
+
+are not discounted are the normal practice.   
+
+Growth in demand from a good North American and world economy, and the growth in export 
+
+linerboard with the Chinese cutback in linerboard supply, will counter the current “panic” to some 
+
+extent.  For instance, research showed mill demand is surging and more mills are converting to 
+
+linerboard. Cleaner OCC passing inspection from MRF sources seems achievable.  China still needs 20 
+
+million tons of recovered OCC imports for its manufacturing base. These trends and China’s needs 
+
+should return prices close to $80-140 per ton range, in what should be a $200-300 per ton real demand 
+
+market. It could take up to two years until stabilization occurs in the OCC markets.  
+
+Sorted Residential Papers and News (SRPN, ISRI Grade #56) 
+
+RRS believes that short term price declines for SRPN will continue.  The trading market is in oversupply 
+
+in North America.  Markets in China are not available and other destinations do not have the 
+
+infrastructure to absorb this material.   In North America, especially material sources from MRFs, there 
+
+is no demand unless ONP is hand sorted at much higher costs.  RRS believes this trend will continue 
+
+through 2018 and into 2019.   A zero ($0.00) to negative price will be the norm.  
+
+Unlike OCC, SRPN has no economic demand driver to change conditions, and consumption has dropped 
+
+in North America by over four million tons in ten years.  SRPN is a slowly declining grade becoming 
+
+associated with mixed paper.  ISRI’s move to this new grade in 2016 seemed prudent, making the MRF 
+
+ONP-based grade descriptive of what the buyer was getting, due to the evolving ton.  Now it is being 
+
+treated as a banned material for export to China, the main consumer outside the U.S.    
+
+The lack of newsprint in MRF SRPN bales makes them less desirable for return to newsprint use.  It costs 
+
+too much to clean and there is no new investment in mill recycling processes in North America, though 
+
+some virgin mills may be fired up because of newsprint demand with China’s changing picture.  Similarly, 
+
+only the highest quality can be used in U.S. mills.  The onset of mixed recycling collection twenty years 
+
+ago is directly associated with higher mill costs: lower quality, shorter fiber, and less yield and more 
+
+disposal due to contamination. The problem is “daily (printed) newspapers are a dying breed”. Mills will 
+
+continue to close as mechanical paper demand goes down.  New unexpected costs associated with 
+
+Page 37 
+
+ 
+ 
+ 
+freight (driver shortages, U.S. ELDs requirements and ocean shipping lanes) will further erode value for 
+
+SRPN.   
+
+There is great confusion for this grade and it has experienced divergence into sub-grades.  Some of 
+
+these sub-grades are tracked, such as the retired ISRI grade of #8 ONP on Recyclingmarkets.net.  The 
+
+much stronger quality standards of older grades are preferred, and prices are at a premium, far the 
+
+above indices. Any bale shipment meeting the Chinese 0.5 of 1% standard is coveted both there and in 
+
+North American mills.  There is a further Premium #8 broker grade, which in a few months, has become 
+
+very popular and is sourced from dual stream and source separated sources.  A higher #8/9 ONP is a 
+
+combination of Premium #8 and Overissue ONP, again capturing a premium price.   Prices for these 
+
+‘premier’ grades are much higher than the index.   
+
+Commodity:  Sorted Clean News (SCN) 
+
+SCN is highly sought at remaining domestic mechanical paper recycle mills.  High quality ‘premium’ fiber 
+
+of almost any kind is commanding high prices and increased differentiation from the bulk grades with 
+
+the loss of the Chinese Import market.  RRS foresees continued volatility for SCN, trending towards 
+
+continued price increases and differentiation from SRPN. The SCN grade designation assures buyers real 
+
+post-consumer newsprint for deinking.  It is, however, experiencing similar uncertainty in the market 
+
+and within the indices as are all other RCP grades in this extraordinary period of change.   
+
+The newly defined (2018 ISRI) clean news grade and the overall market anxiety related to the China 
+
+WTO ban have leaked into SCN short-term pricing after April 2017.  Yet SCN and its precursor, Premium 
+
+ONP #8 (which is now being made again and is also in high demand), which suffered from volatility over 
+
+the last 13 months, has momentum and has been trending up in 2018.  This is because it still has 
+
+acceptance into China as a premium grade while also maintaining demand with domestic mills.    
+
+SRPN quality is a big problem in North America – brown unbleachable material and non-paper 
+
+contaminants have increased, affecting yield, mill performance and disposal costs.  SCN has none of 
+
+these problems and can be an incentive to keep pulpers at higher levels of efficiency for the deinking 
+
+process.  With mixed grades of newsprint from curbside programs losing end-markets in China, SCN 
+
+should benefit by fulfilling that space, which allows for increasing premiums over domestic pricing.  The 
+
+only risk would be if there is any trouble meeting the 0.05% carried waste standard.  As a positively 
+
+sorted grade this should be achievable.   
+
+Page 38 
+
+ 
+ 
+ 
+The inevitable flood of SRPN into domestic markets could bring all newsprint pricing down domestically 
+
+so the regions that do not have access to mills may have to accept a more modest and growing premium 
+
+over a lower baseline and would be more susceptible to the downdraft of SRPN pricing should that 
+
+continue to occur. The short supply of clean recycled newsprint will keep this grade buoyed as the trend 
+
+of decreasing newsprint production is expected to continue and recycled newsprint mills worldwide, 
+
+which rely on that material, have a challenging time getting a clean supply of overissue ONP and other 
+
+fractured premium grades, i.e. Premium #8.1  With no current trade restrictions, this will be a “first in 
+
+line” material for export and domestic consumption.  Volatility will remain in the market, which will 
+
+include mills continuing to close and SRPN pricing declines.   
+
+Mixed Paper (MP ISRI Grade #54) 
+
+RRS sees harsh market conditions for Mixed Paper (MP), except in market regions that have regionally 
+
+available mills that utilize this grade. The China WTO Ban of 2017, which was fully implemented in 2018, 
+
+firmly bans this grade from import, though demand there is still high.  China did utilize the bulk of North 
+
+American recovered MP.   Severe oversupply is growing and there is no currently supportable market.  
+
+MP has lost 100% of its value, falling from a one-week spot market high of $125 per ton in late February 
+
+2017 to zero or a process fee charged by buyers. Only previously contracted tons or commercial “hard 
+
+mix” bales have any value at all, while MRF tons have none.      
+
+Mixed paper in current quantities in North America are a direct result of the spread of modern curbside 
+
+Single Stream programs, the evolving ton, and Chinese demand.  Design of sorting plants unfortunately 
+
+keyed on MP as one of its growing outputs.  As has been demonstrated, Single Stream commodities have 
+
+an inelastic supply regardless of demand conditions (Timpane, 2016).   ISRI Grade definitions changed with 
+
+the use of the grade to the current standards.   Domestic demand growth for Mixed Paper use is from 
+
+cartonboard/boxboard where 20% or less is used and competes with SRPN.   
+
+The Midwest marketplace is the one region that can expect to see an increase in demand for MP. This is 
+
+driven by the announcement that Pratt Industries Inc, one of the major U.S. recycling, paper and 
+
+corrugated packaging companies and affiliate of the family owned Australian firm, Visy Industries, has 
+
+plans to expand its U.S. operations. A new recycled corrugated case material mill - the fifth of its kind 
+
+since the foundation of Pratt Industries in 1985 - is under development. The new Pratt Paper mill is 
+
+being built in the town of Wapakoneta in the State of Ohio and will have a capacity of 400,000 tons of 
+
+corrugated medium and linerboard made out of recycled fiber.  
+
+Page 39 
+
+ 
+ 
+ 
+Pratt Industries put the new facility's demand for recovered paper at the equivalent of 465,000 tons, 
+
+including 300,000 tons of mixed paper and 165,000 tons of old corrugated containers (OCC). Pratt 
+
+Industries plans to meet all of its raw material needs through its corrugating and converting division 
+
+Pratt Corrugated Holdings (PCH), which currently manufactures and sells 1.5 million tons of corrugated 
+
+sheet and boxes and other specialty packaging. PCH is planning to purchase 90% of Pratt Paper's new 
+
+recycled containerboard capacity in Ohio. The other 10% would be sold to third parties.  
+
+Figure 4 identifies the end markets for all recovered fiber including OCC, News, and Mixed Paper that 
+
+are available to Ohio producers. Overall there are 62 mills that consume about 7.8 million tons of fiber, 
+
+including 37 mills that are utilizing approximately 3.7 million tons of OCC, 56 mills that are utilizing 
+
+approximately 3.7 million tons of Mixed Paper and 16 mills that are utilizing approximately 380,000 tons 
+
+of Newsprint.  A detailed list of facilities is available in Appendix VI. 
+
+Figure 4: Paper Mills Utilizing Recovered Paper  
+
+Page 40 
+
+ 
+ 
+ 
+ 
+ 
+ 
+PLASTICS 
+
+Polyethylene Terephthalate (PET) 
+
+Post-consumer recovered Polyethylene Terephthalate (PET) relies on North American markets and is now 
+
+restricted from export to China. Fortunately, North American capacity for post-consumer PET exceeds 
+
+available supply.  Relative to indicators like natural gas and oil, PET markets will probably see a slow, 
+
+steady increase in bale pricing over the next year or two, as virgin material pricing is projected to remain 
+
+at current, relatively high, levels. Supply is expected to remain stable.  Though PET bale prices track 
+
+closely to virgin resin pricing, and oil and natural gas, they are much more heavily influenced by supply 
+
+and demand. The additional supply has helped to dampen the higher virgin resin prices that might have 
+
+otherwise driven prices up.   
+
+The most significant regional difference in PET markets relates to the acceptability of mixed bales of PET 
+
+bottles and thermoforms.  The Association of Plastics Recyclers (APR) / ISRI bale specification identifies 
+
+the acceptability of PET thermoforms as a buyer / seller issue to be agreed on a transactional basis.  In 
+
+regions where most PET bottles are collected at curbside, most PET markets will accept bales of mixed 
+
+bottles and thermoforms, as long as the MRF uses optical sorting or otherwise has strong quality control 
+
+measures in place to ensure that the thermoforms in PET bales are, in fact, PET.  In regions where much 
+
+of the PET bottle stream is from deposit systems, the management of PET thermoforms is more 
+
+problematic.  Given the ample supply of clean, high-quality bottles generated by deposit programs, PET 
+
+reclaimers in those regions have little incentive to adapt systems to capture the more challenging PET 
+
+thermoform stream.   
+
+The market is enjoying a respite from a very challenging period during which virgin PET prices were at 
+
+record lows following a ramp up in new capacity, placing an effective cap on recycled PET prices and 
+
+squeezing reclaimer margins.  The bankruptcy of a major North American PET producer (M&G), and, to a 
+
+lesser extent, the impact of Hurricane Harvey and newly-implemented import tariffs, resulted in a 
+
+dramatic increase in virgin PET pricing in the fall of 2017, improving reclaimer margins and PET recycling 
+
+system health. If virgin producers continue to exercise discipline in pricing, conditions should remain 
+
+reasonably good, and current bale pricing should be supported.  
+
+Despite high virgin PET prices, bale prices are not expected to increase dramatically, due to the 
+
+increased supply made available by the Chinese import restrictions or from the increase in 
+
+Page 41 
+
+ 
+ 
+ 
+transportation costs resulting from the recent implementation of electronic monitoring and resulting 
+
+shortage of trucking availability. Since PET bale prices are defined as Freight on Board (FOB) at the MRF, 
+
+that increase in transportation adds to the effective cost of supply to the reclaimer.   
+
+The North American appetite for PET will likely remain strong. However, continued public outcry over 
+
+ocean plastic may have the potential to dull consumption expansion and should be watched. All 
+
+together these factors and how and when they play out makes a long-term outlook for recycled PET very 
+
+challenging, and points towards periods of volatility over the long term.  
+
+High Density Polyethylene (HDPE) 
+
+RRS expects some decline in price as MRF-derived supply of #2 plastic resin bales and #1-7 mixed plastic 
+
+resin bales increase.  Overall, High Density Polyethylene (HDPE) markets are expected to remain 
+
+relatively stable for the next couple of years, relative to oil and natural gas prices.   Domestic recycling 
+
+collection and reclamation capacity are not projected to change significantly, and virgin resin prices are 
+
+expected to remain steady or will increase with fossil fuel inputs.  New virgin polyethylene production 
+
+capacity in North America is being absorbed into market growth and exports, and so far, has not led to 
+
+oversupply or a drag to pricing.  New direct natural gas to PE conversion technology with a much lower 
+
+cost basis than PE from oil will make virgin much more competitive and keep prices tempered.  RRS 
+
+recommends monitoring virgin HDPE, and both oil and natural gas, as pricing factors that impact bale 
+
+pricing, particularly of colored HDPE.  
+
+Like other plastics, bale pricing for HDPE is driven primarily by local supply and demand as well as by 
+
+virgin resin pricing (which is driven by oil and natural gas pricing).  Given that supply (i.e., recycling 
+
+collection) has been relatively static for the last decade, demand is a more significant driver.  Demand 
+
+for HDPE is highly seasonal, with Spring / Fall pricing being substantially higher than Summer / Winter.  
+
+This is because demand for the major end uses for recycled HDPE – pipe, flower pots, and cleaning 
+
+products – all increase during the spring and fall.  
+
+The relationship of recycled HDPE prices to virgin is different for natural vs. colored HDPE.  Markets for 
+
+Natural HDPE are supported by minimum recycled content requirements in place under California’s 
+
+Rigid Plastic Packaging Container law, which bolsters demand and drives pricing of recycled natural 
+
+HDPE to exceed that of virgin.  Colored HDPE, on the other hand, competes more head on with virgin 
+
+HDPE, and therefore the virgin HDPE pricing serves as an effective cap on recycled colored HDPE.  As a 
+
+Page 42 
+
+ 
+ 
+ 
+result, to forecast natural and colored HDPE pricing, the factors to monitor include the passage or repeal 
+
+of mandatory minimum recycled content requirements, virgin resin pricing, and antecedent fossil fuel 
+
+prices.   
+
+There is not a clear direction for markets in the long-term.  Cheap fossil fuel (natural gas) feedstocks 
+
+have led to a boost in virgin PE supply in North America and many in the recycling industry have been 
+
+preparing for downward pricing impacts on recycled HDPE as a result.  So far, the new virgin 
+
+polyethylene production capacity coming on line in North America has not impacted pricing to full 
+
+extent, due to production disruptions during the storms of 2016 and 2017.  There still remains a growing 
+
+demand in North America and abroad that has kept pace with supply increases  
+
+Polypropylene (PP) 
+
+High quality polypropylene (PP) bales have emerged as a consistent revenue source from this sorted 
+
+grade of material.   However, it is still difficult to track or forecast demand and pricing.  The market is 
+
+still clearly in a development phase and therefore volatile.  It will be several years before PP will mature 
+
+enough to enable accurate price tracking and forecasting. 
+
+PP is transitioning from one of the valuable elements in a mixed plastic bale to a commodity in its own 
+
+right, being marketed as a sorted grade.  Many facilities now optically sort it to a resin product (referred 
+
+to as a PP bale) or hand sort it lower-grade product (referred to as Tubs and Lids - which also includes 
+
+smaller percent combinations of HDPE, LDPE, and polystyrene).  Some markets use “tubs and lids” to 
+
+exclusively refer to polypropylene bales coming from MRFs.  Recyclingmarkets.net (RMN) and the 
+
+Association of Plastics Recyclers (APR) delineate between tubs and lids and polypropylene bottle bales.   
+
+Other significant factors are impacting PP, most notably the market for mixed plastics changing 
+
+significantly due to Chinese import restrictions.  MRFs, to the extent they can afford it, will try to 
+
+separate out PP either as a tubs and lids or graded bale.  This will increase recycled supply.  Additionally, 
+
+the collapsing plastics recovery facility (PRF) infrastructure in the U.S. is impacting secondary processing 
+
+capacity, for instance, the recent closure of QRS in Baltimore, Maryland.   
+
+Domestic demand for PP is growing.  Of the emerging grades of plastic, PP has consistent pricing to 
+
+support separation if there is enough volume from the municipal collection stream.  Markets have 
+
+responded by demanding feedstock.  There is significant interest from major end users in continued 
+
+Page 43 
+
+ 
+ 
+ 
+growth, including strong demand from brands such as Unilever, Proctor & Gamble and Keurig Green 
+
+Mountain.  
+
+Strong domestic market interest in PP is driving the development of a standalone PP grade, fed mostly 
+
+by larger MRFs that can generate significant quantities of this low volume material as well as by plastics 
+
+recovery facilities (PRFs) and innovative MRFs that are purchasing mixed plastics bales and mining them 
+
+for PP content.  Supply of this material is growing more quickly than demand in some cases, however, 
+
+causing some volatility in the market.  That volatility is underscored by virgin PP pricing which can swing 
+
+very significantly in short periods of time.  
+
+It is noteworthy that there is confusion about the definition between PP bales and Tubs and Lids bales.  
+
+Colloquially, many people refer to tubs and lids and polypropylene bales interchangeably, and this may 
+
+be one reason why the indices are not reliable.  Reported pricing may include reports for both material 
+
+streams in the same grade.  APR and RMN both delineate between tubs and lids and polypropylene 
+
+bales in material definitions, although RMN only reports on the polypropylene.   
+
+Mixed Plastics and Film 
+
+RRS is not confident about the mixed recovered plastics markets.  This market must stabilize to enable 
+
+accurate price tracking and forecasting, especially post-consumer MRF film. All categories of post-
+
+consumer plastics were banned from China, resulting in an upheaval for exported materials, which in 
+
+the case of plastics was mostly the lower mixed grades plus some bottle grades. MRFs have relied on 
+
+these grades to make diversion goals and contractual recovery obligations.   
+
+With markets in oversupply, most mixed plastics have no market, or sellers are paying more than the 
+
+cost of landfilling for further processing and recovery.  Any recovery of the mixed and post-consumer 
+
+film is marginal as a result of Chinese import restrictions.  The only movement at all is highly local and 
+
+due to domestic demand and specific quality characteristics from individual suppliers.  As a result, 
+
+collection of mixed plastics through curbside programs is challenged, with programs in the Western U.S. 
+
+and Buffalo region sending mixed plastics to landfill and removing #3-#7 plastics from their list of 
+
+acceptable comingled items.  
+
+The Midwest is flooded with mixed plastics and film, and there are more processing options moving east 
+
+for mixed plastics and film.  Some higher value mixes in the Midwest go all the way to the Southeast U.S. 
+
+for Mixed Bulky Rigids (MBR). Through the midterm, without the Chinese import draw conditions will 
+
+Page 44 
+
+ 
+ 
+ 
+remain volatile.   There is still some value to #4-#7, however it is dependent on geography, quantity and 
+
+quality. Unless significant processing capacity is added in North America, current pricing trends will 
+
+continue.  This impact could be compounded for mixed grades as more MRFs transition to producing PP 
+
+bales, removing the main value in the mixed plastic bales and leaving little reason to sort plastic further.   
+
+Compared to other North American markets, the Great Lakes markets are advantaged, along with 
+
+Southeast U.S., for managing Mixed Grades.  Markets for mixed plastics are robust in the Southeast U.S. 
+
+One of the only North American markets for post-consumer film plastic is in Ontario, Canada. The value 
+
+of #1 and #2 bottles historically kept market viability for #1-#7 and #3-#7, and those bales are still being 
+
+produced in MRFs that are not equipped to sort out #1s and #2s.  This was the primary reason they held 
+
+any export value.  #3-#7 bales sold better domestically but have not often been exported.  Re-sorting of 
+
+both grades for #1 and #2 allowed the grade to develop.  #5 PP is now contributing to re-sort value, but 
+
+not enough to overcome higher freight costs.   
+
+Figure 5 identifies the end markets for all plastics processors that are available to Ohio generators. 
+
+Overall there are 129 plants that consume about 3.1 million tons of all grades of plastic including 18 
+
+facilities in the state that consume about 350,000 tons and an additional 33 facilities consuming 830,000 
+
+tons in the states bordering the State of Ohio, which are within reasonable and cost-effective haul 
+
+distances from the state.  A detailed list of plants is available in Appendix VII. 
+
+Figure 5: Recovered Plastics Processors and Reformers 
+
+Page 45 
+
+ 
+ 
+ 
+ 
+METALS 
+
+Aluminum UBC Scrap, including “Taldon”- Baled and “Taldork” Briquetued UBC Scrap  
+
+The metal scrap world is over 3,000 years old and has been historically the most highly defined and 
+
+valuably traded commodity.  The price of a commodity is determined as a function of its market: well-
+
+established commodities have actively traded contract, spot, and derivative futures markets.  Aluminum 
+
+scrap has a well-functioning, well established world commodity market, with one of the longest 
+
+reported daily prices for any scrap material.   Aluminum is an orderly world market and aluminum scrap 
+
+follows that market structure.   
+
+Escalation of trade war talk between China and the U.S. is focused on aluminum, and supply/demand 
+
+balances for scrap, rely on these two consumers more than any other part of the world.  Prices are just 
+
+off historical highs for both UBC and the LME.  Indicators and prices could dip if rhetoric heats up.  Right 
+
+now, the impacts are not known, and price is flat despite good demand.   
+
+One potential upside is consumption of Chinese aluminum mill products is sure to decrease in the short 
+
+term in North America and this will drive scrap demand to be used here for manufacturing. This should 
+
+positively stimulate the market when the impact from the Tariff actions becomes clear.  Trade of UBC 
+
+travels around the world between four continents with multiple players and freight costs do not restrict 
+
+it because of its high value.   
+
+As late as January of 2018, MRF operators were continuing to enjoy high Aluminum UBC prices (less 
+
+contamination deductions made at the mill).  Cleaner quality UBC from buy back and deposit were 
+
+getting premiums in some markets.  Large scrap yards, like Sims and Commercial Metals, as well as 
+
+consumers (Novelis, Constellium, and Alcoa) saw a rising world market and are building inventories, 
+
+despite saber rattling from the U.S. and China over trade.  Bales of cans generated were selling for about 
+
+72 cents per pound (delivered), up about 3 cents from December and close to the 2017 high at the end 
+
+of February.  American Metal Market has reported that since then the world aluminum price, and all 
+
+aluminum scrap has been struggling to maintain the strong upward momentum and multi-year highs 
+
+seen in the first few weeks of 2018 has been flat. 
+
+China slapped a 25% tariff on Aluminum scrap in 2018.  Though UBC is not affected, it is bundled with 
+
+other aluminum scrap grades in the market sentiment, as is the LME finished ingot pricing.  Additional 
+
+Page 46 
+
+ 
+ 
+ 
+recent Policy Tariff actions by the U.S. will have further impacts on the use of Aluminum UBC scrap and 
+
+the production of can sheet in China.  The U.S. tariff taxes affix 25% onto the price of imported steel and 
+
+10% onto imported finished aluminum.   
+
+MRF generated UBC is most affected and is likely to be sold at steeper discounts.  Already, China 
+
+stopped importing MRF UBC bales last November because of the high 0.5 of 1% quality standard.  Most 
+
+feel North American prices for aluminum will rise and will deviate from the very public world price, best 
+
+reflected by the London Metal Exchange.   
+
+Steel Cans (Sorted, Baled) 
+
+Both hot rolled steel band (flat steel or “HRB”) and hot rolled coil (“HRC”) which is derived from steel 
+
+band, are benchmark steel products.  Both are made directly from steel scrap and there is a strong 
+
+correlation between scrap pricing and these finished products.  Both have risen from below $300 per 
+
+short ton to over $700 per short ton at the beginning of February 2018 in the last two years, per 
+
+numerous sources (i.e. Metal Miner 2018 February; NWI Times, NWI.com).  No. 1 busheling, No. 1 heavy 
+
+melting scrap, and shredded steel scrap are the benchmark grades of ferrous scrap and are reported 
+
+regularly by American Metal Markets (AMM).  No 2. Bundle, reported by AMM, is the closest related 
+
+benchmark for steel can bundles and was the price to track before steel cans had their own grade.   
+
+Midwest trading is the source of the benchmark price used in the North American scrap industry.  Steel 
+
+cans trade off these grades and bale pricing rises with these prices.  All benchmarks and steel cans have 
+
+consistently risen in value over the last two years and are likewise expected to continue rising for the 
+
+rest of the first half of this year.   
+
+Steel cans have seen consistently rising prices in the good economy.  The World Steel Association 
+
+anticipates an 8% increase in the price of steel in 2018.  Demand and price are expected to grow 
+
+through 2021 (Statista), provided regulatory or economic upheaval does not overtake it.  Like other 
+
+grades, ferrous scrap exports to China have decreased from a high in 2011 and are much less dependent 
+
+upon this destination now.  Actions by China or the U.S. should not deter pricing.  
+
+Figure 6 and 7 identify the end markets for all steel and aluminum plants that are available to generators 
+
+in Ohio. Overall there are 9 aluminum plants that consume about 880,000 tons of all grades of non-
+
+ferrous metal, which are within reasonable and cost-effective haul distances from the State of Ohio.  
+
+There are 101 steel plants that consume about 124.5 million tons of all grades of ferrous steel, which are 
+
+Page 47 
+
+ 
+ 
+ 
+within reasonable and cost-effective haul distances from the state. A detailed list of plants is available in 
+
+Appendix VIII and IX. 
+
+Figure 6: Recovered Steel Plants 
+
+Figure 7: Recovered Aluminum Plants 
+
+Page 48 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GLASS 
+
+Material Recovery Facility-derived 3-Color Mixed Container Glass (“MRF Glass”) 
+
+Note on this Section:  RRS is the Managing Consultant for the Glass Recycling Coalition and the Recycling Consultant 
+
+for the Glass Packaging Institute.  In addition, RRS has done major market surveys of supply, demand and price in 
+
+North  America  for  several  large  members  of  the  supply  chain  as  a  private  consultation  on  market  entries  and 
+
+viabilities.  Finally, RRS has frequent on-going conversations with several glass processing companies and attends 
+
+Glass Workshops throughout North America.    
+
+Since the beginning of this century glass bottles are losing annual container market and have shut down 
+
+several American facilities, the latest being in Milford, Connecticut.  This is a tight value chain that lives 
+
+on high volume package units with low-margins, contained costs, and glass bottles must compete with 
+
+more cost-efficient packages.  Glass bottle furnace facilities are built to support beverage and food 
+
+operations and are often isolated in geographies.  Fiberglass facilities open with economic expansion 
+
+and close with economic downturn, tightly tied to the construction economy.  Any net expansion in glass 
+
+bottle and fiberglass consumption is not expected and the furnace footprint in North America is stable 
+
+to declining.   
+
+Recyclingmarkets.net is the original market index with the most surveyed members for 3-mix glass and 
+
+has improved survey methods over the years.  The final price negotiated by buyers for 3-mix uses the 
+
+index price as a base.  3-mix pricing has decreased over time.  As a continental average over four years 
+
+pricing has moved from negative $3 per ton to negative $20 per ton. RRS expects further drops, 
+
+especially if glass continues to lose market share or the economy falters.   
+
+Glass composition, fines content, and moisture content is tested at secondary processors.16  Fines, 
+
+contamination and moisture are deducted from the index price on a percentage basis.  This is a new ISRI 
+
+specification and there is an illustration of the inverse relationship between price and these factors 
+
+within the specification.  RRS is concerned about low participation with that index.  RRS recommends 
+
+watching that pricing, but only as a check price.   
+
+16 ISRI Scrap Circular 2017, p. 25 Matrix.   
+
+Page 49 
+
+ 
+ 
+ 
+                                                             
+Unprocessed Color-sorted Glass Bottles and Jars - Flint (Clear), Amber (Brown), Emerald (Green) 
+
+Clean unprocessed color-sorted glass will be supported where a furnace is located nearby.  Prices have 
+
+not changed in 30 years.  In 1988, at the Owens Illinois Glass plant in Williamsburg, Virginia, pricing for 
+
+Flint Glass was $40T, for Amber was $30T, and for Green $10T, close to today’s prices. Unprocessed 
+
+color-sorted glass usually still needs to go through final beneficiation to remove ceramics, metals, and 
+
+other harmful inputs to the batch, and there is not that much value spread in the manufacturing process 
+
+to pay much more than $40 per ton. Since there is little competition in beneficiating, RRS’ opinion is that 
+
+there will be further very slow price drop, but clean glass will maintain good market position when 
+
+processors are located near corresponding furnaces that can use colored product.   
+
+With energy prices decreasing due to the natural gas revolution, the attractiveness of cullet as an input 
+
+is limited, given lingering quality concerns after beneficiation.  RRS also believes source separated 
+
+supplies will grow with the new China ban and the re-emphasis of removing glass from curbside 
+
+convenience to a more quality, higher value sort.    
+
+Use of cullet varies widely by geographical market availability.  The Ohio market has a well-developed 
+
+beneficiation plant infrastructure.  Rumpke Recycling in Ohio partnered with the Ohio Department of 
+
+Natural Resources and Owens- Illinois to build enhanced technology to process glass. Rumpke first 
+
+opened its Dayton glass processing facility in 2002 in an effort to process the broken, mixed color glass 
+
+screened from the single stream sorting process. The new system creates a product suitable for the glass 
+
+container industry. State-of-the-art optical scanning will make the recycling of glass containers used by 
+
+consumers as well as bars and restaurants easier and more economical. While a significant portion of 
+
+the material processed at Rumpke Recycling will be prepared for use in container manufacturing, long-
+
+standing glass recycling partner Johns Manville, a fiberglass manufacturing firm with a production facility 
+
+in Defiance, Ohio, will continue to use 50% of the processed glass as a raw material. 
+
+Figure 8 identifies the end markets for all 3-mix glass cullet that are available to Ohio producers of 
+
+recovered glass. Overall there are 28 plants that consume about 1.5 million tons of cullet including an 
+
+Owens-Illinois (O-I) plant in Zanesville, Ohio, an O-I plant in Lapel, Indiana and two O-I plants in 
+
+Pennsylvania that are within reasonable and cost-effective haul distances from Ohio.  There are also two 
+
+Ardagh plants in Pennsylvania and one Ardagh plant in Indiana. A detailed list of plants is available in 
+
+Appendix X. 
+
+Page 50 
+
+ 
+ 
+ 
+FIGURE 8: GLASS CULLET PLANTS  
+
+Page 51 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDICES 
+
+Page 52 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix I: End Market Commodity Types 
+
+Material 
+
+PET (Baled, ¢/lb., picked up) 
+PET Curbside Grade B in CA (Baled, ¢/lb., picked up) 
+Natural HDPE (Baled, ¢/lb., picked up) 
+Colored HDPE (Baled, ¢/lb., picked up) 
+Commingled (#1-7, Baled, ¢/lb., picked up) 
+Commingled (#3-7, Baled, ¢/lb., picked up) 
+HDPE Rigid (Baled, ¢/lb., picked up) 
+
+Grade 
+Plastics 
+Plastics 
+Plastics 
+Plastics 
+Plastics 
+Plastics 
+Plastics 
+Plastics  Mixed Bulky Rigid (Baled, ¢/lb., picked up) 
+Plastics 
+Plastics 
+Plastics 
+Plastics 
+Plastics 
+Plastics 
+
+FILM - Grade A (Sorted, 800+lb Bales, ¢/lb., picked up) 
+FILM - Grade B (Sorted, 800+lb Bales, ¢/lb., picked up) 
+FILM - Grade C (Sorted, 800+lb Bales, ¢/lb., picked up) 
+LLDPE-Stretch Film (Refer to FILM grades A, B, C) 
+PP Post Consumer (Baled, ¢/lb., picked up) 
+Polystyrene EPS (Baled, ¢/lb., picked up) 
+
+Metals 
+
+Metals 
+Metals 
+Metals 
+Metals 
+Metals 
+Metals  White Goods (Loose, $/ton, picked up) 
+
+Aluminum Cans (Sorted, Baled, ¢lb., picked up) 
+Aluminum Cans (Loose, ¢/lb., dropped off at RC) 
+Steel Cans (Sorted, Baled, $/Gross ton, picked up) 
+Steel Cans (Sorted, Densified, $/Gross ton, dropped off at RC) 
+Steel Cans (Sorted, Loose, $/Gross ton, dropped off at RC) 
+
+Glass 
+Glass 
+Glass 
+Glass 
+
+PS 54 
+PS 56 
+PS 58 
+PS 4 
+PS 10 
+PS 11 
+PS 13 
+PS 24 
+PS 28 
+PS 30 
+PS 31 
+PS 37 
+PS 40 
+PS 43 
+PS 44 
+PS 47 
+PS 52 
+PS 1 
+PS 6 
+PS 7 
+PS 8 
+
+Glass 
+
+Flint ($/ton del.) 
+Amber ($/ton del.) 
+Green ($/ton del.) 
+3 Mix ($/ton del. as Recyclable or Disposable) 
+
+Paper 
+
+Mixed Paper (MP) 
+Sorted Residential Papers (SRNP) 
+Sorted Clean News (SCN) 
+Boxboard Cuttings 
+Magazines 
+Corrugated Containers 
+New Double-Lined Corrugated Cuttings 
+White News Blanks 
+Coated Soft White Shavings 
+Hard White Shavings 
+Hard White Envelope Cuttings 
+Sorted Office Paper 
+Sorted White Ledger 
+Coated Book Stock 
+Coated Groundwood Sections 
+Unprinted Bleached Board 
+Aseptic Cartons 
+Soft Mixed Paper (Refer to PS 54 - View for Historical) 
+News (Refer to PS 56 - View for Historical) 
+De-ink Quality News (Refer to PS 56 - View for Historical) 
+Special De-ink Quality news (Refer to PS 56 - View for Historical) 
+
+Page 53 
+
+ 
+ 
+ 
+Appendix II: Detailed Statewide Waste Composition 
+
+This table provides a detailed profile of the statewide disposed waste stream based on the Medium 
+
+Residential and Commercial  scenario. For each material category, the estimated disposed tons, and 
+
+mean percent are shown.  
+
+Material Type 
+High Grade  
+Mixed/ unspecified Office 
+White Ledger 
+ONP 
+Magazines and Catalogs (OMG) 
+Paper Bags 
+
+Phonebooks and Directories 
+OCC 
+Paperboard/ Boxboard 
+Polycrates Paper 
+Compostable/soiled 
+Other Recyclable Paper 
+all other paper 
+Paper subtotal 
+PET bottles  
+PET containers non-bottles  
+HDPE Bottles Natural  
+HDPE Bottles not specified/Colored 
+LDPE (includes some bags, film) 
+Expanded Polystyrene (foam) 
+Plastic bottles and #3-7 (general) 
+Durable and Rigid containers 
+All other Plastics 
+Plastic subtotal 
+Aluminum cans 
+Aluminum (foil and other) 
+Tin/Steel Cans 
+Tin cans 
+Ferrous metals (includes tin) 
+Non-ferrous metals 
+Other Metal 
+Metal subtotal 
+
+% 
+1.03% 
+0.40% 
+0.23% 
+1.73% 
+1.00% 
+0.13% 
+
+0.13% 
+4.87% 
+0.23% 
+0.07% 
+4.33% 
+2.60% 
+4.53% 
+21.30% 
+0.63% 
+0.03% 
+0.07% 
+0.37% 
+4.00% 
+0.67% 
+0.17% 
+2.43% 
+3.27% 
+11.63% 
+0.20% 
+0.17% 
+0.47% 
+0.17% 
+2.40% 
+0.30% 
+1.23% 
+4.93% 
+
+Tons 
+ 99,076  
+ 38,352  
+ 22,372  
+ 166,191  
+ 95,880  
+ 12,784  
+
+ 12,784  
+ 466,614  
+ 22,372  
+ 6,392  
+ 415,478  
+ 249,287  
+ 434,654  
+ 2,042,234  
+ 60,724  
+ 3,196  
+ 6,392  
+ 35,156  
+ 383,518  
+ 63,920  
+ 15,980  
+ 233,307  
+ 313,206  
+ 1,115,399  
+ 19,176  
+ 15,980  
+ 44,744  
+ 15,980  
+ 230,111  
+ 28,764  
+ 118,251  
+ 473,006  
+
+   Material Type 
+
+Glass  
+Flat/plate 
+Other Glass 
+Glass Subtotal 
+Brown goods and electronics  
+Computer-related includes 
+monitors 
+Video display and CRT  
+White goods (appliances) 
+Other electronics 
+Electronics Subtotal 
+Wood - general 
+Untreated Wood 
+Treated Wood 
+Lumber 
+Wood Subtotal 
+Yard waste <6" 
+Yard waste >6" 
+Branches and Stumps 
+Pruning and Trimmings 
+Leaves and grass 
+Food 
+Compostable organics 
+Other R/C Organics 
+Organic Subtotal 
+Tires 
+Carpet 
+Textiles 
+Other Materials Subtotal 
+NON- RECYCLABLE MATERIAL 
+
+% 
+1.23% 
+0.10% 
+0.67% 
+2.00% 
+0.67% 
+0.40% 
+
+0.57% 
+0.37% 
+0.50% 
+2.50% 
+2.47% 
+4.27% 
+0.30% 
+4.83% 
+11.87% 
+0.40% 
+0.03% 
+0.33% 
+1.63% 
+3.67% 
+13.07% 
+0.03% 
+4.73% 
+23.90% 
+0.27% 
+3.03% 
+2.90% 
+6.20% 
+15.67% 
+
+Tons 
+ 118,251  
+ 9,588  
+ 63,920  
+ 191,759  
+ 63,920  
+ 38,352  
+
+ 54,332  
+ 35,156  
+ 47,940  
+ 239,699  
+ 236,503  
+ 409,086  
+ 28,764  
+ 463,418  
+ 1,137,770  
+ 38,352  
+ 3,196  
+ 31,960  
+ 156,603  
+ 351,558  
+ 1,252,826  
+ 3,196  
+ 453,830  
+ 2,291,521  
+ 25,568  
+ 290,835  
+ 278,051  
+594,453 
+ 1,502,113  
+
+TOTAL 
+
+100.0% 
+
+ 9,587,953  
+
+Page 54 
+
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+Appendix III: List of Reviewed Waste Characterization Studies 
+
+Low-Diversion Profile 
+
+•  Pennsylvania Department of Environmental Protection, Statewide Municipal Waste Composition 
+
+Study, 2003. 
+
+http://www.dep.state.pa.us/dep/deputate/airwaste/wm/recycle/Waste_Comp/Study.htm 
+
+• 
+
+Illinois Department of Commerce and Economic Opportunity/Illinois Recycling Association, 
+
+Illinois Commodity/Waste Generation and Characterization Study, 2009. 
+
+http://www.illinoisrecycles.org/pdffiles/ICWCGSReport052209.pdf 
+
+•  Georgia Department of Community Affairs, Georgia Statewide Waste Characterization Study: 
+
+Final Report, 2005. 
+
+http://www.dca.state.ga.us/development/EnvironmentalManagement/publications/GeorgiaMS
+
+WCharacterizationStudy.pdf 
+
+• 
+
+Indiana Department of Environmental Management, Municipal Solid Waste Characterization 
+
+Study for Indiana, May 2012 www.in.gov/idem/recycle/files/msw_characterizarion_study.pdf 
+
+•  U.S. EPA, Municipal Solid Waste Generation, Recycling, and Disposal in the United States: 
+
+Detailed Tables and Figures for 2008, 2010, 2012, 2014. 
+
+http://www.epa.gov/wastes/nonhaz/municipal/pubs/msw2014data.pdf 
+
+•  Ada County Solid Waste, Boise, Idaho. Ada County Waste Stream Analysis 2014. 
+
+https://adacounty.id.gov/Portals/Landfill/Documents/Waste-Stream-Analysis-
+
+2014.pdf?ver=2016-02-04-095456-053. 
+
+•  Solid Waste Division, Prince William County, Virginia. Waste Composition Study Summary of 
+
+2013-2014 Results. http://gbbinc.com/gbbwp2013/wp-content/uploads/2013/10/PWC-Waste-
+
+Characterization-Final-Report.pdf  
+
+Medium -Diversion Profile 
+
+•  Wisconsin Department of Natural Resources, Statewide Waste Characterization Study, 2003, 
+
+2009. https://dnr.wi.gov/topic/Recycling/documents/WI_WCS_Final_Report_June-30-2010.pdf 
+
+•  Connecticut Department of Environmental Protection, Connecticut Statewide Solid Waste 
+
+Composition and Characterization Study, 2010, 2015. 
+
+http://www.ct.gov/deep/lib/deep/waste_management_and_disposal/Solid_Waste_Manageme
+
+nt_Plan/CMMS_Final_2015_MSW_Characterization_Study.pdf 
+
+Page 55 
+
+ 
+ 
+ 
+•  California Integrated Waste Management Board, California 2008, 2010, 2014 Statewide Waste 
+
+Characterization Study, 2009. 
+
+http://www.calrecycle.ca.gov/Publications/Documents/1546/20151546.pdf 
+
+•  Department of Sanitation – NYC, NY. The New York City 2013 Residential Waste Characterization 
+
+Study                                                                                                                                                                  
+
+http://www1.nyc.gov/assets/dsny/docs/2013-Waste-Characterization-Study.pdf  
+
+•  City of Durham, NC. Waste Characterization Study, 2015  
+
+http://cityordinances.durhamnc.gov/OnBaseAgendaOnline/Documents/ViewDocument/WS-
+
+Published%20Attachment%20-%2011457%20-%20PRESENTATION%20-%20PRESENTATION-
+
+%20WASTE%20CHARECTERIZAT.pdf?meetingId=156&documentType=Agenda&itemId=2405&pu
+
+blishId=9304&isSection=false.  
+
+•  Minnesota Pollution Control Agency, Minnesota. 2013 Statewide Waste Characterization. 
+
+https://www.pca.state.mn.U.S./sites/default/files/w-sw1-60.pdf 
+
+•  Connecticut Department of Energy and Environmental Protection, 2015 Statewide Waste 
+
+Characterization Study. 
+
+http://www.ct.gov/deep/lib/deep/waste_management_and_disposal/Solid_Waste_Manageme
+
+nt_Plan/CMMS_Final_2015_MSW_Characterization_Study.pdf 
+
+•  Department of Commerce and Economic Opportunity, Illinois and Illinois Recycling Association. 
+
+Illinois Commodity/Waste Generation and Characterization Study Update 2015. 
+
+https://www.illinois.gov/dceo/whyillinois/TargetIndustries/Energy/Recycling/Documents/2015
+
+%20Waste%20Characterization%20Update%20FINAL.pdf#search=Illinois%20Commodity%2F%2
+
+0Waste%20Generation%20and%20Characterization%20Study%20Update  
+
+•  Rhode Island Resource Recovery Corporation, Rhode Island. Rhode Island Solid Waste 
+
+Characterization Study – Final Report 2015.  
+
+High-Diversion Profile 
+
+•  Thurston County, WA Department of Water and Waste Management, Solid Waste System 
+
+Assessment, 2007, 2013-14. https://fortress.wa.gov/ecy/publications/documents/1007023.pdf 
+
+•  Snohomish County, WA Department of Public Works, Snohomish County Waste Composition 
+
+Study, 2009. 
+
+http://www.co.snohomish.wa.us/documents/Departments/Public_Works/SolidWaste/Informati
+
+on/Brochures/WasteComp2009Final.pdf 
+
+Page 56 
+
+ 
+ 
+ 
+•  Clark County, WA, Clark County 2008 Waste Stream Analysis, 2008, 2012. 
+
+https://www.clark.wa.gov/sites/default/files/dept/files/public-health/SWEO/SWMP/AppendixI-
+
+10-14-14.pdf 
+
+•  Seattle, WA Public Utilities, Residential Waste Stream Composition Study, 2006, 2010, 2014; 
+
+Construction & Demolition Waste Composition Study, 2007, 2011, 2015; Commercial and Self-
+
+Haul Waste Streams Composition Study, 2008, 2012, 2016. 
+
+https://www.seattle.gov/util/cs/groups/public/@spu/@garbage/documents/webcontent/01_0
+
+14338.pdf 
+
+•  San Francisco Department of the Environment, Waste Characterization Study, 2006. 
+
+http://www.sfenvironment.org/downloads/library/wastecharacterizationstudy.pdf 
+
+•  Palo Alto, CA, Palo Alto Waste Composition Study, 2006, 2017. 
+
+https://www.cityofpaloalto.org/civicax/filebank/documents/63577 
+
+•  California Integrated Waste Management Board, see above 
+
+•  Delaware Solid Waste Authority (DSWA), Delaware. Statewide Waste Characterization Study FY 
+
+2016 – Final Report.  http://dswa.com/wp-content/uploads/2017/02/Final-Report-DSWA-
+
+Waste-Characterization-FY-2016-January-2017.pdf 
+
+•  Department of Natural Resources and Parks, Solid Waste Division, King County, Washington. 
+
+King County Waste Monitoring Program, 2015 king County Waste Characterization and 
+
+Customer Survey Report.                            
+
+https://your.kingcounty.gov/solidwaste/about/documents/waste-characterization-study-
+
+2015.pdf  
+
+•  Department of Ecology, State of Washington. 2015-2016 Washington Statewide Waste 
+
+Characterization Study.            
+
+https://fortress.wa.gov/ecy/publications/SummaryPages/1607032.html                
+
+•  Mecklenburg County, North Carolina. Solid Waste Characterization Study - Fall 2015.  
+
+http://charmeck.org/mecklenburg/county/LUESA/SolidWaste/ManagementPlan/Documents/M
+
+ecklenburg%20County%20Waste%20Characterization%20Study%20(2015).pdf                
+
+• 
+
+Larimer County, CO. 2016 Waste Composition and Characterization Analysis. 
+
+www.co.larimer.co.us/solidwaste/publications/WasteSort.pdf 
+
+•  Austin Resource Recovery – Austin, TX. City-Serviced Residential Waste Characterization Study, 
+
+2015. https://www.austintexas.gov/sites/default/files/files/Final_Report_-_Austin_City-
+
+Serviced_Waste_Characterization_Study_2015-04-14.pdf 
+
+Page 57 
+
+ 
+ 
+ 
+•  City of Palo Alto, CA. 2013 Waste Characterization Report. 
+
+http://www.cityofpaloalto.org/civicax/filebank/documents/33681. 
+
+Additional Studies Consulted 
+
+•  Delaware Solid Waste Authority, Statewide Waste Characterization Study, 2007. 
+
+http://www.dswa.com/pdfs/reports/Statewide%20Waste%20Characterization%20Study%20200
+
+6-2007.pdf 
+
+• 
+
+Iowa Department of Natural Resources, 2017 Iowa Statewide Waste Characterization Study, 
+
+Final Report, September 2011, 2017.  http://www.iowadnr.gov/About-DNR/DNR-News-
+
+Releases/ArticleID/1674/DNR-releases-2017-Iowa-Statewide-Waste-Characterization-Study-
+
+food-waste-and-plastics-top-the-list 
+
+•  Missouri Department of Natural Resources, 2016-2017 Missouri Waste Composition Study, 
+
+2016-17. https://dnr.mo.gov/env/swmp/docs/20162017wastesortcharreport.pdf 
+
+•  Nebraska Department of Environmental Quality, Waste Characterization Study, 2009. 
+
+http://www.deq.state.ne.us/Publica.nsf/23e5e39594c064ee852564ae004fa010/e3b876e52f86f
+
+1a6862575c900733cca/$FILE/Waste%20Study%20Portfolio.pdf 
+
+•  Oregon Department of Environmental Quality, Oregon Waste Composition Study, 2006; Oregon 
+
+Solid Waste Characterization and Composition, 2002. 
+
+http://www.deq.state.or.us/lq/sw/disposal/2005study.htm 
+
+http://www.deq.state.or.us/lq/sw/disposal/wastecompositionstudy.htm 
+
+•  Vermont Department of Environmental Conservation, Vermont Waste Composition Study, 2002. 
+
+http://www.cswd.net/pdf/VT_WCS.pdf 
+
+•  Metro Vancouver, BC. 2013 Waste Composition Monitoring Program.                   
+
+Page 58 
+
+ 
+ 
+ 
+ 
+Appendix IV: Comprehensive Characterization Categories 
+
+Material Type 
+
+High Grade - general with 
+White and Colored Ledger 
+Mixed/ unspecified Office 
+Low Grade - general (OMG), 
+Boxboard, Paper Bags, 
+Phonebooks, and other 
+recyclable 
+ONP 
+OCC 
+Cartons, Aseptics and Poly-
+coated 
+Compostable/ soiled and all 
+other paper 
+Paper Subtotal 
+
+PET bottles and containers 
+HDPE Bottles Natural & 
+Colored 
+Plastic bottles and #3-7 
+(general) 
+All other Plastics and 
+Packaging, LDPE, Polystyrene, 
+Durable /Rigid containers and 
+PP tubs) 
+Plastic Subtotal 
+Aluminum cans 
+Ferrous metals (includes 
+Tin/Steel Cans) 
+Non-ferrous metals, Aluminum 
+(foil) and Other Metal and 
+Aerosol Cans 
+Metal Subtotal 
+Glass - general including 
+containers 
+Other Glass 
+Glass Subtotal 
+Electronics - general, 
+computer, and CRT 
+
+Residential and Commercial 
+Medium 
+Diversion - 
+Residential 
+and 
+Commercial  
+
+Low 
+Diversion - 
+Residential 
+and 
+Commercial  
+
+High 
+Diversion - 
+Residential 
+and 
+Commercial  
+
+Residential 
+
+Low 
+Diversion - 
+National 
+Residential 
+
+Medium 
+Diversion - 
+National 
+Residential 
+
+High 
+Diversion - 
+National 
+Residential 
+
+National 
+Residential 
+
+National 
+Commercial 
+
+National 
+Residential 
+and 
+Commercial  
+
+GL 
+Residential 
+
+ GL 
+Residential 
+and 
+Commercial 
+
+0.35% 
+
+2.37% 
+
+1.27% 
+
+0.40% 
+
+0.48% 
+
+0.23% 
+
+0.25% 
+
+1.10% 
+
+1.17% 
+
+0.57% 
+
+0.20% 
+
+0.85% 
+
+1.11% 
+
+0.26% 
+
+1.35% 
+
+1.13% 
+
+1.32% 
+
+0.66% 
+
+1.12% 
+
+0.82% 
+
+1.43% 
+
+0.67% 
+
+7.63% 
+
+4.10% 
+
+5.22% 
+
+7.85% 
+
+6.00% 
+
+0.95% 
+
+6.10% 
+
+6.32% 
+
+5.27% 
+
+9.50% 
+
+5.72% 
+
+4.02% 
+10.12% 
+
+0.17% 
+
+8.03% 
+
+32.69% 
+1.12% 
+
+1.73% 
+4.87% 
+
+0.07% 
+
+8.87% 
+
+21.30% 
+0.67% 
+
+1.64% 
+2.68% 
+
+0.28% 
+
+4.70% 
+5.45% 
+
+0.25% 
+
+2.83% 
+2.60% 
+
+0.03% 
+
+1.87% 
+2.19% 
+
+0.17% 
+
+3.39% 
+3.65% 
+
+0.15% 
+
+7.90% 
+
+7.70% 
+
+10.40% 
+
+12.62% 
+
+9.73% 
+
+18.43% 
+0.65% 
+
+27.30% 
+1.30% 
+
+23.60% 
+0.83% 
+
+18.85% 
+1.10% 
+
+24.39% 
+1.30% 
+
+2.05% 
+9.80% 
+
+0.21% 
+
+8.63% 
+
+29.50% 
+0.99% 
+
+2.87% 
+6.09% 
+
+0.23% 
+
+4.17% 
+4.55% 
+
+0.22% 
+
+9.11% 
+
+7.71% 
+
+25.54% 
+1.15% 
+
+28.09% 
+1.31% 
+
+3.33% 
+9.09% 
+
+0.18% 
+
+7.11% 
+
+27.52% 
+1.29% 
+
+0.99% 
+
+0.43% 
+
+0.54% 
+
+1.10% 
+
+0.73% 
+
+0.75% 
+
+0.80% 
+
+0.99% 
+
+0.88% 
+
+0.87% 
+
+1.52% 
+
+0.42% 
+
+0.17% 
+
+0.70% 
+
+0.65% 
+
+0.40% 
+
+0.76% 
+
+0.96% 
+
+0.60% 
+
+0.64% 
+
+0.79% 
+
+0.51% 
+
+11.35% 
+
+10.37% 
+
+10.88% 
+
+9.70% 
+
+9.13% 
+
+9.49% 
+
+9.54% 
+
+11.87% 
+
+10.17% 
+
+10.09% 
+
+10.72% 
+
+13.88% 
+0.54% 
+
+3.75% 
+
+11.63% 
+0.20% 
+
+3.03% 
+
+12.77% 
+0.30% 
+
+12.75% 
+0.55% 
+
+11.10% 
+0.30% 
+
+12.09% 
+0.37% 
+
+12.60% 
+0.53% 
+
+2.30% 
+
+3.90% 
+
+2.67% 
+
+2.64% 
+
+2.63% 
+
+14.45% 
+0.36% 
+
+2.91% 
+
+12.85% 
+0.48% 
+
+13.06% 
+0.51% 
+
+3.03% 
+
+2.93% 
+
+14.04% 
+0.48% 
+
+3.92% 
+
+1.04% 
+
+1.70% 
+
+2.20% 
+
+1.20% 
+
+1.60% 
+
+1.86% 
+
+1.46% 
+
+1.71% 
+
+1.82% 
+
+1.45% 
+
+1.37% 
+
+5.33% 
+
+2.91% 
+
+0.37% 
+3.28% 
+
+2.23% 
+
+4.93% 
+
+1.23% 
+
+0.77% 
+2.00% 
+
+2.13% 
+
+4.80% 
+
+1.93% 
+
+0.61% 
+2.54% 
+
+0.30% 
+
+5.65% 
+
+3.55% 
+
+0.40% 
+3.95% 
+
+2.15% 
+
+4.57% 
+
+1.70% 
+
+0.73% 
+2.43% 
+
+2.07% 
+
+4.87% 
+
+2.22% 
+
+0.58% 
+2.80% 
+
+0.37% 
+
+4.62% 
+
+2.76% 
+
+0.54% 
+3.30% 
+
+1.29% 
+
+4.98% 
+
+1.63% 
+
+0.51% 
+2.14% 
+
+1.17% 
+
+5.33% 
+
+2.46% 
+
+0.69% 
+3.15% 
+
+1.07% 
+
+4.89% 
+
+3.15% 
+
+0.98% 
+4.14% 
+
+2.07% 
+
+5.77% 
+
+2.43% 
+
+0.45% 
+2.88% 
+
+1.76% 
+
+Page 59 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+White goods (appliances) 
+Electronics Subtotal 
+Total Wood 
+Yard waste - general 
+Food 
+Other R/C Organics, Branches 
+and Stumps 
+Organic Subtotal 
+Other Textiles, Tires, Carpet, 
+Light Bulbs 
+OTHER NON- RECYCLABLE 
+MATERIAL 
+Total 
+
+0.00% 
+2.23% 
+8.67% 
+3.12% 
+12.46% 
+
+5.20% 
+
+0.37% 
+2.50% 
+11.87% 
+5.70% 
+13.07% 
+
+5.13% 
+
+0.40% 
+0.70% 
+7.61% 
+2.55% 
+26.58% 
+
+0.00% 
+2.15% 
+6.35% 
+4.90% 
+13.40% 
+
+0.43% 
+2.50% 
+6.27% 
+7.87% 
+17.50% 
+
+0.00% 
+0.37% 
+3.77% 
+4.58% 
+23.61% 
+
+0.25% 
+1.54% 
+3.90% 
+4.71% 
+20.69% 
+
+7.23% 
+
+7.55% 
+
+8.00% 
+
+4.35% 
+
+6.09% 
+
+0.08% 
+1.26% 
+7.46% 
+2.05% 
+15.90% 
+
+3.01% 
+
+0.27% 
+1.35% 
+7.25% 
+3.60% 
+16.92% 
+
+0.20% 
+2.27% 
+7.49% 
+4.17% 
+16.03% 
+
+3.53% 
+
+8.55% 
+
+0.24% 
+2.00% 
+9.81% 
+4.10% 
+13.29% 
+
+3.53% 
+
+20.79% 
+
+23.90% 
+
+36.35% 
+
+25.85% 
+
+33.37% 
+
+32.54% 
+
+31.48% 
+
+20.97% 
+
+24.05% 
+
+28.75% 
+
+20.92% 
+
+6.23% 
+
+6.20% 
+
+4.56% 
+
+7.65% 
+
+7.70% 
+
+3.45% 
+
+5.88% 
+
+4.50% 
+
+5.14% 
+
+7.03% 
+
+5.73% 
+
+6.90% 
+
+100.0% 
+
+15.67% 
+
+100.0% 
+
+12.24% 
+
+8.35% 
+
+8.47% 
+
+21.28% 
+
+12.28% 
+
+14.75% 
+
+15.34% 
+
+4.29% 
+
+100.0% 
+
+100.0% 
+
+100.0% 
+
+100.0% 
+
+100.000% 
+
+100.000% 
+
+100.0% 
+
+100.0% 
+
+11.34% 
+
+100.0% 
+
+Page 60 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix V: Consolidation of Characterization Categories 
+
+High Grade - general 
+White Office 
+White Ledger 
+Colored Ledger 
+Mixed/ unspecified Office 
+Low Grade - general 
+Paperboard/ Boxboard 
+Magazines and Catalogs (OMG) 
+Paper Bags 
+Phonebooks and Directories 
+Other Recyclable Paper 
+Hard Bound Books 
+OCC 
+ONP 
+Aseptic 
+Cartons 
+Poly-coated Paper 
+Compostable/soiled 
+all other paper 
+PET bottles  
+PET containers non-bottles  
+HDPE Bottles Natural  
+HDPE Bottles not specified/Colored 
+LDPE (includes some bags, film) 
+Expanded Polystyrene (foam) 
+Durable and Rigid containers 
+Plastic Packaging 
+All other Plastics 
+Other Plastic Films 
+PP (includes tubs) 
+Plastic bottles and #3-7 (general) 
+Vinyl (PVA) 
+Aluminum cans 
+Tin/Steel Cans 
+Tin cans 
+Ferrous metals (includes tin) 
+Steel Cans/Packaging 
+Aerosol Cans 
+Other Metal 
+Aluminum (foil and other) 
+
+High Grade - general with White and Colored Ledger 
+
+Mixed/ unspecified Office 
+
+Low Grade - general  
+OMG, Boxboard, Paper Bags, Phonebooks other recyclable 
+
+OCC 
+ONP 
+
+Cartons, Aseptic and Poly-coated 
+
+Compostable/ soiled and all other paper 
+
+PET bottles and containers 
+
+HDPE Bottles Natural & Colored 
+
+All other Plastics and Packaging, LDPE, Polystyrene (foam), 
+Durable and Rigid containers and PP tubs) 
+
+Plastic bottles and #3-7 (general) 
+
+Aluminum cans 
+
+Ferrous metals (includes Tin/Steel Cans,  tin) 
+
+Page 61 
+
+ 
+ 
+ 
+Non-ferrous metals 
+Glass - general 
+Container 
+Flat/plate 
+Other Glass 
+Brown goods and electronics - general 
+Computer-related includes monitors 
+Video display and CRT devices 
+Other electronics 
+White goods (appliances) 
+Wood - general 
+Untreated Wood 
+Treated Wood 
+Painted 
+Unpainted 
+Clean engineered 
+Pallets and crates 
+Lumber 
+Contaminated 
+Furniture 
+Yard waste <6" 
+Yard waste >6" 
+Yard waste  and other Compostable  
+Yard waste - general 
+Branches  
+Stumps 
+Prunings and Trimmings 
+Leaves and grass 
+Food 
+Other Compostable organics 
+Other R/C Organics and Branches and Stumps >6" 
+Porcelain toilets 
+Batteries 
+Tires 
+Used Oil 
+Carpet 
+Textiles 
+Light bulbs - general 
+Fluorescent blubs 
+Non- Recyclable Material  
+
+Non-ferrous metals, Aluminum (foil)  
+and Other Metal and Aerosol Cans 
+
+Glass - general including containers 
+
+Other Glass 
+
+Electronics - general, computer related, and CRT 
+
+White goods (appliances) 
+
+Total Wood 
+
+Yard waste - general 
+
+Food 
+
+Other Organics, 
+
+Textiles, (Batteries, Tires, Carpet, Light Bulbs) 
+
+Other Non- Recyclable Material  
+
+Page 62 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix VI: Paper Mills Utilizing Recovered Paper 
+
+Company Name 
+
+Facility Name 
+
+City 
+
+State 
+
+American Eagle Paper 
+Appleton Coated LLC 
+Caraustar 
+
+American Eagle Paper - Tyrone 
+Appleton Coated LLC - Combined Locks 
+Caraustar - Cincinnati 
+
+Tyrone 
+Combined Locks 
+Cincinnati 
+
+Ransom 
+Eau Claire 
+Ladysmith 
+Wisconsin Rapids 
+Nekoosa 
+Massillon 
+Park Falls 
+De Pere 
+Niles 
+Alsip 
+Manistique 
+Big Island 
+Green Bay 
+Chillicothe 
+
+Cascades - Ransom 
+Cascades - Eau Claire 
+Clearwater Paper - Ladysmith 
+Corenso - Wisconsin Rapids 
+Domtar - Nekoosa 
+FiberCorr - Massillon 
+Flambeau River Papers - Park Falls 
+Fox River Fiber - De Pere 
+French Paper - Niles 
+FutureMark Paper - Alsip 
+FutureMark Paper - Manistique 
+Georgia-Pacific - Big Island 
+Georgia-Pacific - Green Bay 
+Glatfelter - Chillicothe 
+
+Cascades 
+Cascades 
+Clearwater Paper 
+Corenso 
+Domtar 
+FiberCorr 
+Flambeau River Papers 
+Fox River Fiber 
+French Paper 
+FutureMark Paper 
+FutureMark Paper 
+Georgia-Pacific 
+Georgia-Pacific 
+Glatfelter 
+Graphic Packaging International  Graphic Packaging International - Battle Creek  Battle Creek 
+Graphic Packaging International  Graphic Packaging International - Kalamazoo 
+Graphic Packaging International  Graphic Packaging International - Middletown  Middletown 
+Cheboygan 
+Great Lakes Tissue 
+Green Bay 
+Green Bay Packaging 
+Massillon 
+Greif 
+Amherst 
+Greif 
+Hartford City 
+Hartford City Paper 
+Waverly 
+Hood Container Corporation 
+Cayuga 
+International Paper 
+Reading 
+Interstate Resources 
+
+Great Lakes Tissue - Cheboygan 
+Green Bay Packaging - Green Bay 
+Greif - Massillon 
+Greif - Amherst 
+Hartford City Paper - Hartford City 
+Hood Container Corporation - Waverly 
+International Paper - Cayuga 
+Interstate Resources - Reading 
+
+Kalamazoo 
+
+PA 
+WI 
+OH 
+
+PA 
+WI 
+WI 
+WI 
+WI 
+OH 
+WI 
+WI 
+MI 
+IL 
+MI 
+VA 
+WI 
+OH 
+MI 
+MI 
+OH 
+MI 
+WI 
+OH 
+VA 
+IN 
+TN 
+IN 
+PA 
+
+Estimated 
+Tons per 
+Year 
+
+Estimated 
+OCC Tons 
+per Year 
+
+Estimated 
+Newsprint 
+Tons per 
+Year 
+
+57,505 
+22,968 
+62,925 
+
+67,212 
+62,020 
+57,093 
+85,726 
+15,808 
+82,723 
+34,977 
+173,820 
+1,433 
+95,433 
+152,213 
+377,235 
+470,548 
+14,861 
+127,425 
+348,166 
+123,887 
+24,548 
+217,444 
+204,495 
+279,306 
+123,580 
+135,641 
+347,326 
+162,390 
+
+0 
+0 
+55,303 
+
+0 
+0 
+0 
+85,726 
+0 
+62,101 
+0 
+0 
+0 
+0 
+24,256 
+324,289 
+0 
+0 
+40,077 
+147,756 
+3,635 
+0 
+201,895 
+204,495 
+279,306 
+111,204 
+135,641 
+275,291 
+153,637 
+
+0 
+0 
+0 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+14,209 
+0 
+0 
+0 
+0 
+23,776 
+64,656 
+16,230 
+0 
+0 
+0 
+0 
+0 
+0 
+45,835 
+0 
+
+Estimated 
+Mixed 
+Paper 
+Tons per 
+Year 
+42,071 
+22,968 
+7,622 
+
+67,212 
+62,020 
+57,093 
+0 
+15,808 
+20,622 
+34,977 
+173,820 
+1,433 
+81,224 
+127,957 
+52,946 
+470,548 
+14,861 
+63,572 
+135,754 
+104,022 
+24,548 
+15,549 
+0 
+0 
+12,377 
+0 
+26,200 
+8,753 
+
+Page 63 
+
+ 
+ 
+ 
+Kimberly-Clark 
+Neenah Paper 
+Neenah Paper 
+Neenah Paper 
+Newark 
+Ox Paperboard 
+Ox Paperboard 
+Ox Paperboard 
+PaperWorks Industries 
+PaperWorks Industries 
+PCA 
+PCA 
+PCA 
+Pratt Paper 
+Pratt Paper 
+Resolute Forest Products 
+Resolute Forest Products 
+Resolute Forest Products 
+RockTenn 
+RockTenn 
+RockTenn 
+RockTenn 
+RockTenn 
+RockTenn 
+RockTenn 
+RockTenn 
+SCA 
+Sonoco Products 
+ST Paper 
+ST Paper 
+Valley Converting Co. 
+Wausau Paper 
+White Birch Paper 
+White Pigeon Paper 
+
+Kimberly-Clark - Loudon 
+Neenah Paper - Appleton 
+Neenah Paper - Neenah 
+Neenah Paper - Stevens Point 
+Newark - Baltimore 
+Ox Paperboard - Pekin 
+Ox Paperboard - Constantine 
+Ox Paperboard - Halltown 
+PaperWorks Industries - Wabash 
+PaperWorks Industries - Philadelphia 
+PCA - Filer City 
+PCA - Counce 
+PCA - Tomahawk 
+Pratt Paper - Valparaiso  
+Pratt Paper - Wapakoneta  
+Resolute Forest Products - Menominee 
+Resolute Forest Products - Calhoun 
+Resolute Forest Products - Fairmont 
+RockTenn - Eaton 
+RockTenn - Battle Creek 
+RockTenn - Cincinnati 
+RockTenn - Coshocton 
+RockTenn - Delaware Water Gap 
+RockTenn - Chattanooga 
+RockTenn - Hopewell 
+RockTenn - West Point 
+SCA - Menasha 
+Sonoco Products - Richmond 
+ST Paper - Franklin 
+ST Paper - Oconto Falls 
+Valley Converting Co. - Toronto 
+Wausau Paper - Middletown 
+White Birch Paper - Ashland 
+White Pigeon Paper - White Pigeon 
+
+89,112 
+3,995 
+4,477 
+12,310 
+109,491 
+44,020 
+52,915 
+40,421 
+134,201 
+126,978 
+179,967 
+178,889 
+177,323 
+335,658 
+209,378 
+230,157 
+34,641 
+290,345 
+56,892 
+125,473 
+44,746 
+99,858 
+59,566 
+117,741 
+71,858 
+324,838 
+223,612 
+76,898 
+62,972 
+76,703 
+19,768 
+117,135 
+62,426 
+62,274 
+
+0 
+0 
+0 
+0 
+81,748 
+14,832 
+36,877 
+28,167 
+31,963 
+41,472 
+171,494 
+170,467 
+152,122 
+0 
+62,051 
+0 
+0 
+0 
+26,030 
+31,073 
+29,720 
+99,858 
+0 
+64,390 
+71,858 
+304,299 
+104,477 
+65,147 
+0 
+0 
+2,973 
+16,309 
+0 
+13,147 
+
+0 
+0 
+0 
+0 
+0 
+5,972 
+0 
+0 
+31,312 
+43,719 
+0 
+0 
+0 
+0 
+0 
+0 
+25,982 
+0 
+8,564 
+25,687 
+0 
+0 
+3,186 
+13,794 
+0 
+0 
+0 
+0 
+0 
+0 
+3,006 
+0 
+46,820 
+6,573 
+
+89,112 
+3,995 
+4,477 
+12,310 
+27,743 
+23,216 
+16,038 
+12,253 
+70,926 
+41,787 
+8,473 
+8,421 
+25,201 
+335,658 
+147,327 
+230,157 
+8,659 
+290,345 
+22,299 
+68,713 
+15,026 
+0 
+56,380 
+39,557 
+0 
+20,540 
+119,135 
+11,752 
+62,972 
+76,703 
+13,790 
+100,825 
+15,606 
+42,553 
+
+TN 
+Loudon 
+WI 
+Appleton 
+WI 
+Neenah 
+WI 
+Stevens Point 
+OH 
+Baltimore 
+IL 
+Pekin 
+MI 
+Constantine 
+WV 
+Halltown 
+IN 
+Wabash 
+PA 
+Philadelphia 
+MI 
+Filer City 
+TN 
+Counce 
+WI 
+Tomahawk 
+IN 
+Valparaiso  
+OH 
+Wapakoneta  
+MI 
+Menominee 
+TN 
+Calhoun 
+WV 
+Fairmont 
+IN 
+Eaton 
+MI 
+Battle Creek 
+OH 
+Cincinnati 
+Coshocton 
+OH 
+Delaware Water Gap  PA 
+TN 
+Chattanooga 
+VA 
+Hopewell 
+VA 
+West Point 
+WI 
+Menasha 
+VA 
+Richmond 
+VA 
+Franklin 
+WI 
+Oconto Falls 
+OH 
+Toronto 
+OH 
+Middletown 
+VA 
+Ashland 
+MI 
+White Pigeon 
+
+Page 64 
+
+ 
+ 
+ 
+Company Name 
+
+Facility Name 
+
+City 
+
+State 
+
+Appendix VII: Plants Utilizing Recovered Plastics 
+
+3R Recycling Solutions Inc.  
+Aaron Industries Corp.  
+ACI Plastics Inc.  
+Adams Plastics LP  
+Adirondack Plastics & Recycling Inc.  
+Advanced Environmental Recycling 
+Technologies Inc.(P)b  
+Alloy Exchange Inc.  
+Angleboard Blue Ridge Division  
+Antek Madison Plastics Recycling Corp.  
+
+Appertain Corp.  
+Arrotin Plastic Materials Inc.  
+Arthur Products LLC  
+B. Schoenberg & Co. Inc.  
+Bach Polymers  
+Bata Plastics Inc.  
+Bedford Technology LLC  
+Blackrock Plastics LLC  
+Bosgen Inc.  
+Bromley Plastics Corp.  
+Buckeye Polymers Inc.  
+Butler-MacDonald Inc.  
+C4 Polymers Inc.  
+Canusa Hershman Recycling LLC  
+Champion Polymer Recycling  
+Choice Plastics Inc.  
+Clean Tech Inc.  
+CM Polymers Inc.  
+CTC Plastics  
+Custom Polymers Inc.  
+
+3R Recycling Solutions Inc.  - Avon 
+Aaron Industries Corp.  - Leominster 
+ACI Plastics Inc.  - Flint 
+Adams Plastics LP  - Rolling Meadows 
+Adirondack Plastics & Recycling Inc.  - Argyle 
+Advanced Environmental Recycling Technologies 
+Inc.(P)b  - Springdale 
+Alloy Exchange Inc.  - Rockford 
+Angleboard Blue Ridge Division  - Eden 
+Antek Madison Plastics Recycling Corp.  - 
+Scarborough 
+Appertain Corp.  - Pulaski 
+Arrotin Plastic Materials Inc.  - Fort Wayne 
+Arthur Products LLC  - Enfield 
+B. Schoenberg & Co. Inc.  - Yorktown 
+Bach Polymers  - Annapolis 
+Bata Plastics Inc.  - Grand Rapids 
+Bedford Technology LLC  - Worthington 
+Blackrock Plastics LLC  - Charleston 
+Bosgen Inc.  - Wellesley 
+Bromley Plastics Corp.  - Fletcher 
+Buckeye Polymers Inc.  - Lodi 
+Butler-MacDonald Inc.  - Indianapolis 
+C4 Polymers Inc.  - Chagrin Falls 
+Canusa Hershman Recycling LLC  - Branford 
+Champion Polymer Recycling  - Winchester 
+Choice Plastics Inc.  - Mound 
+Clean Tech Inc.  - Dundee 
+CM Polymers Inc.  - Montvale 
+CTC Plastics  - Dayton 
+Custom Polymers Inc.  - Charlotte 
+
+Avon 
+Leominster 
+Flint 
+Rolling Meadows 
+Argyle 
+Springdale 
+
+Rockford 
+Eden 
+Scarborough 
+
+Pulaski 
+Fort Wayne 
+Enfield 
+Yorktown 
+Annapolis 
+Grand Rapids 
+Worthington 
+Charleston 
+Wellesley 
+Fletcher 
+Lodi 
+Indianapolis 
+Chagrin Falls 
+Branford 
+Winchester 
+Mound 
+Dundee 
+Montvale 
+Dayton 
+Charlotte 
+
+Page 65 
+
+MA 
+MA 
+MI 
+IL 
+NY 
+AR 
+
+MI 
+NC 
+ON 
+
+TN 
+IN 
+CT 
+NY 
+MD 
+MI 
+MN 
+SC 
+MA 
+NC 
+OH 
+IN 
+OH 
+CT 
+KY 
+MN 
+MI 
+NJ 
+OH 
+NC 
+
+Estimated 
+Tons per Year 
+1,850  
+20,000  
+28,500  
+2,500  
+8,300  
+50,000  
+
+5,100  
+21,000  
+38,500  
+
+3,900  
+30,000  
+900  
+202,500  
+30,000  
+22,700  
+10,000  
+3,750  
+900  
+40,400  
+20,000  
+17,250  
+10,150  
+3,900  
+55,000  
+8,800  
+125,000  
+900  
+40,000  
+125,400  
+
+ 
+ 
+ 
+Custom Resins Inc.  
+Cycle-Tex Inc.  
+Delta Plastics of the South LLC  
+Deltco Plastics Inc.  
+Destiny Plastics Inc.  
+Domino Plastics Co. Inc.  
+Eastern Recycling Services LLC  
+East-Terra Supply LLC  
+EFS-Plastics Inc.  
+Engineered Recycling Co. LLC  
+Envision Plastics LLC  
+Evergreen Plastics Inc.  
+Exxel Polymers Inc.  
+Faith Group Co. Inc.  
+Franklin Plastics  
+General Mill Supply Co.  
+Gianco Environmental Services  
+Good Works Reprocessing LLC  
+GP Harmon Recycling LLC  
+Grace Plastics Inc.  
+Graham Recycling Co.  
+Green Earth Plastic Recycling Inc.  
+Green Line Polymers  
+Green Processing Co. Inc.  
+Greystone Logistics Inc.(P)  
+H. Sattler Plastics Co. Inc.  
+Industrial Materials Recycling LLC  
+Industrial Resin Recycling Inc.  
+Industrial Resources Co.  
+In-plas Recycling Inc.  
+iSustain Inc.  
+Jadcore LLC  
+Jerico Plastic Industries Inc.  
+K&B Plastic Industries Inc.  
+
+Custom Resins Inc.  - Wayne 
+Cycle-Tex Inc.  - Dalton 
+Delta Plastics of the South LLC  - Little Rock 
+Deltco Plastics Inc.  - Ashland 
+Destiny Plastics Inc.  - Deckerville 
+Domino Plastics Co. Inc.  - Port Jefferson 
+Eastern Recycling Services LLC  - Baltimore 
+East-Terra Supply LLC  - Indianapolis 
+EFS-Plastics Inc.  - Listowel 
+Engineered Recycling Co. LLC  - Charlotte 
+Envision Plastics LLC  - Reidsville 
+Evergreen Plastics Inc.  - Clyde 
+Exxel Polymers Inc.  - Bromont 
+Faith Group Co. Inc.  - Manalapan 
+Franklin Plastics  - Battle Creek 
+General Mill Supply Co.  - Wixom 
+Gianco Environmental Services  - Melville 
+Good Works Reprocessing LLC  - Easton 
+GP Harmon Recycling LLC  - Jericho 
+Grace Plastics Inc.  - Batavia 
+Graham Recycling Co.  - York 
+Green Earth Plastic Recycling Inc.  - Joliet 
+Green Line Polymers  - Waterloo 
+Green Processing Co. Inc.  - Windsor 
+Greystone Logistics Inc.(P)  - Bettendorf 
+H. Sattler Plastics Co. Inc.  - Chicago 
+Industrial Materials Recycling LLC  - Buffalo 
+Industrial Resin Recycling Inc.  - Howell 
+Industrial Resources Co.  - McHenry 
+In-plas Recycling Inc.  - Lawrenceburg 
+iSustain Inc.  - Soddy Daisy 
+Jadcore LLC  - Terre Haute 
+Jerico Plastic Industries Inc.  - Minerva 
+K&B Plastic Industries Inc.  - Blodgett Mills 
+
+Page 66 
+
+Wayne 
+Dalton 
+Little Rock 
+Ashland 
+Deckerville 
+Port Jefferson 
+Baltimore 
+Indianapolis 
+Listowel 
+Charlotte 
+Reidsville 
+Clyde 
+Bromont 
+Manalapan 
+Battle Creek 
+Wixom 
+Melville 
+Easton 
+Jericho 
+Batavia 
+York 
+Joliet 
+Waterloo 
+Windsor 
+Bettendorf 
+Chicago 
+Buffalo 
+Howell 
+McHenry 
+Lawrenceburg 
+Soddy Daisy 
+Terre Haute 
+Minerva 
+Blodgett Mills 
+
+NJ 
+GA 
+AR 
+WI 
+MI 
+NY 
+MD 
+IN 
+ON 
+NC 
+NC 
+OH 
+ON 
+NJ 
+MI 
+MI 
+NY 
+PA 
+NY 
+OH 
+PA 
+IL 
+IA 
+ON 
+IA 
+IL 
+NY 
+MI 
+IL 
+IN 
+TN 
+IN 
+OH 
+NY 
+
+17,500  
+33,500  
+62,500  
+15,675  
+9,500  
+2,500  
+225  
+9,600  
+33,000  
+47,500  
+87,500  
+55,000  
+11,375  
+6,200  
+6,100  
+14,400  
+375  
+65,500  
+7,500  
+2,125  
+20,000  
+5,400  
+142,500  
+19,150  
+22,500  
+4,900  
+4,095  
+32,400  
+250  
+12,000  
+10,050  
+48,000  
+3,600  
+17,100  
+
+ 
+ 
+ 
+Kal-Trading Inc.  
+KJ Plastics Inc.  
+Klöckner Pentaplast Group  
+L&P Plastics Co.  
+Lion Extruding Corp.  
+Marglen Industries Inc.  
+Marsh Plastics Inc.  
+Material Recovery Inc.  
+McDunnough Inc.  
+Mega Recycling LLC  
+Mervis Industries Inc.  
+Midland Compounding & Consulting Inc.  
+
+Midwest Recycling Co. Inc.  
+Nam Polymers Inc.  
+Nexcycle Plastics Inc.  
+Next Specialty Resins Inc.  
+Norwich Plastics Inc.  
+Nu-Tech Polymers Co. Inc.  
+O.K. Industries Inc.  
+Palmer Plastics Inc.  
+Parc Corp.  
+PET Processors LLC  
+Petoskey Plastics Inc.  
+PFA Recycling Inc.  
+PGA Inc.  
+Phoenix Technologies International LLC  
+
+Plast-Ex International Inc.  
+Plastic Compounders Inc.  
+Plastic Materials Inc.  
+Plastic Recycling Inc.  
+Plastic Revolutions Inc.  
+Plastics Group of America  
+Polychem USA Inc.  
+
+Kal-Trading Inc.  - Mississauga 
+KJ Plastics Inc.  - Green Lane 
+Klöckner Pentaplast Group  - Gordonsville 
+L&P Plastics Co.  - Harrison City 
+Lion Extruding Corp.  - Newark 
+Marglen Industries Inc.  - Rome 
+Marsh Plastics Inc.  - Amherst 
+Material Recovery Inc.  - Milwaukee 
+McDunnough Inc.  - Fenton 
+Mega Recycling LLC  - Romeoville 
+Mervis Industries Inc.  - Danville 
+Midland Compounding & Consulting Inc.  - 
+Midland 
+Midwest Recycling Co. Inc.  - Chicago 
+Nam Polymers Inc.  - Etobicoke 
+Nexcycle Plastics Inc.  - Brampton 
+Next Specialty Resins Inc.  - Toledo 
+Norwich Plastics Inc.  - Cambridge 
+Nu-Tech Polymers Co. Inc.  - Cincinnati 
+O.K. Industries Inc.  - Fostoria 
+Palmer Plastics Inc.  - Easton 
+Parc Corp.  - Romeoville 
+PET Processors LLC  - Painesville 
+Petoskey Plastics Inc.  - Petoskey 
+PFA Recycling Inc.  - Chesterfield 
+PGA Inc.  - Freeland 
+Phoenix Technologies International LLC  - 
+Bowling Green 
+Plast-Ex International Inc.  - Brampton 
+Plastic Compounders Inc.  - Cambridge 
+Plastic Materials Inc.  - Macedonia 
+Plastic Recycling Inc.  - Indianapolis 
+Plastic Revolutions Inc.  - Reidsville 
+Plastics Group of America  - Woonsocket 
+Polychem USA Inc.  - Foxboro 
+
+Page 67 
+
+Mississauga 
+Green Lane 
+Gordonsville 
+Harrison City 
+Newark 
+Rome 
+Amherst 
+Milwaukee 
+Fenton 
+Romeoville 
+Danville 
+Midland 
+
+Chicago 
+Etobicoke 
+Brampton 
+Toledo 
+Cambridge 
+Cincinnati 
+Fostoria 
+Easton 
+Romeoville 
+Painesville 
+Petoskey 
+Chesterfield 
+Freeland 
+Bowling Green 
+
+Brampton 
+Cambridge 
+Macedonia 
+Indianapolis 
+Reidsville 
+Woonsocket 
+Foxboro 
+
+ON 
+PA 
+VA 
+PA 
+NJ 
+GA 
+NY 
+WI 
+MI 
+IL 
+IL 
+MI 
+
+IL 
+ON 
+ON 
+OH 
+ON 
+OH 
+OH 
+PA 
+IL 
+OH 
+MI 
+MI 
+PA 
+OH 
+
+ON 
+OH 
+OH 
+IN 
+NC 
+RI 
+MA 
+
+12,500  
+7,500  
+36,000  
+1,000  
+5,250  
+33,000  
+1,250  
+5,000  
+25,150  
+1,875  
+14,000  
+2,000  
+
+5,000  
+9,000  
+46,000  
+10,000  
+17,500  
+12,500  
+6,750  
+12,000  
+90,000  
+25,000  
+15,000  
+7,200  
+6,350  
+37,500  
+
+6,000  
+15,000  
+27,000  
+36,800  
+42,000  
+11,250  
+80,000  
+
+ 
+ 
+ 
+PolyReps Inc.  
+Prime Time Plastics Ltd.  
+Pro Pel Plastech Inc.  
+RBW Technologies  
+Recycle Inc. East 
+Recycled Materials Inc.  
+Recycling Solutions Inc.  
+Return Polymers Inc.  
+ReVital Polymers 
+Rez-Tech Corp.  
+Rochester Recycling LLC  
+SBC Solutions Group  
+Scrap Masters Inc.  
+Seaview Plastic Recycling Inc.  
+Shuman Plastics Inc.  
+Sonoco Recycling LLC  
+St. Joseph Plastics  
+Star Plastics Inc.  
+Syncot Plastics Inc.  
+TKO Polymers Group  
+Trigon Plastics LLC  
+Ultra-Poly Corp.  
+UltrePET LLC  
+United Plastics Inc.  
+Universal Composites Inc.  
+UpCycle Polymers LLC  
+US Plastics Recovery  
+Wellman Advanced Materials  
+Wellmark LLC  
+Werlor Inc.  
+West Michigan Compounding LLC  
+William Barnet & Son LLC  
+Winco Plastics  
+
+PolyReps Inc.  - Monroe 
+Prime Time Plastics Ltd.  - Rocky River 
+Pro Pel Plastech Inc.  - South Deerfield 
+RBW Technologies  - Evans City 
+Recycle Inc. East  - South Plainfield 
+Recycled Materials Inc.  - Atlanta 
+Recycling Solutions Inc.  - Chicago 
+Return Polymers Inc.  - Ashland 
+1271 Lougar Ave 
+Rez-Tech Corp.  - Kent 
+Rochester Recycling LLC  - Rochester 
+SBC Solutions Group  - Centerburg 
+Scrap Masters Inc.  - Manchester 
+Seaview Plastic Recycling Inc.  - Bridgeport 
+Shuman Plastics Inc.  - Depew 
+Sonoco Recycling LLC  - Hartsville 
+St. Joseph Plastics  - St. Joseph 
+Star Plastics Inc.  - Ravenswood 
+Syncot Plastics Inc.  - Belmont 
+TKO Polymers Group  - Atlanta 
+Trigon Plastics LLC  - Newmanstown 
+Ultra-Poly Corp.  - Portland 
+UltrePET LLC  - Albany 
+United Plastics Inc.  - Flint 
+Universal Composites Inc.  - Port Jefferson 
+UpCycle Polymers LLC  - Howell 
+US Plastics Recovery  - Duluth 
+Wellman Advanced Materials  - Johnsonville 
+Wellmark LLC  - Asheboro 
+Werlor Inc.  - Defiance 
+West Michigan Compounding LLC  - Greenville 
+William Barnet & Son LLC  - Spartanburg 
+Winco Plastics  - North Aurora 
+
+Monroe 
+Rocky River 
+South Deerfield 
+Evans City 
+South Plainfield 
+Atlanta 
+Chicago 
+Ashland 
+Sarnia 
+Kent 
+Rochester 
+Centerburg 
+Manchester 
+Bridgeport 
+Depew 
+Hartsville 
+St. Joseph 
+Ravenswood 
+Belmont 
+Atlanta 
+Newmanstown 
+Portland 
+Albany 
+Flint 
+Port Jefferson 
+Howell 
+Duluth 
+Johnsonville 
+Asheboro 
+Defiance 
+Greenville 
+Spartanburg 
+North Aurora 
+
+Page 68 
+
+NC 
+OH 
+MA 
+PA 
+NJ 
+GA 
+IL 
+OH 
+ON 
+OH 
+NY 
+OH 
+MI 
+CT 
+NY 
+SC 
+MO 
+WV 
+NC 
+GA 
+PA 
+PA 
+NY 
+MI 
+NY 
+MI 
+GA 
+SC 
+NC 
+OH 
+MI 
+SC 
+IL 
+
+19,000  
+5,250  
+12,250  
+5,500  
+6,500  
+4,700  
+2,500  
+40,000  
+55,000  
+95  
+4,500  
+40,000  
+9,050  
+3,700  
+6,250  
+30  
+20,000  
+25,000  
+15,000  
+3,250  
+12,000  
+100,000  
+50,000  
+32,400  
+1,815  
+600  
+13,500  
+90,000  
+23,750  
+2,500  
+30,000  
+37,500  
+22,500  
+
+ 
+ 
+ 
+ 
+Company Name 
+
+Facility Name 
+
+City 
+
+State 
+
+Appendix VIII: Plants Utilizing Recovered Steel 
+
+AK Steel Corp 
+AK Steel Corp 
+AK Steel Corp 
+AK Steel Corp 
+Allegheny Technologies Inc 
+Allegheny Technologies Inc 
+Allegheny Technologies Inc 
+Alton Steel 
+ArcelorMittal North America 
+ArcelorMittal North America 
+ArcelorMittal North America 
+ArcelorMittal North America 
+ArcelorMittal North America 
+ArcelorMittal North America 
+ArcelorMittal North America 
+ArcelorMittal North America 
+ArcelorMittal North America 
+
+ArcelorMittal North America 
+ArcelorMittal North America 
+ArcelorMittal North America 
+Arkansas Steel Associates (Yamato/Sumitomo) 
+Benteler Steel/Tube (projected start up 2018) 
+Bluescope Steel North America 
+Carpenter Steel 
+Steel Dynamics, Inc. 
+
+Steel Dynamics, Inc. 
+
+The Timken Co. 
+The Timken Co. 
+
+AK Steel Corp - Ashland 
+AK Steel Corp - Mansfield 
+AK Steel Corp - Middletown 
+AK Steel Corp - Butler 
+Allegheny Ludlum - Brackenridge Works 
+Allegheny Ludlum - Latrobe Works 
+Allegheny Ludlum - Midland Works 
+Alton Steel 
+ArcelorMittal - Riverdale 
+ArcelorMittal - Burns Harbor 
+ArcelorMittal - Indiana Harbor Bar 
+ArcelorMittal - Indiana Harbor Bar #2 
+ArcelorMittal - Indiana Harbor Bar #3 
+ArcelorMittal - Indiana Harbor Bar #4 
+ArcelorMittal - Bayou Steel 
+ArcelorMittal - Cleveland East 
+ArcelorMittal - Cleveland West 
+
+ArcelorMittal - Coatesville 
+ArcelorMittal - Steelton 
+ArcelorMittal - Georgetown 
+Arkansas Steel Associates (Yamato/Sumitomo) 
+Benteler Steel/Tube (projected start up 2018) 
+Bluescope Steel North America 
+Carpenter Latrobe Specialty Steel 
+Steel Dynamics Columbia City Site Structural & Rail 
+Div. 
+Steel Dynamics Pittsboro Site Engineered Bar 
+Products Div.  
+The Timken Co. - Faircrest 
+The Timken Co. - Harrison 
+
+Page 69 
+
+Ashland 
+Mansfield 
+Middletown 
+Butler 
+Brackenridge 
+Latrobe 
+Midland 
+Alton 
+Riverdale 
+East Chicago 
+East Chicago 
+East Chicago 
+East Chicago 
+East Chicago 
+La Place 
+Cleveland 
+Cleveland 
+
+Coatesville 
+Steelton 
+Georgetown 
+Newport 
+Caddo-Bossier 
+Delta 
+Latrobe 
+Columbia City 
+
+Pittsboro 
+
+Canton 
+Canton 
+
+KY 
+OH 
+OH 
+PA 
+PA 
+PA 
+PA 
+IL 
+IL 
+IN 
+IN 
+IN 
+IN 
+IN 
+LA 
+OH 
+OH 
+
+PA 
+PA 
+SC 
+AR 
+LA 
+OH 
+PA 
+IN 
+
+IN 
+
+OH 
+OH 
+
+Estimated Tons per 
+Year 
+
+                2,546,000  
+                    882,000  
+                2,899,000  
+                1,543,000  
+                    551,000  
+                       20,000  
+                    551,000  
+                    772,000  
+                1,102,000  
+                6,173,000  
+                    507,000  
+                2,205,000  
+                2,976,000  
+                3,638,000  
+                    794,000  
+                2,535,000  
+                2,094,000  
+
+                    970,000  
+                1,213,000  
+                1,102,000  
+                    165,000  
+                    440,000  
+                2,183,000  
+                       61,000  
+                2,480,000  
+
+                    728,000  
+
+                    871,000  
+                    683,000  
+
+ 
+ 
+ 
+ 
+ThyssenKrupp Stainless USA 
+TMK - Ipsco Koppel 
+Union Electric Steel Corp. - Harmon Creek Plant 
+United States Steel Corporation 
+United States Steel Corporation 
+United States Steel Corporation 
+United States Steel Corporation 
+United States Steel Corporation 
+Universal Stainless & Alloy Products 
+V&M Star Steel CO. 
+Valbruna Slater Stainless Inc. (Subs. of Acciaierie Valbruna) 
+
+Warren Steel Holdings 
+Whemco Steel Castings, Inc 
+
+ThyssenKrupp Stainless USA 
+TMK - Ipsco Koppel 
+Union Electric Steel Corp. - Harmon Creek Plant 
+US Steel - Fairfield Works 
+US Steel - Granite City Works  
+US Steel - Gary Works (No. 1BOP & Q-BOP) 
+US Steel - Great Lakes Works 
+US Steel - Mon Valley Works  
+Universal Stainless & Alloy Products 
+V&M Star Steel CO. 
+Valbruna Slater Stainless Inc. (Subs. Of Acciaierie 
+Valbruna) 
+Warren Steel Holdings 
+Whemco Steel Castings, Inc 
+
+Calvert 
+Koppel 
+Burgettstown 
+Fairfield 
+Granite City 
+Gary 
+Ecorse 
+Braddock 
+Bridgeville 
+Youngstown 
+Ft. Wayne 
+
+Warren 
+Midland 
+
+AL 
+PA 
+PA 
+AL 
+IL 
+IN 
+MI 
+PA 
+PA 
+OH 
+IN 
+
+OH 
+PA 
+
+                1,102,000  
+                    496,000  
+                       35,000  
+                2,400,000  
+                2,866,000  
+                8,102,000  
+                3,527,000  
+                2,899,000  
+                    149,000  
+                    694,000  
+                       61,000  
+
+                    441,000  
+                       65,000  
+
+Page 70 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix IX: Plants Utilizing Recovered Aluminum 
+
+Company Name 
+
+Facility Name 
+
+City 
+
+State 
+
+Alcoa Inc.  
+Constellium Aluminum 
+G&S Metal Consultants Inc.  
+Logan Aluminum (a joint venture of Novelis and Tri-Arrows Aluminum) 
+Novelis Corp. 
+Novelis Corp. 
+Real Alloy 
+Real Alloy 
+Tennessee Aluminum Processors 
+
+Alcoa Inc. - Alcoa 
+Constellium Aluminum - Muscle Shoals 
+G&S Metal Consultants Inc. - Wabash 
+Logan Aluminum - Russellville 
+Novelis Corp. - Greensboro 
+Novelis Corp. - Berea 
+Real Alloy - Morgantown 
+Real Alloy - Loudon 
+Tennessee Aluminum Processors - Mount 
+Pleasant 
+
+Alcoa 
+Muscle Shoals 
+Wabash 
+Russellville 
+Greensboro 
+Berea 
+Morgantown 
+Loudon 
+Mount Pleasant 
+
+TN 
+AL 
+IN 
+KY 
+GA 
+KY 
+KY 
+TN 
+TN 
+
+Estimated Tons 
+per Year 
+
+89,722  
+89,722  
+89,722  
+89,722  
+89,722  
+161,500  
+89,722  
+89,722  
+89,722  
+
+Page 71 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix X: Plants Utilizing 3-Mix Cullet Glass 
+
+Company Name 
+
+Facility Name 
+
+City 
+
+State 
+
+Anchor 
+Anchor 
+Anchor 
+Ardagh 
+Ardagh 
+Ardagh 
+Ardagh 
+Ardagh 
+Ardagh 
+Ardagh 
+Ardagh 
+
+Anchor - Warner Robins 
+Anchor - Lawrenceburg 
+Anchor - Elmira 
+Ardagh - Dolton 
+Ardagh - Lincoln 
+Ardagh - Dunkirk 
+Ardagh - Winchester 
+Ardagh - Milford 
+Ardagh - Pevely 
+Ardagh - Henderson 
+Ardagh - Wilson 
+
+Warner-Robins 
+Lawrenceburg 
+Elmira 
+Dolton 
+Lincoln 
+Dunkirk 
+Winchester 
+Milford 
+Pevely 
+Henderson 
+Wilson 
+
+Ardagh - Bridgeton 
+Ardagh - Port Allegany 
+Ardagh - Burlington 
+Gerresheimer - Chicago Heights  Chicago Heights 
+Gerresheimer - Millville 
+Gerresheimer - Vineland 
+
+Bridgeton 
+Port Allegany 
+Burlington 
+
+Ardagh 
+Ardagh 
+Ardagh 
+Gerresheimer 
+Gerresheimer 
+Gerresheimer 
+Kelmann Bottles   Kelmann Bottles  - Glenshaw 
+O-I 
+O-I 
+O-I 
+O-I 
+O-I 
+O-I 
+O-I 
+O-I 
+O-I 
+O-I 
+
+O-I - Atlanta 
+O-I - Streator 
+O-I - Lapel 
+O-I - Winston-Salem 
+O-I - Auburn 
+O-I - Zanesville 
+O-I - Crenshaw 
+O-I - Brockway 
+O-I - Danville 
+O-I - Toano 
+
+Millville 
+Vineland 
+Glenshaw 
+Atlanta 
+Streator 
+Lapel 
+Lexington 
+Auburn 
+Zanesville 
+Brockport 
+Brockport 
+Ringgold 
+Toano 
+
+GA 
+IN 
+NY 
+IL 
+IL 
+IN 
+IN 
+MA 
+MO 
+NC 
+NC 
+
+NJ 
+PA 
+WI 
+IL 
+NJ 
+NJ 
+PA 
+GA 
+IL 
+IN 
+NC 
+NY 
+OH 
+PA 
+PA 
+VA 
+VA 
+
+Estimated Tons 
+per Year 
+37,800 
+23,625 
+63,000 
+33,863 
+47,250 
+85,050 
+94,500 
+94,500 
+99,000 
+36,000 
+110,250 
+
+50,400 
+80,388 
+75,600 
+3,375 
+6,750 
+6,750 
+24,300 
+66,825 
+29,292 
+58,099 
+80,593 
+63,394 
+27,588 
+37,765 
+42,053 
+76,186 
+87,998 
+
+Page 72 
+
+ 
+ 
+ 
+ 
+

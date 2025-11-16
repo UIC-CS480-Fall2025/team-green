@@ -1,0 +1,2326 @@
+What’s in 
+California 
+Landfills: 
+Measuring Single-Use 
+Packaging and Plastic 
+Food Service Ware 
+Disposed (2025) 
+
+Preliminary Findings 
+
+State of California 
+
+Gavin Newsom 
+Governor 
+
+California Environmental Protection Agency 
+
+Yana Garcia 
+Secretary 
+
+Department of Resources Recycling and Recovery (CalRecycle) 
+
+Zoe Heller 
+Director 
+
+Public Affairs Office  
+1001 I Street (MS 22-B) 
+P.O. Box 4025 
+Sacramento, CA  95812-4025 
+www.calrecycle.ca.gov/Publications/ 
+1-800-RECYCLE (California only) or (916) 341-6300 
+
+Publication # DRRR-2025-1755 
+
+To conserve resources and reduce waste, CalRecycle reports are produced in 
+electronic format only. If printing copies of this document, please consider use 
+of recycled paper containing 100 percent postconsumer fiber and,  
+where possible, please print on both sides. 
+
+This report does not constitute an endorsement or warranty concerning any 
+products or processes. 
+
+CalRecycle does not discriminate on the basis of disability in access to its 
+programs. CalRecycle publications are available in accessible formats upon 
+request by calling the Public Affairs Office at (916) 341-6300. Persons with 
+hearing impairments can reach CalRecycle through the California Relay Service 
+at 1-800-735-2929. 
+
+ ii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents 
+Executive Summary and Background ............................................................................. 1 
+Public Feedback and Next Steps ............................................................................... 1 
+Data Records Available Pursuant to the California Public Records Act ..................... 2 
+Methods .......................................................................................................................... 2 
+Overview .................................................................................................................... 2 
+Estimating Overall Composition of Landfilled Material in California ........................... 3 
+Landfill Selection ....................................................................................................... 3 
+
+Sorting Categories ..................................................................................................... 5 
+
+Vehicle Surveys....................................................................................................... 12 
+
+Sample Collection and Sorting ................................................................................ 12 
+
+Additional Analysis Performed by Contractor Staff .................................................. 12 
+
+Additional Analysis Performed by CalRecycle ......................................................... 13 
+
+Calculation of Composition Data ............................................................................. 14 
+
+Extrapolating Composition Data to Statewide Disposal ........................................... 14 
+Disposal Estimates by Sorting Category ................................................................. 15 
+
+Data Considerations ................................................................................................ 15 
+
+Summary of Findings .................................................................................................... 15 
+Estimates of Statewide Disposal of All Material ....................................................... 16 
+Table 4. Estimates of Statewide Disposal from each Sector ................................... 16 
+
+Estimates of Statewide Disposal of Covered Material .............................................. 16 
+Table 5. Estimates of Statewide Disposal of Covered Material Classes in 2024 ..... 17 
+
+Table 6. Estimates of Statewide Disposal of Covered Material in 2024 .................. 17 
+
+Additional Analysis: Spectroscopic Analysis of Hard-to-Identify Resins ................... 22 
+Resin Composition Among Plastic Samples ........................................................... 22 
+
+Glossary of Terms .................................................................................................... 24 
+Abbreviations and Acronyms ................................................................................... 26 
+Bibliography ............................................................................................................. 27 
+
+i 
+
+ 
+ 
+Executive Summary and Background 
+Lawmakers enacted the Plastic Pollution Prevention and Packaging Producer 
+Responsibility Act (Senate Bill (SB) 54, Allen, Chapter 75, Statutes of 2022) (the Act), 
+establishing an extended producer responsibility (EPR) program to reduce single-use 
+packaging and plastic single-use food service ware (covered material) in California, 
+while ensuring the covered material is recyclable or compostable and that covered 
+material meets certain recycling rates. 
+
+The Act requires the California Department of Resources Recycling and Recovery 
+(CalRecycle) to conduct a material characterization study of covered material and 
+determine the approximate amount disposed of in California landfills (see Public 
+Resources Code Section 42061(a) (2-3)). Unless otherwise indicated, all statutory 
+references in this report are to the Public Resources Code (PRC). 
+
+CalRecycle contracted with Cascadia Consulting Group (Cascadia) to conduct a 
+statewide material characterization study to characterize and measure the amount of 
+covered materials landfilled in California. Fieldwork, which included hand-sorting 
+samples at California landfills, occurred between February and April 2025. CalRecycle 
+and Cascadia designed a study that incorporated representative, cost-effective 
+sampling and analysis for data gathering that minimized disruption to facility operators. 
+
+This preliminary findings report provides estimates of the amount of covered material 
+landfilled in California, by weight (tons) and as a proportion of total material landfilled 
+statewide. It also includes information from additional analyses of resin types of plastic 
+covered materials made of plastic that could not be identified in the field, as well as 
+estimates of the weight of covered material discarded together with food or other goods. 
+
+It was estimated that 7,800,136 tons of covered material were disposed of in California 
+in 2024, representing about 19.6% of total landfill disposal in California. 
+
+For more detailed findings, refer to the Summary of Findings section. The findings 
+presented are specific to SB 54 covered materials and thus do not provide granular 
+information concerning other materials. Preliminary data on other materials are included 
+in the appendix. 
+
+Public Feedback and Next Steps 
+Section 42061(a)(3)(A) directs CalRecycle to publish preliminary findings of the study 
+and conduct a public meeting to present those findings and receive public comments. 
+CalRecycle plans to conduct additional advanced statistical analyses on the data 
+presented in these findings. Updated preliminary findings will be presented at an 
+informational session and in a published revised preliminary report in Fall 2025. 
+CalRecycle will accept written feedback at any time, plans to hold a public meeting to 
+further solicit public comments, and will finalize the report within 60 days of the public 
+meeting. 
+
+All written feedback can be submitted to wastechar@calrecycle.ca.gov with the subject 
+line: SB 54 MCS Preliminary Findings. 
+
+1 
+
+Data Records Available Pursuant to the 
+California Public Records Act 
+Public records related to this report can be requested through the CalRecycle Public 
+Records Portal and include records documenting analysis steps, often as scripts in the 
+R Statistical Program: 
+
+•  Estimates of statewide disposal, all materials 
+•  Estimates of statewide disposal, Covered Material 
+•  Percentage composition of each material type within covered material classes 
+•  Composition estimates for material types within sectors 
+
+Methods 
+Overview 
+To estimate statewide disposal of covered material, two main steps were undertaken. 
+First, sampling was conducted at 16 landfills across California to estimate the 
+composition of landfilled materials by waste-generating sectors. Second, the 
+composition was extrapolated to estimate statewide disposal using data from calendar 
+year 2024 submitted to CalRecycle’s Recycling and Disposal Reporting System 
+(RDRS). 
+
+A random sampling methodology was used to sample waste from various sectors to 
+develop a waste composition profile for each sector. The four sectors considered in this 
+study included: (1) franchised single-family residential; (2) franchised commercial and 
+multi-family residential; (3) self-hauled; and (4) mixed waste (i.e., material from transfer 
+trailers). The data from each sector were then combined based on their relative 
+contributions to the overall waste stream using RDRS data, thus producing statewide 
+estimates of landfilled material by sorted material category. 
+
+For all sectors, only deliveries of waste destined for disposal in landfills were eligible for 
+sampling, including construction and demolition (C&D) debris. Loads of disaster debris 
+(e.g., storm deadfall and soil), universal waste, material sent to be recycled or 
+recovered, biosolids, designated waste, aggregates and soil set aside for beneficial use, 
+alternative daily cover (ADC), and household hazardous waste (HHW) were not 
+sampled and are excluded from the study. 
+
+For the purposes of this study and throughout the report, the CalRecycle field team is 
+referred to as “CalRecycle staff,” and the Cascadia-contracted field team is referred to 
+as “contractor staff.” 
+
+The following sections present further information regarding the methodology of each 
+step. Appendix 1: Detailed Methodology (Section 1: Detailed Methodology) presents 
+more detailed study design and methodology. 
+
+2 
+
+Estimating Overall Composition of Landfilled 
+Material in California 
+To gather the data necessary for estimating overall waste composition in the state, 
+samples of waste were collected at California landfills and sorted based on covered 
+material categories. 
+
+Landfill Selection 
+To maximize the collection of data representative of California, landfills that dispose of a 
+higher proportion of the state’s waste stream were prioritized for inclusion in the study. 
+Furthermore, to capture data across the four sectors, the landfills with the largest annual 
+inflow tonnage that received material from the four sectors were prioritized for inclusion 
+in the study. Participation by landfills in this study was voluntary. In total, 16 landfill sites 
+participated (Table 1; Figure 1). The study was conducted over two sampling periods. 
+Each period spanned roughly 14 calendar days with approximately two days at each 
+site. Appendix 1: Detailed Methodology (Section 1.2: Facility Selection and Sample 
+Allocation) provides additional details. 
+
+Table 1. List of Participating Study Landfills 
+This table provides the facility name, county where the facility is located, and the 
+CalRecycle Solid Waste Information System (SWIS) number. 
+
+Facility Name 
+Altamont Landfill & Resource Recovery 
+Antelope Valley Recycling & Disposal 
+Facility 
+Badlands Landfill 
+Corinda Los Trancos Landfill (Ox Mtn) 
+El Sobrante Landfill 
+Forward Landfill 
+Highway 59 Landfill  
+Johnson Canyon Sanitary Landfill  
+Kiefer Landfill 
+Monterey Peninsula Landfill 
+Olinda Alpha Sanitary Landfill  
+Potrero Hills Landfill 
+Recology Ostrom Road Landfill 
+Simi Valley Landfill & Recycling Center  
+Otay Landfill 
+West Miramar Sanitary Landfill 
+
+County 
+Alameda 
+
+SWIS Number 
+01-AA-0009 
+
+Los Angeles 
+
+19-AA-5624 
+
+Riverside 
+San Mateo 
+Riverside 
+Alameda 
+Merced 
+Monterey 
+Sacramento 
+Monterey 
+Orange 
+Solano 
+Yuba 
+Ventura 
+San Diego 
+San Diego 
+
+33-AA-0006 
+41-AA-0002 
+33-AA-0217 
+01-AA-0009 
+24-AA-0001 
+27-AA-0005 
+34-AA-0001 
+27-AA-0010 
+30-AB-0035 
+48-AA-0075 
+58-AA-0011 
+56-AA-0007 
+37-AA-0010 
+37-AA-0020 
+
+3 
+
+Figure 1. Map of participating study landfills by sampling period 
+
+4 
+
+ 
+Sorting Categories 
+In accordance with the Act, CalRecycle developed covered material categories (CMC), 
+published July 1, 2024, which categorize single-use packaging and single-use plastic 
+food service ware by material type and form, then added recyclability and compostability 
+determinations for those categories in the January 1, 2025 updated publication. Each 
+CMC is a combination of one material from within one of six classes (ceramic, glass, 
+metal, paper and fiber, plastic, or wood or other organic material) and a particular type 
+and form of that material (e.g. CMC Code 24_M4P identifies Class: Metal, Type: 
+Aluminum, and Form: Aerosol Can). The categories individually apply to each 
+detachable component of covered material. In addition to the six material classes, one 
+additional material class —miscellaneous— was used for this study. It included a 
+category for covered material discarded with a good still inside (e.g., partially filled bottle 
+of lotion, a meal discarded in a plastic takeout container, or sausages discarded in their 
+wrapper). 
+
+To identify and sort items based on the covered material categories, 83 material sorting 
+categories were established based on how materials are found at landfills (e.g., broken 
+or contaminated) and feasibility of material identification and sorting in the field. During 
+the study, contractor staff sorted each sample into one of the 83 categories from the 
+Material Characterization Study Sorting List (Table 2) to provide material type 
+composition data for each sample. The complete material sorting list with definitions and 
+examples for each category is provided in Appendix 1 (Section 1.1, Table A1). 
+
+Generally, each of the 83 material sorting categories included only one of the following 
+types of materials: 
+
+•  Covered material (i.e., single-use packaging and single-use plastic food service-
+
+ware covered under the Act), 
+
+•  Potentially reusable alternatives to covered material (e.g., reusable milk jug), and 
+•  All other material that is not covered under the Act. 
+
+Materials not covered under the Act were itemized into either a remainder category 
+according to material class or sorted into the miscellaneous class. Remainder 
+categories served as a catch-all for items, specific to class, that were not covered 
+material. The miscellaneous class contained categories for hazardous materials, small 
+items measuring 2 inches or smaller in at least two dimensions (i.e., mixed residue), 
+and discarded covered material with a good (non-food) inside. 
+
+Material sorting categories that included covered material not predominantly made of 
+plastic were generally a combination of two CMCs — one for that material type without 
+a plastic component and one for the same material type with a plastic component. For 
+example, “Glass Bottles and Jars that are covered material” was a single sorting 
+category but included two CMCs—one for Glass Bottles and Jars with a plastic 
+component (CMC Code 24_G1P) and one for Glass Bottles and Jars without a plastic 
+component (CMC Code 24_G1N). In these scenarios the combined CMC Code 
+reflected in the material sorting list is a combination of the two CMCs, such as Code 
+24_G1N/P. 
+
+5 
+
+The material types are specifically defined in Appendix 1: Detailed Methodology 
+(Section 1.1: Sorting Categories List and Sorting Guidance, Table A1). Table A1 
+provides sorting rules used in the field to identify the inclusion or exclusion of each item 
+in the sorting categories. Further details on sample sorting and characterization are 
+provided in Appendix 1: Detailed Methodology (Section 1.7: Sample Characterization). 
+
+6 
+
+Table 2. Material Characterization Study Sorting List  
+The information contained in this table is a complete list of categories used to sort samples for the study. Each sorting 
+category identifies a combination of material class, material type, and form. The first column in the table is a numeric 
+count. The second column describes the material class (glass, ceramic, metal, paper and fiber, plastic, wood and other 
+organic materials). The third column describes the material type, and the fourth column describes the form of the covered 
+materials in that covered material category. The fifth column (Combined CMC Code) containing a code includes which 
+covered material categories are included within each sorting category and refers to the covered material categories 
+(CMCs) list published on July 1, 2024, pursuant to the Act. All sorting categories with a corresponding code starting with 
+the “24_” prefix are categories specific to covered material. Additionally, in the Combined CMC Code column, the 
+alphanumeric material code ends with either an “N” and/or a “P” indicating whether the item contains an inseparable 
+plastic component (P) or contains no plastic component (N). An “N/P” indicates that the material form contains two 
+covered material categories, one with and one without separable plastic components. Entries in the Combined CMC Code 
+column with the following text mean: 
+
+• 
+
+• 
+• 
+
+“Mixture”: categories in which a covered material was jointly discarded with other material (e.g., food discarded in 
+original packaging), 
+“Potential reuse”: categories for packaging and food service ware that may be reusable or refillable, and 
+“N/a”: remainder categories for materials other than covered material. 
+
+The complete material sorting list with definitions and examples for each category is provided in Appendix 1 (Section 1.1, 
+Table A1). 
+
+Count  Class 
+Glass 
+1 
+Glass 
+2 
+Glass 
+3 
+
+Glass 
+Glass 
+Ceramic 
+Ceramic 
+
+4 
+5 
+6 
+7 
+
+8 
+
+Type 
+Glass 
+Glass 
+Glass 
+
+Glass 
+Glass 
+Ceramic 
+Ceramic 
+
+Ceramic 
+
+Ceramic 
+
+Form 
+Bottles and Jars 
+Other Forms 
+Potentially Reusable Packaging and Food Service 
+Ware 
+Small – Two or more sides measuring 2” or less  
+Remainder/Composite Glass 
+All Forms 
+Potentially Reusable Packaging and Food Service 
+Ware 
+Small – Two or more sides measuring 2” or less 
+
+Combined CMC Code 
+24_G1N/P 
+24_G2N/P 
+Potential Reuse  
+
+24_G3N/P 
+n/a 
+24_C1N/P 
+Potential Reuse 
+
+24_C2N/P 
+
+7 
+
+Count  Class 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+
+Ceramic 
+Metal 
+Metal 
+Metal 
+Metal  
+Metal 
+Metal 
+Metal 
+Metal 
+Metal 
+
+19 
+20 
+
+21 
+22 
+23 
+24 
+25 
+
+26 
+
+27 
+28 
+29 
+
+30 
+31 
+32 
+
+Metal 
+Metal 
+
+Metal 
+Metal 
+Paper/Fiber 
+Paper/Fiber 
+Paper/Fiber 
+
+Paper/Fiber 
+
+Paper/Fiber 
+Paper/Fiber 
+Paper/Fiber 
+
+Paper/Fiber 
+Paper/Fiber 
+Paper/Fiber 
+
+Form 
+Remainder/Composite Ceramic 
+Non-aerosol Container 
+Foil Sheets 
+Foil Molded Containers 
+Aerosol Cans 
+Other Forms 
+
+Type 
+Ceramic 
+Aluminum 
+Aluminum 
+Aluminum 
+Aluminum 
+Aluminum 
+Tin/Steel/Bimetal  Non-aerosol Container 
+Tin/Steel/Bimetal  Aerosol Cans 
+Tin/Steel/Bimetal  Other Forms 
+Other Non-
+Ferrous 
+Other Ferrous 
+Metal 
+
+All Other Forms 
+
+Metal 
+Metal 
+Kraft Paper 
+Molded Fiber 
+Multi-Material 
+Laminate 
+Multi-Material 
+Laminate  
+OCC 
+OCC 
+Multi-Material 
+Laminate 
+Paperboard 
+White Paper 
+Other/Mixed 
+Paper 
+
+Gable-top Cartons 
+
+Waxed Cardboard 
+Cardboard 
+Other Forms 
+
+All Forms 
+All Forms 
+All Forms 
+
+All Other Forms 
+Potentially Reusable Packaging and Food Service 
+Ware 
+Small – Two or more sides measuring 2” or less 
+Remainder/Composite Metal 
+All Forms 
+All Forms 
+Aseptic Cartons 
+
+Combined CMC Code 
+n/a 
+24_M1N/P 
+24_M2N/P 
+24_M3N/P 
+24_M4P 
+24_M5N/P 
+24_M6N/P 
+24_M7P 
+24_M8N/P 
+24_M9N/P 
+
+24_M10N/P 
+Potential Reuse 
+
+24_M12N/P 
+n/a 
+24_PF1N/P 
+24_PF14N/P 
+24_PF15P 
+
+24_PF5P 
+
+24_PF8N/P 
+24_PF9N/P 
+24_PF7P 
+
+24_PF10N/P 
+24_PF11N/P 
+24_PF12N/P 
+
+8 
+
+Count  Class 
+33 
+
+Paper/Fiber 
+
+34 
+35 
+
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+
+54 
+55 
+56 
+57 
+58 
+
+59 
+
+Paper/Fiber 
+Paper/Fiber 
+
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+
+Plastic 
+
+Type 
+Other/ Mixed 
+Paper 
+Paper/ Fiber 
+Other/Mixed 
+Paper 
+PET (#1) 
+PET (#1) 
+PET (#1) 
+PET (#1) 
+PET (#1) 
+HDPE (#2) 
+HDPE (#2) 
+HDPE (#2) 
+HDPE (#2) 
+HDPE (#2) 
+PVC (#3) 
+PVC (#3) 
+LDPE (#4) 
+LDPE (#4) 
+LDPE (#4) 
+LDPE (#4) 
+PP (#5) 
+PP (#5) 
+
+PP (#5) 
+PP (#5) 
+PP (#5) 
+PP (#5) 
+PS (#6) 
+
+PS (#6) 
+
+Form 
+Potentially Reusable Packaging and Food Service 
+Ware 
+Small – Two or more sides measuring 2” or less 
+Remainder/Composite Mixed Paper 
+
+Combined CMC Code 
+Potential Reuse 
+
+24_PF16N/P 
+n/a 
+
+24_P1P 
+24_P2P 
+
+Bottles, Jugs, and Jars (Clear/Natural) 
+Bottles, Jugs, and Jars (Pigmented/Color) 
+Other Rigid Containers, Cups, Lids Plates, Trays, Tubs  24_P38P 
+Other Rigid Items 
+Flexible and Film Items 
+Bottles, Jugs, and Jars (Clear/Natural) 
+Bottles, Jugs, and Jars (Pigmented/Color) 
+Pails and Buckets 
+Other Rigid Items 
+Flexible and Film Items  
+Rigid Items 
+Flexible and Film 
+Bottles, Jugs, and Jars 
+Other Rigid Items 
+Clear Non-Bag Film 
+Other Flexible and Film Items 
+Bottles, Jugs, and Jars 
+Other Rigid Containers, Cups, Lids, Plates, Trays, and 
+Tubs 
+Utensils 
+Other Rigid Items 
+Clear Non-Bag Film 
+Other Flexible and Film Items 
+Expanded/Foamed Hinged Containers, Plates, Cups, 
+Tubs, Trays, and Other Foamed Containers 
+Other Expanded/Foamed Forms 
+
+24_P439P 
+24_P5P 
+24_P6P 
+24_P7P 
+24_P8P 
+24_P40P 
+24_P10P 
+24_P11P 
+24_P12P 
+24_P13P 
+24_P14P 
+24_P15P 
+24_P16P 
+24_P17P 
+24_P41P 
+
+24_P19P 
+24_P20P 
+24_P21P 
+24_P22P 
+24_P23P 
+
+24_P42P 
+
+9 
+
+Count  Class 
+Plastic 
+60 
+Plastic 
+61 
+
+62 
+63 
+
+Plastic 
+Plastic 
+
+64 
+
+Plastic 
+
+65 
+
+66 
+
+67 
+
+68 
+
+69 
+
+70 
+
+71 
+72 
+73 
+
+74 
+
+75 
+
+Plastic 
+
+Plastic 
+
+Plastic 
+
+Plastic 
+
+Plastic 
+
+Plastic 
+
+Plastic 
+Plastic 
+Wood and Other 
+Organic Materials 
+Wood and Other 
+Organic Materials 
+Wood and Other 
+Organic Materials 
+
+Type 
+PS (#6) 
+PS (#6) 
+
+PS (#6) 
+Plastics and 
+Polymers 
+Designed for 
+Compostability 
+Plastics and 
+Polymers 
+Designed for 
+Compostability 
+Multi-Material 
+Laminate 
+Multi-Material 
+Laminate 
+Other/ Mixed 
+Plastics 
+Other/ Mixed 
+Plastics 
+Other/ Mixed 
+Plastics 
+Plastic 
+
+Plastic 
+Plastic 
+Wood 
+
+Wood 
+
+Other/Mixed 
+Organic 
+
+Textiles 
+
+Form 
+Utensils 
+Solid Hinged Containers, Plates, Cups, Tubs, Trays, 
+and Other Solid Forms 
+Flexible and Film Items 
+Rigid Items 
+
+Combined CMC Code 
+24_P27P 
+24_P43P  
+
+24_P29P 
+24_P44P 
+
+Flexible and Film Items 
+
+24_P45P 
+
+Pouches and Envelopes  
+
+Other Forms 
+
+Textiles (non-organic/synthetic) 
+
+Rigid Items  
+
+Flexible and Film Items  
+
+Potentially Reusable Packaging and Food Service 
+Ware 
+Small – Two or more sides measuring 2” or less 
+Remainder/Composite Plastic 
+All Untreated Forms 
+
+All Treated or Painted Forms 
+
+24_P46P 
+
+24_P33P 
+
+24_P34P 
+
+24_P35P 
+
+24_P36P 
+
+Potential Reuse 
+
+24_P47P 
+n/a 
+24_WO1N/P 
+
+24_WO2N/P 
+
+24_WO3N/P 
+
+10 
+
+Count  Class 
+76 
+
+Wood and Other 
+Organic Materials 
+Wood and Other 
+Organic Materials 
+Wood and Other 
+Organic Materials 
+Wood and Other 
+Organic Materials 
+Wood and Other 
+Organic Materials 
+Miscellaneous 
+Miscellaneous 
+Miscellaneous 
+
+77 
+
+78 
+
+79 
+
+80 
+
+81 
+82 
+83 
+
+Type 
+Other/Mixed 
+Organic 
+Other/Mixed 
+Organic 
+Other/Mixed 
+Organic 
+Wood and Other 
+Organic 
+Other/Mixed 
+Organic 
+Miscellaneous 
+Miscellaneous 
+Miscellaneous 
+
+Form 
+Other Forms  
+
+Combined CMC Code 
+24_WO4N/P 
+
+Food Discarded in Original Packaging or Food Service 
+Ware 
+Potentially Reusable Packaging and Food Service 
+Ware 
+Small – Two or more sides measuring 2” or less 
+
+Mixture 
+
+Potential Reuse 
+
+24_WO6N/P 
+
+Remainder/Composite Organic 
+
+Non-Food Discarded in Original Packaging 
+Remainder Miscellaneous 
+Mixed Residue 
+
+n/a 
+
+Mixture 
+n/a 
+n/a 
+
+11 
+
+ 
+Vehicle Surveys 
+As part of data collection, contractor staff conducted surveys at facilities to gather 
+information on the sector of incoming vehicles, select specific vehicles for sampling, and 
+collect additional data on the selected vehicles—such as the net weight of the load. The 
+vehicle survey data were used to estimate the contribution of each waste sector at each 
+participating facility to the overall waste sector throughout the state. 
+
+More details on the vehicle surveys, data collected and subsequent analysis, and the 
+vehicle selection process for sampling can be found in Appendix 1: Detailed 
+Methodology (Section 1.5: Vehicle Surveys). 
+
+Sample Collection and Sorting 
+The contractor staff collected 313 waste samples across all sectors at the 16 landfills for 
+composition analysis. An additional four samples were collected that did not meet the 
+specifications for inclusion in the overall waste composition analysis but were still 
+considered in the additional analyses completed by contractor staff (see section 
+Additional Analysis Performed by Contractor Staff). 
+
+From randomly identified residential route trucks, commercial route trucks, self-hauled 
+loads, and transfer trailers, the contractor staff collected one sample weighing at least 
+200 pounds from the selected vehicle. If, during a sampling day, the expected 
+commercial vehicles or transfer trailers was anticipated to be fewer than needed to meet 
+sampling targets, contractor staff collected two samples per vehicle for those types. 
+Double sampling was not allowed from residential route trucks. Table 3 shows the 
+sample distribution among the four sectors. 
+
+Table 3. Distribution of Samples by Waste-Generating Sector 
+
+Sector 
+Franchised Single-family Residential (RES) 
+Franchised Commercial & Multi-family Residential 
+(COM)  
+Self-haul (SH)  
+Mixed Waste (MIX)  
+Total 
+
+Period 1  Period 2  Total 
+
+36 
+69 
+
+31 
+14 
+150 
+
+47 
+71 
+
+31 
+14 
+163 
+
+83 
+140 
+
+62 
+28 
+313 
+
+Additional Analysis Performed by Contractor Staff 
+To collect additional data on the amount and type of covered material, contractor staff 
+completed additional analyses on (1) covered material made of plastic of unknown resin 
+type and (2) covered material disposed of with goods inside. This section describes 
+details about the additional analyses. 
+
+Covered Material Made of Plastic of Hard-to-Identify Resin Type 
+Contractor staff sorted covered material made primarily of plastic that could not be 
+readily identified in the field as a plastic resin of type #1 through #6 into one of two 
+categories: (1) Other/Mixed Plastics Rigid Items (Count 68 in the material sorting list). or 
+(2) Other/Mixed Plastics Flexible and Film Items (Count 69 in the material sorting list). 
+
+12 
+
+As with other sorting categories, the weights of materials in the corresponding 
+categories were recorded. Throughout the study, contractor staff collected a selection of 
+items that fell into those categories for further analysis. Contractor staff applied the 
+Cone and Quarter method (illustrated in Appendix 1: Section 1.7: Sample 
+Characterization, Figure B2) to generate a random selection of material in those 
+categories for resin identification analysis. Contractor staff sent the items to an off-site 
+lab, Stina Inc., for analysis to identify the plastic resin type using resin spectroscopy: 
+PET (#1), HDPE (#2), PVC (#3), LDPE (#4), PP (#5), PS (#6), and other or unknown 
+resins. A total of 1,090 covered material items of unknown resin types were analyzed. 
+
+Due to collection methods and differing methods of nomenclature, the resin analysis 
+results were not associated with a specific sample, facility, or sector. As a result, these 
+results are presented as stand-alone findings. The results of the resin analysis are 
+described in Section Additional Analysis: Spectroscopic Analysis of Hard-to-Identify 
+Resins, Tables 7a and 7b – Resin Composition Among Plastic Samples. 
+
+Covered Material Disposed of with the Good Inside (Depackaging Analysis) 
+Covered material disposed of with the good still inside (e.g., a partially filled bottle of 
+lotion, a meal discarded in a plastic takeout container, or sausages discarded in their 
+wrapper) was sorted into one of two categories: one for food discarded in covered 
+material (Count 77 in the material sorting list), and one for all other goods discarded in 
+covered material (Count 81 in the material sorting list). For a subset of materials in 
+those two categories, contractor staff separated the covered material from the good. 
+Contractor staff brushed, shook, scraped, spooned, and wiped the contaminant 
+materials out of and off the covered packing material, collecting the contaminants in a 
+bin. After separation and dry cleaning, the weight of the covered material was recorded, 
+by material class. That data was used to estimate the proportional weight of the covered 
+material in each of the two original categories. 
+
+Additional Analysis Performed by CalRecycle 
+Quality Control Sort 
+CalRecycle staff conducted a quality control sort on all Remainder/Composite 
+categories from the material sorting list to assess sorting accuracy. This process was 
+executed as follows: (1) after contractor staff completed the initial sort into the 83 sorting 
+categories, the materials in the Remainder/Composite categories were weighed; (2) 
+next, for a subset of samples, CalRecycle staff conducted another sort of the materials 
+in those categories to identify any covered materials that had been missed. The weights 
+of any additional covered material discovered were later incorporated into the data, as 
+described in the following section. 
+
+13 
+
+ 
+ 
+Calculation of Composition Data 
+Calculating Final Material Composition 
+To calculate the final material composition of a given sample (i.e., the percentage of 
+each sorting category in a given sample), the following equation was applied: 
+
+•  S = percentage by weight of a specific sorting category within a given sample 
+•  M = weight of material within a specific sorting category from sort 
+•  Q = weight of a material within a specific material class from the quality control 
+
+  ×  100
+
+𝑆𝑆 =  
+
+[𝑀𝑀 + 𝑄𝑄(𝑖𝑖) + 𝐷𝐷(𝑖𝑖)]
+𝑇𝑇
+
+• 
+
+sort 
+i = percentage by weight that a specific sorting category accounts for within a 
+material class (see next subsection for more details) 
+
+•  D = weight of material within a specific material class from the depackaging 
+
+analysis 
+
+•  T = Total weight of all material in the sample 
+
+Estimating percentage (i) 
+Weight information on covered material disposed of, which was captured as part of the 
+additional analysis on depackaging and the quality control sort, was collected at the 
+material class level. To apply this weight to specific sorting categories, a study-wide 
+estimate was made of the proportion each sorting category represented within its 
+material class. Table A6 (Appendix 1, Section 2: Data Analysis) provides the average 
+(mean) weight that each sorting category accounts for within a material class over the 
+entire study period. To estimate these proportions, the following equation was used to 
+estimate i for each sample, which was then averaged across the entire study. 
+
+𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊ℎ𝑡𝑡 𝑜𝑜𝑜𝑜 𝑎𝑎 𝑚𝑚𝑎𝑎𝑡𝑡𝑊𝑊𝑚𝑚𝑊𝑊𝑎𝑎𝑚𝑚 𝑡𝑡𝑡𝑡𝑡𝑡𝑊𝑊 𝑎𝑎𝑎𝑎𝑎𝑎 𝑜𝑜𝑜𝑜𝑚𝑚𝑚𝑚 𝑊𝑊𝑎𝑎 𝑡𝑡ℎ𝑊𝑊 𝑠𝑠𝑎𝑎𝑚𝑚𝑡𝑡𝑚𝑚𝑊𝑊
+
+i(sample)  =
+
+𝑊𝑊𝑊𝑊𝑊𝑊𝑊𝑊ℎ𝑡𝑡 𝑜𝑜𝑜𝑜 𝑡𝑡ℎ𝑊𝑊 𝑠𝑠𝑎𝑎𝑚𝑚𝑡𝑡𝑚𝑚𝑊𝑊
+
+  ×  100
+
+This composition data, along with other information and data gathered during the study 
+period, were used to extrapolate study findings to statewide levels, as detailed in the 
+following subsections. 
+
+Extrapolating Composition Data to Statewide 
+Disposal 
+Sample composition data, vehicle surveys, and CalRecycle’s RDRS database were 
+integrated into one dataset to estimate the portion of California’s landfilled waste 
+derived from each sector, by sorting category. First, the annual tons of solid waste 
+landfill disposal reported in RDRS were summed to provide an estimate of total landfill 
+disposal in 2024 (RDRS data accessed May 2025). The vehicle survey data were then 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+used to calculate the proportion of sampled material across the entire study by sector. 
+These sector proportions were then multiplied by sample compositional data to 
+calculate sector-scaled summary statistics (e.g., mean), which were sample 
+compositional data adjusted by sector. These sector-scaled statistics were then 
+multiplied by the total statewide tonnage to calculate estimated statewide disposal 
+summary statistics for each sorting category. 
+
+Disposal Estimates by Sorting Category 
+Material characterization data were analyzed to provide two estimates for each of the 
+sorting categories. This information is provided at the statewide level and for each 
+sector. The two estimates include: 
+
+1.  The average annual weight of landfilled material, expressed as mean; 
+
+2.  The proportion of overall disposal (percent-by-weight) of each sorting category, 
+
+expressed as mean. 
+
+Data Considerations 
+There are multiple methodological factors to consider when interpreting the findings of 
+this study. Due to the nature of waste disposal, some rarer types of covered material 
+(e.g., single-use ceramic packaging) may not have been collected due to the relatively 
+small proportion of material sampled compared to total statewide disposal. Additionally, 
+samples, especially those in the self-haul and commercial sectors, were often mostly 
+homogenous. For example, a single randomly selected self-haul sample consisted 
+almost entirely of concrete. These factors result in a data set with many CMCs that were 
+rarely observed and where some samples were mostly homogenous. 
+
+Additional details and explanations of these analyses can be found in Appendix 1: 
+Section 1. 
+
+Summary of Findings 
+This section provides the statewide-level findings from the study. The first subsection 
+presents the primary findings of this study—specifically, estimates of the proportions 
+and amounts of covered material landfilled in California—by sorting category. The 
+second subsection presents the findings from an additional analysis to identify the resin 
+types of covered material for plastic items in which the resin type could not be identified 
+in the field. 
+
+The findings in this section, including the data tables, summarize all data collected in 
+the study regarding covered material. Data tables reflecting results from the additional 
+analyses of potentially reusable and Remainder/Composite categories can be found in 
+Appendix 1. During the study, 4,613 pounds of covered material items were collected 
+and sorted as the basis for these estimates. The quality control sort identified additional 
+covered material within a total of 118 samples, totaling 237 pounds of additional 
+characterized covered material. The depackaging analysis identified additional covered 
+material within a total of 93 samples, totaling 173 pounds of additional characterized 
+
+15 
+
+covered material. In total, the Remainder/Composite (quality control) sort and 
+depackaging analysis identified an additional 6% of covered material items by weight. 
+
+Estimates of Statewide Disposal of All Material 
+In 2024, an estimated 40,035,648 tons of material were sent for disposal in California 
+landfills. Table 4 shows the disposal estimates for each sector based on vehicle surveys 
+and RDRS statewide total disposal tonnage (RDRS data accessed May 2025). For each 
+sector the percentage of disposal from that sector and the total disposal (tons) for 2024 
+are shown. 
+
+Table 4. Estimates of Statewide Disposal from each Sector 
+Sector 
+
+Percentage of Disposal 
+Tonnage Originating from 
+Sector 
+
+2024 Disposal 
+Estimate (Tons) 
+
+Franchised Commercial 
+Franchised Residential 
+Mixed 
+Self-Haul 
+
+Total 
+
+26.6% 
+12.6% 
+49.8% 
+11.2% 
+100% 
+
+10,629,343 
+5,023,433 
+19,919,907 
+4,463,065 
+40,035,748 
+
+Estimates of Statewide Disposal of Covered 
+Material 
+In 2024, an estimated 7,800,136 tons of covered material were disposed of in California 
+landfills. Covered material accounted for 19.6% of total statewide disposal. By material 
+class, paper and fiber was the most landfilled covered material, with an estimated 
+3,896,497 tons disposed of, followed by plastic (see Table 5 for estimates of covered 
+material by material class). 
+
+All sorting categories with a corresponding code starting with “24_” are specific to 
+covered material. Additionally, in the code column, the alphanumeric material code ends 
+with either an “N” and/or a “P” indicating whether the item contains an inseparable 
+plastic component (P) or contains no plastic component (N). An “N/P” indicates that the 
+material form contains two covered materials, one with and one without separable 
+plastic components. 
+
+Materials within certain covered material categories were rarely found in samples, 
+including: Ceramic all forms (24_C1N/P); Glass Other Forms (24_G2N/P); Plastic LDPE 
+Bottles, Jugs, and Jars (24_P17P); Plastic PS Flexible and Film (24_P29P); Plastic PET 
+Flexible and Film (24_P5P); Other/Mixed Organic Textile (24_WO3N/P); and 
+Other/Mixed Organic Other Forms (24_WO4N/P). Since these items were rarely 
+detected during sampling, it indicates their presence is likely rare in statewide disposal. 
+
+Table 5 shows the estimates of covered material, by material class, landfilled in 
+California in 2024, by weight (tons) and proportion of the total waste stream. Table 6 
+shows estimates of the amounts of covered material, by sorting category, landfilled in 
+California in 2024, by weight (tons), proportion of the total waste stream, and proportion 
+of covered material disposed of. 
+
+16 
+
+Table 5. Estimates of Statewide Disposal of Covered Material Classes in 2024 
+Material Class   
+
+Average (mean) annual 
+statewide disposal (tons) 
+
+Proportion of total 
+statewide disposal  
+
+Proportion of covered 
+material disposal 
+
+Ceramic 
+Glass 
+Metal 
+Plastic 
+Paper and Fiber 
+Wood and Other Organic Materials 
+
+10,072 
+116,345 
+268,472 
+2,641,496 
+3,896,497 
+867,253 
+
+0.03% 
+0.29% 
+0.67% 
+6.60% 
+9.73% 
+2.17% 
+
+0.13% 
+1.49% 
+3.44% 
+33.86% 
+49.95% 
+11.12% 
+
+Table 6. Estimates of Statewide Disposal of Covered Material in 2024 
+Each row of the table contains data for each sorting category for covered material. The first four columns of this table 
+identify the sorting category by combined CMC code, material class, material type, and material form. The fifth column is 
+the annual average (mean) statewide disposal estimate in tons. The sixth column is the proportion of total statewide 
+disposal that each sorting category accounts for.  All sorting categories with a corresponding code starting with “24_” are 
+categories specific to covered material. Additionally, in the code column, the alphanumeric material code ends with either 
+an “N” and/or a “P” indicating whether the item contains an inseparable plastic component (P) or contains no plastic 
+component (N). An “N/P” indicates that the material form contains two covered materials, one with and one without 
+separable plastic components. 
+
+Statistical descriptions of variation and error (e.g., margin of error and standard deviation) are not included in the 
+preliminary findings. Further statistical analysis will be conducted, and statistical descriptions will be provided in the final 
+findings report. 
+
+Combined CMC 
+Code 
+24_C1N/P 
+24_C2N/P 
+
+24_G1N/P 
+24_G2N/P 
+
+Material Class  Material Type 
+
+Material Form 
+
+Ceramic 
+Ceramic 
+
+Glass 
+Glass 
+
+Ceramic 
+Ceramic 
+
+Glass 
+Glass 
+
+All Forms 
+Small - Two or more sides 
+measuring 2" or less 
+Bottles and Jars 
+Other Forms 
+
+Average (mean) annual 
+statewide disposal (tons) 
+1,830 
+
+Proportion of total 
+statewide disposal  
+0.005% 
+
+8,242 
+112,124 
+1,152 
+
+0.021% 
+0.280% 
+0.003% 
+
+17 
+
+ 
+Material Class  Material Type 
+
+Material Form 
+
+Average (mean) annual 
+statewide disposal (tons) 
+
+Proportion of total 
+statewide disposal  
+
+Combined CMC 
+Code 
+24_G3N/P 
+
+24_M1N/P 
+24_M10N/P 
+24_M12N/P 
+
+24_M2N/P 
+24_M3N/P 
+24_M4P 
+24_M5N/P 
+24_M6N/P 
+24_M7P 
+24_M8N/P 
+24_M9N/P 
+24_P1P 
+
+24_P10P 
+24_P11P 
+24_P12P 
+24_P13P 
+24_P14P 
+24_P15P 
+24_P16P 
+
+24_P17P 
+24_P19P 
+24_P2P 
+
+Glass 
+
+Metal 
+Metal 
+Metal 
+
+Metal 
+Metal 
+Metal 
+Metal 
+Metal 
+Metal 
+Metal 
+Metal 
+Plastic 
+
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+Plastic 
+
+Plastic 
+Plastic 
+Plastic 
+
+Glass 
+
+Aluminum 
+Other Ferrous 
+Metal 
+
+Small - Two or more sides 
+measuring 2" or less 
+Non-aerosol containers 
+All Forms 
+Small - Two or more sides 
+measuring 2" or less 
+Foil sheets 
+Foil Molded Containers 
+Aerosol can 
+Other Forms 
+
+Aluminum 
+Aluminum 
+Aluminum 
+Aluminum 
+Tin/Steel/Bimetal  Non-aerosol container 
+Tin/Steel/Bimetal  Aerosol can 
+Tin/Steel/Bimetal  Other Forms 
+Other Nonferrous  All Forms 
+PET (#1) 
+
+HDPE (#2) 
+PVC (#3) 
+PVC (#3) 
+LDPE (#4) 
+LDPE (#4) 
+LDPE (#4) 
+LDPE (#4) 
+
+PP (#5) 
+PP (#5) 
+PET (#1) 
+
+Bottles, Jugs, and Jars 
+(Clear/Natural) 
+Flexible and Film Items 
+Rigid Items 
+Flexible and Film Items 
+Bottles, Jugs, and Jars 
+Other Rigid Items 
+Clear Non-Bag Film 
+Other Flexible and Film 
+Items 
+Bottles, Jugs, and Jars 
+Utensils 
+Bottles, Jugs, and Jars 
+(Pigmented/Color) 
+Other Rigid Items 
+
+24_P20P 
+
+Plastic 
+
+PP (#5) 
+
+3,069 
+9,082 
+6,683 
+
+1,605 
+46,681 
+15,850 
+5,645 
+12,033 
+115,576 
+20,781 
+32,041 
+2,495 
+
+59,868 
+28,893 
+3,542 
+5,079 
+495 
+4,672 
+255,055 
+
+288,682 
+2,792 
+11,725 
+
+26,392 
+62,472 
+
+0.008% 
+0.023% 
+0.017% 
+
+0.004% 
+0.117% 
+0.040% 
+0.014% 
+0.030% 
+0.289% 
+0.052% 
+0.080% 
+0.006% 
+
+0.150% 
+0.072% 
+0.009% 
+0.013% 
+0.001% 
+0.012% 
+0.637% 
+
+0.721% 
+0.007% 
+0.029% 
+
+0.066% 
+0.156% 
+
+18 
+
+Material Class  Material Type 
+
+Material Form 
+
+Combined CMC 
+Code 
+24_P21P 
+24_P22P 
+
+Plastic 
+Plastic 
+
+PP (#5) 
+PP (#5) 
+
+24_P23P 
+
+Plastic 
+
+PS (#6) 
+
+24_P27P 
+24_P29P 
+24_P33P 
+
+Plastic 
+Plastic 
+Plastic 
+
+24_P34P 
+
+Plastic 
+
+24_P35P 
+
+Plastic 
+
+24_P36P 
+
+Plastic 
+
+24_P38P 
+
+Plastic 
+
+PS (#6) 
+PS (#6) 
+Multi-Material 
+Laminate 
+Other/Mixed 
+Plastics 
+Other/Mixed 
+Plastics 
+Other/Mixed 
+Plastics 
+PET (#1) 
+
+24_P39P 
+24_P40P 
+24_P41P 
+
+Plastic 
+Plastic 
+Plastic 
+
+PET (#1) 
+HDPE (#2) 
+PP (#5) 
+
+24_P42P 
+
+Plastic 
+
+PS (#6) 
+
+Clear Non-Bag Film 
+Other Flexible and Film 
+Items 
+Expanded/Foamed 
+Hinged Containers, 
+Plates, Cups, Tubs, Trays, 
+and Other Foamed 
+Containers 
+Utensils 
+Flexible and Film Items 
+Other Forms 
+
+Textiles 
+
+Rigid Items 
+
+Flexible and Film Items 
+
+Other Rigid Containers, 
+Cups, Lids, Plates, Trays, 
+and Tubs 
+Other Rigid Items 
+Other Rigid Items 
+Other Rigid Containers, 
+Cups, Lids, Plates, Trays, 
+and Tubs 
+Other Expanded/Foamed 
+Forms 
+
+Average (mean) annual 
+statewide disposal (tons) 
+4,640 
+
+Proportion of total 
+statewide disposal  
+0.012% 
+
+32,124 
+
+0.080% 
+
+46,972 
+11,124 
+1,148 
+
+51,949 
+
+10,856 
+
+96,681 
+
+646,601 
+
+184,891 
+9,978 
+38,782 
+
+356,061 
+
+55,400 
+
+0.117% 
+0.028% 
+0.003% 
+
+0.130% 
+
+0.027% 
+
+0.241% 
+
+1.615% 
+
+0.462% 
+0.025% 
+0.097% 
+
+0.889% 
+
+0.138% 
+
+19 
+
+Combined CMC 
+Code 
+24_P43P 
+
+Plastic 
+
+PS (#6) 
+
+Material Class  Material Type 
+
+Material Form 
+
+Average (mean) annual 
+statewide disposal (tons) 
+
+Proportion of total 
+statewide disposal  
+
+24_P44P 
+
+Plastic 
+
+24_P45P 
+
+Plastic 
+
+24_P46P 
+
+Plastic 
+
+24_P47P 
+
+Plastic 
+
+24_P5P 
+24_P6P 
+
+24_P7P 
+
+24_P8P 
+24_PF1N/P 
+
+24_PF10N/P 
+
+24_PF11N/P 
+
+24_PF12N/P 
+
+24_PF14N/P 
+
+Plastic 
+Plastic 
+
+Plastic 
+
+Plastic 
+Paper and 
+Fiber 
+Paper and 
+Fiber 
+Paper and 
+Fiber 
+Paper and 
+Fiber 
+Paper and 
+Fiber 
+
+Solid Hinged Containers, 
+Plates, Cups, Tubs, Trays, 
+and Other Solid Forms 
+Rigid Items 
+
+Flexible and Film Items 
+
+Pouches and Envelopes 
+
+Small - Two or more sides 
+measuring 2" or less 
+Flexible and Film Items 
+Bottles, Jugs, and Jars 
+(Clear/Natural) 
+Bottles, Jugs, and Jars 
+(Pigmented/Color) 
+Pails and Buckets 
+All Forms 
+
+Plastics and 
+Polymers 
+Designed for 
+Compostability 
+Plastics and 
+Polymers 
+Designed for 
+Compostability 
+Multi-Material 
+Laminate 
+Plastic 
+
+PET (#1) 
+HDPE (#2) 
+
+HDPE (#2) 
+
+HDPE (#2) 
+Kraft Paper 
+
+Paperboard 
+
+All Forms 
+
+White Paper 
+
+All Forms 
+
+Other/Mixed 
+Paper 
+Molded Fiber 
+
+All Forms 
+
+All Forms 
+
+54,868 
+
+0.137% 
+
+10,921 
+
+0.027% 
+
+3,005 
+
+39,053 
+
+29,029 
+584 
+
+82,024 
+
+74,985 
+50,153 
+
+298,529 
+
+467,054 
+
+4,724 
+
+94,482 
+
+171,459 
+
+0.008% 
+
+0.098% 
+
+0.073% 
+0.001% 
+
+0.205% 
+
+0.187% 
+0.125% 
+
+0.746% 
+
+1.167% 
+
+0.012% 
+
+0.236% 
+
+0.428% 
+
+20 
+
+Combined CMC 
+Code 
+24_PF15P 
+
+24_PF16N/P 
+
+24_PF5P 
+
+24_PF7P 
+
+24_PF8N/P 
+
+24_PF9N/P 
+
+24_WO1N/P 
+
+24_WO2N/P 
+
+24_WO3N/P 
+
+24_WO4N/P 
+
+24_WO6N/P 
+
+Material Class  Material Type 
+
+Material Form 
+
+Average (mean) annual 
+statewide disposal (tons) 
+
+Proportion of total 
+statewide disposal  
+
+Paper and 
+Fiber 
+Paper and 
+Fiber 
+Paper and 
+Fiber 
+Paper and 
+Fiber 
+Paper and 
+Fiber 
+Paper and 
+Fiber 
+Wood and 
+Other Organic 
+Materials 
+Wood and 
+Other Organic 
+Materials 
+Wood and 
+Other Organic 
+Materials 
+Wood and 
+Other Organic 
+Materials 
+Wood and 
+Other Organic 
+Materials 
+
+Multi-Material 
+Laminate 
+Paper and Fiber 
+
+Multi-Material 
+Laminate 
+Multi-Material 
+Laminate 
+OCC 
+
+OCC 
+
+Wood 
+
+Wood 
+
+Aseptic Cartons 
+
+Small - Two or more sides 
+measuring 2" or less 
+Gable-top Cartons 
+
+Other Forms 
+
+Waxed Cardboard 
+
+Cardboard 
+
+All Untreated Forms 
+
+All Treated or Painted 
+Forms 
+
+Other/Mixed 
+Organic 
+
+Other/Mixed 
+Organic 
+
+Textiles 
+
+Other Forms 
+
+Wood and Other 
+Organic Materials 
+
+Small - Two or more sides 
+measuring 2" or less 
+
+38,608 
+
+1,764 
+
+67,412 
+
+549,577 
+
+110,761 
+
+2,092,128 
+
+0.096% 
+
+0.004% 
+
+0.168% 
+
+1.373% 
+
+0.277% 
+
+5.226% 
+
+725,609 
+
+1.812% 
+
+137,818 
+
+0.344% 
+
+1,027 
+
+0.003% 
+
+1,643 
+
+0.004% 
+
+1,156 
+
+0.003% 
+
+21 
+
+ 
+ 
+Additional Analysis: Spectroscopic Analysis of 
+Hard-to-Identify Resins 
+Resin Composition Among Plastic Samples 
+This section presents the results from resin analysis performed on covered materials 
+that were sorted but whose dominant plastic type could not be readily distinguished by 
+resin type in the field. Contractor staff sorted a total of 1,090 items from the following 
+categories: Count 68 – Other/Mixed Plastics Rigid Items (527 individual items) and 
+Count 69 – Other/Mixed Plastics Flexible and Film Items (563 individual items). These 
+items were sent to Stina Inc. for identification using resin spectroscopy. 
+
+The results from the resin analysis showed that (1) of the Other/Mixed Plastics Rigid 
+items, HDPE (#2) and LDPE (#4) were the most prevalent resin types, accounting for 
+nearly 50% of the 527 items analyzed (Table 7a); and (2) of the Other/Mixed Plastics 
+Flexible and Film items, Other or Unknown Resins and PP (#5) were the most prevalent 
+resin types, accounting for nearly 50% of the 563 items analyzed (Table 7b). 
+
+Tables 7a and 7b contain information from the study sort and resin analysis completed 
+on hard-to-identify resins. The first column denotes the resin type; the second column 
+shows the number of instances the resin was found; and the third column indicates the 
+percentage of resin prevalence. The sum of the values in the third column may not 
+equal exactly 100% due to rounding. Within the sort, multiple covered material 
+categories within each resin type are summed for the material forms “Rigid Items (Table 
+7a)” and “Flexible and Film Items (Table 7b)”. 
+
+Table 7a. Resin Composition Among Other/Mixed Plastics Rigid Samples 
+Resin Type 
+
+Number of Items in which 
+this Resin was Identified 
+
+Percent of Items in which this 
+Resin was Identified 
+
+PET (#1) 
+HDPE (#2) 
+PVC (#3) 
+LDPE (#4) 
+PP (#5) 
+PS (#6) 
+Other/Unknown 
+Non-Plastic 
+
+93 
+108 
+10 
+141 
+100 
+0 
+54 
+21 
+
+17.7% 
+20.5% 
+1.9% 
+26.8% 
+19.0% 
+ 0.0% 
+10.3% 
+4.0% 
+
+Table 7b. Resin Composition Among Other/Mixed Plastics Flexible and Film 
+Samples 
+Resin Type 
+
+Number of Items in which 
+this Resin was Identified 
+
+Percent of Items in which this 
+Resin was Identified 
+
+PET (#1) 
+HDPE (#2) 
+PVC (#3) 
+LDPE (#4) 
+PP (#5) 
+
+93 
+60 
+13 
+19 
+193 
+
+16.5% 
+10.7% 
+2.3% 
+3.4% 
+34.3% 
+
+22 
+
+PS (#6) 
+Other/Unknown 
+Non-Plastic 
+
+36 
+99 
+50 
+
+6.4% 
+17.6% 
+8.9% 
+
+23 
+
+Glossary of Terms 
+Additional Analysis: Refers to additional sorting and analysis performed by the 
+contractor for: 
+
+•  Covered material made primarily of plastic and could not be readily identified in 
+the field as being composed of resin types #1 through #6 was sorted into one of 
+two categories: (1) rigid items (Count 68 in the material sorting list) of other or 
+unidentifiable plastic resin type, and (2) flexible and film items (Count 69 in the 
+material sorting list) of other or unidentifiable plastic resin type. These samples 
+were sent to an offsite laboratory for resin identification. 
+
+•  Covered material disposed of with the good still inside (Count 81 in the material 
+sorting list) or with food still inside (Count 77 in the material sorting list) were 
+depackaged to obtain the weight of covered material without any contents. 
+
+Contractor Staff: Refers to field staff under contract by CalRecycle to perform the 
+sampling and sorting. This includes the primary contractor staff and any sub-contractor 
+staff. 
+
+Covered Material: Single-use packaging and single-use plastic food service ware 
+covered under SB 54 (PRC Section 42041 (e)(1)). 
+
+Covered Material Categories: Categories that include covered material of a similar 
+type and form. Additional details regarding the Covered Material categories can be 
+found on the main SB 54 Covered Material Categories List webpage. 
+
+Landfilled: Material destined for final deposition in a landfill with no further processing. 
+The following types of material were excluded from the study: (1) disaster debris (e.g., 
+storm deadfall and soil), (2) universal waste, (3) material sent to be recycled or 
+recovered, (4) biosolids, (5) designated waste, (6) aggregates and soil set aside for 
+beneficial use, (7) alternative daily cover, and (8) household hazardous waste. 
+
+Mean: Statistical description of the arithmetic average of a set of numbers. 
+
+Sectors: A unique portion of the total waste stream that is determined by its particular 
+generation, collection, or composition characteristics. Sectors are identified according to 
+the source, or generator, of the waste (single-family or commercial), as well as how 
+materials are delivered to waste sites (commercially collected or self-hauled). 
+
+•  Franchised Commercial and Multi-family Residential (COM) materials are 
+
+hauled by contracted or municipally operated vehicles in packer trucks and drop-
+boxes. At least 80% of the material is generated at institutional, commercial, or 
+industrial buildings such as businesses, schools, government offices, and other 
+institutions, or multifamily residential buildings serviced with dumpsters. This is 
+one of the four sectors of the waste stream collected for this study. 
+
+•  Franchised Single-family Residential (RES) materials are hauled by 
+
+contracted or municipally operated vehicles in packer trucks. At least 80% of the 
+material is generated at residential buildings serviced with carts. This is one of 
+the four sectors of the waste stream collected for this study. 
+
+24 
+
+•  Mixed waste (MIX) is commingled material either hauled in transfer trailers by 
+
+contracted or municipally operated vehicles from a transfer station, or as loads of 
+material recovery facility (MRF) residuals. This stream does not include loads 
+from community drop-off locations. These loads do not come directly from a 
+collection route or property; therefore, the generating sector is often 
+unidentifiable. This is one of the four sectors of the waste stream collected for 
+this study. 
+
+•  Self-haul (SH) materials are hauled by vehicles not operated by a franchise or 
+municipality, including waste from residential or non-residential sources. Self-
+haul customers do not have a permit to operate as waste haulers. Municipal 
+haulers, such as city road crews and parks departments, bringing waste from 
+cleanups, are also included in this stream. This is one of the four sectors of the 
+waste stream collected for this study. 
+
+Sort: For this study, material sent to landfills for disposal was categorized based on the 
+study sorting list. The material initially categorized into each of the 83 sorting categories 
+included only one of the following types of materials: (1) Covered material (i.e., single-
+use packaging and single-use plastic food service ware covered under the Act); (2) 
+Potentially reusable alternatives to covered material (e.g., reusable milk jug); and (3) All 
+other material not covered under the Act, classified as Remainder/Composite. This 
+activity was conducted by the contractor staff. For this study, materials that were in the 
+Remainder/Composite categories from the sort were subject to additional quality control 
+sort by CalRecycle staff. 
+
+Material sorting list: For this study, the material sorting list represents the material 
+sorting categories used by contractor staff to conduct the study. The sorting list was 
+aligned to covered material categories. 
+
+25 
+
+ 
+Abbreviations and Acronyms 
+ADC – Alternative Daily Cover 
+
+CalRecycle – California Department of Resources Recycling and Recovery 
+
+C&D – Construction and demolition 
+
+CMC – Covered material category 
+
+COM – Franchised commercial and multi-family residential 
+
+EPR – Extend Producer Responsibility 
+
+HDPE – High-density polyethylene 
+
+HHW – Household Hazardous Waste 
+
+Lbs. - Pounds 
+
+LDPE – Low-density polyethylene 
+
+MIX – Mixed waste 
+
+MRF – Material Recovery Facility 
+
+OCC – Old Corrugated Containers or Cardboard 
+
+PET – Polyethylene terephthalate 
+
+PP – Polypropylene 
+
+PRC – Public Resources Code 
+
+PS – Polystyrene 
+
+PVC – Polyvinyl chloride 
+
+RDRS – Recycling and Disposal Reporting System 
+
+RES – Franchised single-family residential 
+
+SB – California State Senate Bill 
+
+SH – Self-haul 
+
+SWIS – CalRecycle’s Solid Waste Information System 
+
+The Act - Senate Bill 54 (SB 54), the Plastic Pollution Prevention and Packaging 
+Producer Responsibility Act (Allen, Chapter 75, Statutes of 2022) 
+
+26 
+
+ 
+Bibliography 
+
+1.   California Department of Resources Recycling and Recovery. (2025). Recycling 
+and Disposal Reporting System (RDRS) Report 8: Statewide Totals for Disposal 
+and Disposal-Related Materials. Retrieved May 2025, from 
+https://www2.calrecycle.ca.gov/RecyclingDisposalReporting/Reports/StatewideT
+otalDisposalMaterials  
+
+27 
+
+
