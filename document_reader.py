@@ -1,15 +1,25 @@
-import pdfminer # pip install pdfminer.six
 import os
 import glob
 import re
+import time
 
-from pdfminer.high_level import extract_text
-# import logging # to suppress color gradient warnings from pdfminer.six since we only care about reading text
-# logging.getLogger("pdfminer").setLevel(logging.WARNING) # suppressing warnings only
+# extracting text from pdf
+import pdfminer.high_level
+import pdfminer.layout
+import multiprocessing
 
-CORPUS = "Corpus"
-PROCESSED = "Processed_pdf"
-CHUNKED = "Chunked_txt"
+import logging # to suppress color gradient warnings from pdfminer.six since we only care about reading text
+logging.getLogger("pdfminer").setLevel(logging.ERROR) # suppressing warnings only
+
+# for converting chunks in to embeddings, and then storing them
+import numpy as np
+from sentence_transformers import SentenceTransformer # for text -> vector embedding
+import faiss # an example of a vector DB (currently stores in the memory)
+
+PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))           # Repo root
+CORPUS_PATH = os.path.join(PROJECT_ROOT, "Corpus")                  # Input directory
+CHUNKS_OUTPUT_DIRECTORY = os.path.join(PROJECT_ROOT, "Chunked_txt") # Output directory for .txt files
+TXT_OUTPUT_DIRECTORY = os.path.join(PROJECT_ROOT, "Processed_pdf")  # Output directory for .txt files
 
 # Use regex to find repetitive whitespace and replace it with a singular space.
 def normalize(s: str) -> str:
@@ -17,6 +27,7 @@ def normalize(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 # Chunks the contents of 'text'
+# TODO: Improve chunking to fit around paragraph and end of sentences, also filter out tables and garbage data.
 def chunk_text(text: str, max_words: int, overlap: int):
     words = text.split()
     chunks = []
@@ -29,47 +40,79 @@ def chunk_text(text: str, max_words: int, overlap: int):
         i += max_words - overlap # slides window
     return chunks
 
+# helper function for multiprocessor pool
+def extract_pdf(pdf_path):
+    output_path = TXT_OUTPUT_DIRECTORY + "/" + os.path.basename(pdf_path).rstrip(".pdf") + ".txt"
+    
+    # Avoid extracting text if it already exists
+    if not os.path.exists(output_path):
+        try:
+            # pdf_path can be potentially huge, so stream data in to txt file
+            with open(pdf_path, "rb") as infile, open(output_path, "x", encoding="utf-8") as outfile:
+                pdfminer.high_level.extract_text_to_fp(infile, outfile, laparams=pdfminer.layout.LAParams(), output_type="text", codec="utf-8")
+        except Exception as e:
+            print(f"Failed to process {pdf_path}: {e}")
+
 # Process Corpus pdf files into text files
 def process_pdf_to_txt():
-    project_root = os.path.abspath(os.path.dirname(__file__))  # Repo root
-    data_corpus = os.path.join(project_root, CORPUS) # Input directory
-    data_output = os.path.join(project_root, PROCESSED) # Output directory
-    pdf_files = glob.glob(os.path.join(data_corpus, "*.pdf"))
-
-    for pdf_path in pdf_files:
-        output_path = data_output + "\\" + os.path.basename(pdf_path).rstrip(".pdf") + ".txt"
-
-        if not os.path.exists(output_path):
-            try:
-                text = extract_text(pdf_path)
-                with open(output_path, "x", encoding="utf-8") as f:
-                    f.write(text)
-                    f.close()
-            except Exception as e:
-                print(f"Failed to process {pdf_path}: {e}")
+    pdf_files = glob.glob(os.path.join(CORPUS_PATH, "*.pdf"))
+    time_start = time.time()
+    pdf_files_sorted = sorted(pdf_files, key=os.path.getsize, reverse=True)
+    with multiprocessing.Pool(processes=4) as pool:
+        pool.map(extract_pdf, pdf_files_sorted)
+    print(f"Extract Total: {time.time() - time_start}")
 
 # Chunk processed text files into new text files with one chunking per line
 def chunk_processed_txt():
-    project_root = os.path.abspath(os.path.dirname(__file__))  # Repo root
-    data_processed = os.path.join(project_root, PROCESSED) # Input directory
-    data_output = os.path.join(project_root, CHUNKED) # Output directory
-    txt_files = glob.glob(os.path.join(data_processed, "*.txt"))
+    txt_files = glob.glob(os.path.join(TXT_OUTPUT_DIRECTORY, "*.txt"))
+    time_start = time.time()
 
     for txt_path in txt_files:
-        output_path = data_output + "\\" + os.path.basename(txt_path)
+        output_path = CHUNKS_OUTPUT_DIRECTORY + "/" + os.path.basename(txt_path)
 
         if not os.path.exists(output_path):
             with open(txt_path, "r", encoding="utf-8") as r:
                 text = r.read()
-                r.close()
             
             text = normalize(text) # strips repetitive whitespace
-            chunked = chunk_text(text, 20, 10)
-
+            # chunk_text(text: str, max_words: int, overlap: int)
+            chunked = chunk_text(text, 1400, 250)
             with open(output_path, "x", encoding="utf-8") as f:
                 for chunk in chunked:
                     f.write(chunk + "\n")
-                f.close()
+    print(f"Chunk Total: {time.time() - time_start}")
 
-process_pdf_to_txt()
-chunk_processed_txt()
+if __name__ == "__main__":
+    process_pdf_to_txt()    # convert pdfs to txt files
+    chunk_processed_txt()   # create chunks from txt files
+    chunk_files = glob.glob(os.path.join(CHUNKS_OUTPUT_DIRECTORY, "*.txt"))
+    time_start = time.time()
+
+    chunks = []
+    for txt_path in chunk_files:
+        with open(txt_path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line:  # skip empty lines
+                    chunks.append(line)
+    model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+    emb_matrix = model.encode(chunks, convert_to_numpy=True, normalize_embeddings=True)
+    dim = emb_matrix.shape[1]
+    index = faiss.IndexFlatIP(dim)  # cosine works with normalized vectors using inner product
+    index.add(emb_matrix)           # store embeddings
+    print(f"Embed Total: {time.time() - time_start}")
+
+    def search(query, k=3):
+        q_emb = model.encode([query], convert_to_numpy=True, normalize_embeddings=True)
+        scores, idxs = index.search(q_emb, k)  # (1, k)
+        results = []
+        for rank, (i, s) in enumerate(zip(idxs[0], scores[0]), start=1):
+            results.append({"rank": rank, "score": float(s), "chunk": chunks[i]})
+        return results
+    hits = search("What is illinois doing to improve waste management?", k=3)
+
+    print("\nTop matches:")
+    for h in hits:
+        print(f"[{h['rank']}] score={h['score']:.3f}\n{h['chunk']}\n---")
+    
+    # TODO: Add a ollama endpoint and provide the embeddings as context to it.
