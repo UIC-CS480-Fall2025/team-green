@@ -11,6 +11,11 @@ import numpy as np
 from sentence_transformers import SentenceTransformer # for text -> vector embedding
 import faiss # an example of a vector DB (currently stores in the memory)
 import subprocess    # detect at runtime if we have cuda installed
+# import torch
+# print(torch.cuda.is_available())
+# print(torch.version.cuda)
+# exit()
+
 
 def has_cuda():
     try:
@@ -24,7 +29,6 @@ def has_cuda():
         return False
 
 import ollama
-
 
 if __name__ == "__main__":
     check_files = glob.glob(os.path.join(pdf_helper.CHUNKS_OUTPUT_DIRECTORY, "*.txt"))

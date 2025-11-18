@@ -63,3 +63,59 @@ Ollama Set Up:
 3. `ollama pull llama3`
 
 Run `python answer_queries.py` in your terminal. Note that embedding performance is significantly better on machines with CUDA installed.
+
+
+# Sample Program Run
+```
+What would you like to know about? Answer with "X" or nothing to exit.  
+->Tell me about the future of waste management in Texas.
+
+Top matches:  
+[4] score=0.819  
+Q U A L I T Y Municipal Solid Waste in Texas: A Year in Review 2024 Data Summary and...  
+---  
+[5] score=0.818  
+Waste in Texas: A Year in Review COG 18: Alamo Area Council of Governments—Processing Facility Locations September 2025 • Page...  
+---  
+[5] score=0.369  
+23 September 2025 • Page 72 TCEQ AS-187/25 • Municipal Solid Waste in Texas: A Year in Review September 2025...  
+---  
+[4] score=0.367  
+Waste in Texas: A Year in Review September 2025 ● Page 76 TCEQ AS-187/25 • Municipal Solid Waste in Texas:...  
+---  
+[3] score=0.357  
+September 2025 • Page 67 TCEQ AS-187/25 • Municipal Solid Waste in Texas: A Year in Review COG 19: South...  
+---  
+[2] score=0.353  
+September 2025 • Page 53 TCEQ AS-187/25 • Municipal Solid Waste in Texas: A Year in Review COG 10: Concho...  
+---  
+[1] score=0.349  
+September 2025 ● Page 103 TCEQ AS-187/25 • Municipal Solid Waste in Texas: A Year in Review COG 18: Alamo...  
+---  
+
+Thinking...  
+
+Based on the provided context, which appears to be a report on municipal solid waste management in Texas for 2024 and 2025, I can provide some insights on the future of Texas waste management.  
+
+The reports highlight various trends and statistics on municipal solid waste (MSW) generation, disposal methods, and processing facilities in Texas. While there is no explicit mention of long-term projections or goals for the future, we can draw some inferences based on national and international trends in waste management.  
+
+In recent years, there has been a growing emphasis on sustainable waste management practices, including:  
+
+1. Increased recycling: As the public becomes more aware of environmental concerns, there may be an upward trend in recycling rates across Texas.  
+2. Waste reduction: Efforts to minimize waste generation through education, consumer behavior change, and business practices innovation are likely to continue.  
+3. Composting: Organic waste composting is gaining popularity, and we can expect this trend to persist, especially as cities like Austin and Houston aim to divert more organic waste from landfills.  
+4. Alternative disposal methods: Technologies like gasification, pyrolysis, and anaerobic digestion may become more prevalent in Texas, offering cleaner and more efficient waste treatment options.  
+5. Increased focus on end-of-life management: As the public becomes more aware of the environmental impact of electronic waste (e-waste) and other hazardous materials, we can expect to see more emphasis on responsible disposal and recycling practices for these materials.  
+
+To support these trends and achieve a more sustainable future in Texas waste management:  
+
+1. Collaboration between governments, industry stakeholders, and consumers will be crucial.  
+2. Education and awareness campaigns can help promote best practices in waste reduction, recycling, and proper disposal methods.  
+3. Incentivizing innovative technologies and infrastructure investments can drive progress toward more efficient and environmentally friendly waste management solutions.  
+4. Developing a circular economy approach, where materials are kept in use for as long as possible, will be essential to minimizing waste generation and environmental impact.  
+
+While the reports do not provide explicit projections for the future of Texas waste management, these trends and recommendations offer a glimpse into what might be on the horizon.  
+
+What would you like to know about? Answer with "X" or nothing to exit.  
+->X
+```
