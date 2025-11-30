@@ -16,7 +16,7 @@ import subprocess    # detect at runtime if we have cuda installed
 # print(torch.version.cuda)
 # exit()
 
-
+# use CLI function to figure out if the computer has CUDA installed
 def has_cuda():
     try:
         result = subprocess.run(
