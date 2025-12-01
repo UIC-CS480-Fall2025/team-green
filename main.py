@@ -1,5 +1,5 @@
 import sys
-import database_helper  # handles database operations
+import database_helper # handles database operations
 
 ROLE_MAPPING = {"1": "Admin", "2": "Curator", "3": "EndUser"}
 
@@ -10,7 +10,8 @@ def authenticate_user(role, email, password):
     Return True if credentials are valid, False otherwise.
     """
     print(f"Authenticating {role} with email={email} (stub).")
-    assert(False);
+    database_helper.authenticate_user(role, email, password)
+    assert(False)
     # TODO: implement actual authentication
     return False   # always fail for now, so user bounces back
 
@@ -22,7 +23,7 @@ def create_user():
         print("New EndUser successfully made.\n")
     else:
         print("ERROR: New EndUser was NOT created.\n")
-    
+
 
 def sign_up():
     name = input("  Enter name: ").strip()
@@ -47,19 +48,41 @@ def sign_up():
 def fetch_users():
     print("Fetching all Users...")
     # TODO: implement a SELECT on the Users table in database_helper
+    dictUsers = database_helper.fetch_users(db)
+    for key, value in dictUsers:
+        print(key, value)
     assert(False)
 
 
 def update_user():
     print("Updating a User's information...")
-    # TODO: first prompt for ID or email of who to change
-    # then prompt for new user info
+
+    Update_ID = input("Enter the ID of the user you'd like to update: ").strip()
+    if not Update_ID:
+        print("User ID is required.")
+        return
+
+    print("Leave any field blank to keep it unchanged.\n")
+
+    username = input("New username (or press Enter to skip): ").strip()
+    name = input("New name (or press Enter to skip): ").strip()
+    email = input("New email (or press Enter to skip): ").strip()
+    password = input("New password (or press Enter to skip): ").strip()
+    database_helper.update_user(db, Update_ID, username, name, email, password)
     assert(False)
 
 
 def delete_user():
     print("Deleting a User...")
     # TODO: figure out who to remove, if its an EndUser, make sure to remove all their QueryLogs too
+    Delete_ID = input("Enter the ID of the user you'd like to update: ").strip()
+    if not Delete_ID:
+        print("User ID is required.")
+        return
+    database_helper.delete_user(db, Delete_ID)
+    assert(False)
+
+def handle_signup():
     assert(False)
 
 
@@ -102,7 +125,7 @@ def print_user_menu():
         query = input("Would you like to enter another query? (Y or Yes for a new query or anything else to exit) ")
         if query != "Y" or query != "Yes":
             break
-    
+
 
 # When program starts, have the user login as a particular role before they can do something
 # Returns number representing the user's role
@@ -115,7 +138,7 @@ def landing_loop():
         if role_choice == "X" or role_choice == "":
             print("Exiting program...")
             sys.exit(1)
-        
+
         # sign up can only create new EndUsers
         if role_choice == "S":
             result = sign_up()
@@ -199,8 +222,9 @@ def enduser_loop():
             print("Invalid choice. Please try again.")
 
 def main():
+    fetch_users()
     """
-    Handle main workflow of program. 
+    Handle main workflow of program.
 
     Admins can do CRUD on Users table. Curators can do CRUD on Documents table.
     EndUsers can make queries.
