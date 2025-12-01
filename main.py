@@ -1,6 +1,6 @@
 import sys
 import database_helper  # handles database operations
-import getpass # handles masking password inputs
+import pdf_helper
 
 ROLE_MAPPING = {"1": "Admin", "2": "Curator", "3": "EndUser"}
 
@@ -15,6 +15,7 @@ def create_user():
     name = ""
     while name == "":
         name = input("  Enter name: ").strip()
+    
     email = ""
     while email == "":
         email = input("  Enter email: ").strip()
@@ -24,9 +25,11 @@ def create_user():
     while role not in ['EndUser', 'Curator', 'Admin']:
         print("Invalid role. Try again.")
         role = input("  Enter role (\"EndUser\", \"Curator\", \"Admin\"): ").strip()
+
     username = ""
     while username == "":
         username = input("  Enter username: ").strip()
+    
     while True:
         password = input("  Enter password: ").strip()
         confirm_pw = input("  Confirm password: ").strip()
@@ -38,10 +41,6 @@ def create_user():
     # return None is something went wrong or return the result row of the newly signed up end user
     # user_id, user_name, user_email, user_role, user_username, user_password
     return database_helper.ADMIN_user_create(name=name, email=email, role=role, username=username, password=password)
-
-def create_doc():
-    print("Adding a new Document...")
-    # TODO
 
 def sign_up():
     name = ""
@@ -97,7 +96,34 @@ def delete_user():
         return
     return database_helper.ADMIN_user_delete(Delete_ID)
 
-def fetch_docs():
+def create_doc(curator_id):
+    print("Adding a new Document...")
+
+    new_path = ""
+    while new_path == "":
+        new_path = input("  Provide path to pdf relative to project root: ").strip()    # path up to and including the .pdf file extension
+
+    is_new_file = pdf_helper.extract_pdf(new_path)    # makes a .txt file in the TXT_OUTPUT_DIRECTORY, if not already existing
+
+    if is_new_file is False:    # document already existed
+        print("Document already exists in system...")
+        return None
+
+    title = ""
+    while title == "":
+        title = input("  Enter document title: ").strip()
+
+    doc_type = ""
+    while doc_type == "":
+        doc_type = input("  Enter document type: ").strip()
+
+    source = ""
+    while source == "":
+        source = input("  Enter document source: ").strip()
+
+    return database_helper.CURATOR_document_create(title=title, doc_type=doc_type, source=source, added_by=curator_id, processed=False)
+
+def fetch_docs(curator_id):
     print("  1. Fetch Your Documents")
     print("  2. Fetch All Documents")
     choice = None
@@ -106,14 +132,45 @@ def fetch_docs():
 
         if choice == "1":
             print("  Your Documents: ")
-            # TODO: output the documents
+            return database_helper.CURATOR_documents_fetch(cur_id=curator_id)
         elif choice == "2":
             print("  All Documents: ")
-            # TODO: output all documents
+            return database_helper.CURATOR_documents_fetch()
+        elif choice == "X" or choice != "":
+            return None
+        else:
+            print("Invalid choice. Try again.")
 
-def delete_doc():
+def update_doc(curator_id):
+    print("Updating a Document's information...")
+
+    Update_ID = input("Enter the ID of the Document you'd like to update: ").strip()
+    if not Update_ID:
+        print("Document ID is required.")
+        return
+
+    print("Leave any field blank to keep it unchanged.\n")
+
+    title = input("New title (or press Enter to skip): ").strip()
+    doc_type = input("New type (or press Enter to skip): ").strip()
+    source = input("New source (or press Enter to skip): ").strip()
+
+    processed_input = input("Processed? (yes/no, or press Enter to skip): ").strip().lower()
+    if processed_input == "yes":
+        processed = True
+    elif processed_input == "no":
+        processed = False
+    else:
+        processed = None  # unchanged
+
+    return database_helper.CURATOR_document_update(cur_id=curator_id, doc_id=Update_ID, title=title, doc_type=doc_type, source=source, processed=processed)
+
+def delete_doc(curator_id):
     print("Deleting a Document...")
-    # TODO: figure out which document to remove
+    delete_id = ""
+    while delete_id == "":
+        delete_id = input("Enter the ID of the Document you'd like to delete: ").strip()
+    return database_helper.CURATOR_document_delete(curator_id, delete_id)
 
 def print_login_menu():
     print("\n=== Login Selection Menu ===")
@@ -129,6 +186,7 @@ def print_curator_menu():
     print("1. Add New Document")
     print("2. Fetch Document List")
     print("3. Delete Document")
+    print("4. Edit Document")
     print("X. Exit")
     print("=================")
 
@@ -218,18 +276,23 @@ def admin_loop():
             print("Invalid choice. Please try again.")
 
 # can do CRUD on the Documents table
-def curator_loop():
+def curator_loop(curator_id):
     choice = None
     while choice != "X" and choice != "":
         print_curator_menu()
         choice = input("Select an option (1-4, X to exit): ").strip()
 
         if choice == "1":
-            create_doc()
+            create_doc(curator_id)
         elif choice == "2":
-            fetch_docs()
+            fetched = fetch_docs(curator_id)
+            if fetched is not None:
+                for doc in fetched:
+                    print(doc)
         elif choice == "3":
-            delete_doc()
+            delete_doc(curator_id)
+        elif choice == "4":
+            update_doc(curator_id)
         elif choice == "X" or choice == "":
             print("Returning to role selection...")
         else:
@@ -277,7 +340,7 @@ def main():
         if user_role == "Admin":
             admin_loop()   # can do CRUD on the Users table
         elif user_role == "Curator":
-            curator_loop() # can do CRUD on the Documents table
+            curator_loop(user_id) # can do CRUD on the Documents table
         elif user_role == "EndUser":
             enduser_loop() # can submit queries
         else:

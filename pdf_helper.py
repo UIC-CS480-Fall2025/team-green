@@ -39,6 +39,7 @@ def chunk_text(text: str, max_words: int, overlap: int):
     return chunks
 
 # helper function for multiprocessor pool
+# returns True if it actually had to extract text, False if the txt file already existed
 def extract_pdf(pdf_path):
     output_path = TXT_OUTPUT_DIRECTORY + "/" + os.path.basename(pdf_path).rstrip(".pdf") + ".txt"
     
@@ -48,8 +49,11 @@ def extract_pdf(pdf_path):
             # file size of "pdf_path" can be potentially huge, so stream data in to txt file
             with open(pdf_path, "rb") as infile, open(output_path, "x", encoding="utf-8") as outfile:
                 pdfminer.high_level.extract_text_to_fp(infile, outfile, laparams=pdfminer.layout.LAParams(), output_type="text", codec="utf-8")
+            return True
         except Exception as e:
             print(f"Failed to process {pdf_path}: {e}")
+            return False
+    return False
 
 # Process Corpus pdf files into text files
 def process_pdf_to_txt():
