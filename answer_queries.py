@@ -1,20 +1,24 @@
 # general utiliies
 import os, glob, dotenv, time
+import psycopg2
+import pdf_helper   # helper module that processes initial Corpus
+from sentence_transformers import SentenceTransformer # for text -> vector embedding
+import subprocess    # detect at runtime if we have cuda installed
+import ollama
+
 dotenv.load_dotenv()
 
 FETCH_K = int(os.environ.get("FETCH_K", 5))
 
-import pdf_helper   # helper module that processes initial Corpus
+conn = psycopg2.connect(database="postgres",
+        host="localhost",
+        user="postgres",
+        password="postgres",
+        port="5432")
 
-# for converting chunks in to embeddings, and then storing them
-import numpy as np
-from sentence_transformers import SentenceTransformer # for text -> vector embedding
-import faiss # an example of a vector DB (currently stores in the memory)
-import subprocess    # detect at runtime if we have cuda installed
-# import torch
-# print(torch.cuda.is_available())
-# print(torch.version.cuda)
-# exit()
+model = None          # SentenceTransformer model
+chunks = []           # list[str]
+dimension = None      # embedding dimension
 
 # use CLI function to figure out if the computer has CUDA installed
 def has_cuda():
@@ -28,85 +32,113 @@ def has_cuda():
     except FileNotFoundError:
         return False
 
-import ollama
+def start_model():
+    global model, dimension
 
-if __name__ == "__main__":
+    print("Loading SentenceTransformer model...")
+    model_name = "all-MiniLM-L6-v2"
+
+    # if system has CUDA, SentenceTransformer will use it automatically
+    model = SentenceTransformer(model_name)
+
+    # determine embedding vector size
+    test_vec = model.encode(["test"], convert_to_numpy=True)
+    dimension = test_vec.shape[1]
+
+    print(f"Model loaded. Embedding dimension = {dimension}")
+
+
+def embed_and_index_chunks():
+    global chunks, model
+
+    print("Embedding chunks...")
+    start = time.time()
+
+    embeddings = model.encode(
+        chunks,
+        convert_to_numpy=True,
+        normalize_embeddings=True
+    )
+
+    # Insert embeddings into psql database
+    # TODO: make sure table format matches
+    cur = conn.cursor()
+    for chunk, embedding in zip(chunks, embeddings):
+        insert_query = """
+        INSERT INTO cs480_finalproject.embeddings (chunk, embedding)
+        VALUES (%s, %s)"""
+        cur.execute(insert_query, (chunk, embedding.tolist()))
+    conn.commit()
+
+    # Create an HNSW index for searching
+    create = """CREATE INDEX IF NOT EXISTS hnsw_index ON embeddings USING hnsw (embedding);"""
+    cur.execute(create)
+    conn.commit()
+    cur.close()
+
+    print(f"Embedding & indexing complete. Took {time.time() - start:.2f} seconds")
+
+def update_all_chunks():
+    global chunks
+
     check_files = glob.glob(os.path.join(pdf_helper.CHUNKS_OUTPUT_DIRECTORY, "*.txt"))
     if not check_files:
-        print("Chunked Texts not Found, Regenerating...")
-        pdf_helper.process_pdf_to_txt()    # convert pdfs to txt files
-        pdf_helper.chunk_processed_txt()   # create chunks from txt files
-        print("Chunked Text Files DONE")
+        print("Chunked texts not found — regenerating.")
+        pdf_helper.process_pdf_to_txt()
+        pdf_helper.chunk_processed_txt()
+        print("Chunking complete.")
 
-    # "CHUNKS_OUTPUT_DIRECTORY" has .txt files where each line of a file is a chunk 
     chunk_files = glob.glob(os.path.join(pdf_helper.CHUNKS_OUTPUT_DIRECTORY, "*.txt"))
 
-    print("Starting Embedding Generation")
-    embed_start = time.time()
-
     chunks = []
-
-    # read each line of each file in "CHUNKS_OUTPUT_DIRECTORY" and collect it into "chunks"
     for txt_path in chunk_files:
         with open(txt_path, "r", encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
-                if line:                # skip empty lines
+                if line:
                     chunks.append(line)
-    
-    # TA demo code for converting chunks to embeddings and storing them in FAISS
-    # detect at runtime if user has cuda installed, if so, use it
-    transform_device = "cuda" if has_cuda() else "cpu"
-    model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2", device=transform_device)
-    emb_matrix = model.encode(chunks, convert_to_numpy=True, normalize_embeddings=True)
-    dim = emb_matrix.shape[1]
 
-    # faiss IndexFlatIP exact search
-    index_flat_ip = faiss.IndexFlatIP(dim)  # cosine works with normalized vectors using inner product
-    index_flat_ip.add(emb_matrix)           # store embeddings
+    print(f"Loaded {len(chunks)} chunks.")
 
-    # faiss HNSW approximate search
-    # 16 is the number of neighbors in the resulting graph
-    # May also use values of 32 or 64. Higher values are more accurate but require more memory
-    index_hnsw = faiss.IndexHNSWFlat(dim, 16)
-    index_hnsw.add(emb_matrix)                # store embeddings
-    print(f"Embed Total: {time.time() - embed_start}")
+def init_rag():
+    """
+    Call this once in any external script.
+    """
+    start_model()
+    update_all_chunks()
+    embed_and_index_chunks()
 
-    # turn query text in to an embedding, then search our index
-    def search(query, k=FETCH_K):
-        q_emb = model.encode([query], convert_to_numpy=True, normalize_embeddings=True)
-
-        # Search both indexes
-        scores_flat_ip, idxs_flat_ip = index_flat_ip.search(q_emb, k)  # (1, k)
-        scores_hnsw, idxs_hnsw = index_hnsw.search(q_emb, k)
-
-        # Results will be merged into a dict of dicts to avoid duplicate results
-        results = {}
-        # IndexFlatIP results saved first
-        for rank, (i, s) in enumerate(zip(idxs_flat_ip[0], scores_flat_ip[0]), start=1):
-            results[i] = {"score": float(s), "chunk": chunks[i]}
-        
-        # HNSW results will append to the dict if the chunk is new, else update the result with the average of both scores
-        for rank, (i, s) in enumerate(zip(idxs_hnsw[0], scores_hnsw[0]), start=1):
-            if i not in results:
-                results[i] = {"score": float(s), "chunk": chunks[i]}
-            else:
-                results[i]["score"] = (results[i]["score"] + s) / 2     # Averaging of flat and HNSW scores for duplicate results
-        
-        results_sorted = sorted(
-            ({"index": i, "score": d["score"], "chunk": d["chunk"]} for i, d in results.items()),
-            key=lambda x: x["score"],
-            reverse=True
-        )
-
-        # Trim to exactly k unique results and assign ranks
-        top_k = []
-        for rank, item in enumerate(results_sorted[:k], start=1):
-            top_k.append({"rank": rank, "score": item["score"], "chunk": item["chunk"]})
-
-        return top_k
+    print("RAG system initialized.")
 
 
+# turn query text in to an embedding, then search our index
+def search(query, k=FETCH_K):
+    global model
+
+    q_emb = model.encode([query], convert_to_numpy=True, normalize_embeddings=True)[0]
+
+    # Search nearest neighbors
+    cur = conn.cursor()
+    # TODO: check query
+    search_query = """SELECT id, chunk, embedding <=> %s AS distance
+    FROM embeddings
+    ORDER BY embedding <=> %s
+    LIMIT %s;"""
+    cur.execute(search_query, (q_emb.tolist(), q_emb.tolist(), k))
+    results = cur.fetchall()
+    cur.close()
+
+    top_k = []
+    for rank, item in enumerate(results[:k], start=1):
+        top_k.append({
+            "rank": rank,
+            "score": item["score"],
+            "chunk": item["chunk"]
+        })
+
+    return top_k
+
+def queryDB():
     query = input("What would you like to know about? Answer with \"X\" or nothing to exit.\n->")
     while query and query != "X":
         # TODO: sanitize user input to prevent injection
@@ -117,7 +149,7 @@ if __name__ == "__main__":
         for h in hits:
             print(f"[{h['rank']}] score={h['score']:.3f}\n{h['chunk'][:200]}...\n---")
         print("\n\n")
-        
+
         print("Thinking...")
         # Construct a RAG-style prompt by injecting the retrieved hits
         context = "\n".join([hit['chunk'] for hit in hits])
@@ -135,3 +167,7 @@ if __name__ == "__main__":
         print(response["message"]["content"])
         print("\n\n")
         query = input("What would you like to know about? Answer with \"X\" or nothing to exit.\n->")
+
+if __name__ == "__main__":
+    init_rag()
+    queryDB()
