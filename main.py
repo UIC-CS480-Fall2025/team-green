@@ -201,14 +201,6 @@ def print_admin_menu():
 
 def print_user_menu():
     print("\n=== USER Menu ===")
-    while True:
-        query = input("What would you like to know about? Answer with \"X\" or nothing to exit.\n->").strip()
-        if query != "X" or query != "":
-            print(f"DEBUG Query is: {query}")
-            # TODO: convert query string to an embedding eg embedding = model.encode([query], convert_to_numpy=True, normalize_embeddings=True)
-            # where model is the SentenceTransformer. You can then plug in the embedding into a SQL SELECT statement
-        else:
-            break
 
 
 # When program starts, have the user login as a particular role before they can do something
@@ -303,21 +295,16 @@ def enduser_loop():
     choice = None
     while choice != "X" and choice != "":
         print_user_menu()
-        choice = input("Select an option (1-4, X to exit): ").strip()
 
-        if choice == "1":
-            while True:
-                query = input("What would you like to know about? Answer with \"X\" or nothing to exit.\n->")
-                if query != "X":
-                    print(f"----DEBUG Query is: {query}") # TODO remove this!
-                    # TODO: convert query string to an embedding eg embedding = model.encode([query], convert_to_numpy=True, normalize_embeddings=True)
-                    # where model is the SentenceTransformer. You can then plug in the embedding into a SQL SELECT statement
-                else:
-                    break
-        elif choice == "X" or choice == "":
-            print("Returning to role selection...")
-        else:
-            print("Invalid choice. Please try again.")
+        while True:
+            query = input("What would you like to know about? Answer with \"X\" or nothing to exit.\n->")
+            if query != "X":
+                print(f"----DEBUG Query is: {query}") # TODO remove this!
+                # TODO: convert query string to an embedding eg embedding = model.encode([query], convert_to_numpy=True, normalize_embeddings=True)
+                # where model is the SentenceTransformer. You can then plug in the embedding into a SQL SELECT statement
+            else:
+                break
+        print("Returning to role selection...")
 
 def main():
     print(database_helper.ADMIN_users_fetch())
