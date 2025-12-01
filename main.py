@@ -1,5 +1,6 @@
 import sys
-import database_helper # handles database operations
+import database_helper  # handles database operations
+import getpass # handles masking password inputs
 
 ROLE_MAPPING = {"1": "Admin", "2": "Curator", "3": "EndUser"}
 
@@ -13,7 +14,8 @@ def authenticate_user(role, email, password):
     database_helper.authenticate_user(role, email, password)
     assert(False)
     # TODO: implement actual authentication
-    return False   # always fail for now, so user bounces back
+    # return False   # always fail for now, so user bounces back
+    return True
 
 
 def create_user():
@@ -24,6 +26,9 @@ def create_user():
     else:
         print("ERROR: New EndUser was NOT created.\n")
 
+def create_doc():
+    print("Adding a new Document...")
+    # TODO
 
 def sign_up():
     name = input("  Enter name: ").strip()
@@ -33,13 +38,13 @@ def sign_up():
     username = input("  Enter username: ").strip()
     # TODO: check username is unique
     while True:
-        password = input("  Enter password: ").strip()
-        confirm_pw = input("  Confirm password: ").strip()
+        password = getpass.getpass("  Enter password: ").strip()
+        confirm_pw = getpass.getpass("  Confirm password: ").strip()
 
         if password != confirm_pw:
             print("    Password does not match...")
         else:
-            break;
+            break
     # TODO: add new user to database with name, email, username, and password
     # if the database has an error return False
     return True
@@ -53,6 +58,9 @@ def fetch_users():
         print(key, value)
     assert(False)
 
+def fetch_docs():
+    print("Fetching all Documents...")
+    # TODO: implement SELECT on the Documents table in database_helper
 
 def update_user():
     print("Updating a User's information...")
@@ -71,7 +79,6 @@ def update_user():
     database_helper.update_user(db, Update_ID, username, name, email, password)
     assert(False)
 
-
 def delete_user():
     print("Deleting a User...")
     # TODO: figure out who to remove, if its an EndUser, make sure to remove all their QueryLogs too
@@ -81,6 +88,10 @@ def delete_user():
         return
     database_helper.delete_user(db, Delete_ID)
     assert(False)
+
+def delete_doc():
+    print("Deleting a Document...")
+    # TODO: figure out which document to remove
 
 def handle_signup():
     assert(False)
@@ -98,32 +109,30 @@ def print_login_menu():
 
 def print_crud_menu():
     print("\n=== Curator Menu ===")
-    print("1. Create")
-    print("2. Read")
-    print("3. Update")
-    print("4. Delete")
+    print("1. Add New Document")
+    print("2. Fetch Document List")
+    print("3. Delete Document")
     print("X. Exit")
     print("=================")
 
 def print_admin_menu():
     print("\n=== ADMIN Menu ===")
-    print("1. Create")
-    print("2. Read")
-    print("3. Update")
-    print("4. Delete")
+    print("1. Create User")
+    print("2. Fetch Users")
+    print("3. Update User")
+    print("4. Delete User")
     print("X. Log Out")
     print("=================")
 
 def print_user_menu():
     print("\n=== USER Menu ===")
     while True:
-        query = input("What would you like to know about? Answer with \"X\" or nothing to exit.\n->")
-        if query != "X":
+        query = input("What would you like to know about? Answer with \"X\" or nothing to exit.\n->").strip()
+        if query != "X" or query != "":
             print(f"DEBUG Query is: {query}")
             # TODO: convert query string to an embedding eg embedding = model.encode([query], convert_to_numpy=True, normalize_embeddings=True)
             # where model is the SentenceTransformer. You can then plug in the embedding into a SQL SELECT statement
-        query = input("Would you like to enter another query? (Y or Yes for a new query or anything else to exit) ")
-        if query != "Y" or query != "Yes":
+        else:
             break
 
 
@@ -142,7 +151,6 @@ def landing_loop():
         # sign up can only create new EndUsers
         if role_choice == "S":
             result = sign_up()
-            # res = handle_signup(email, password)
             if result == True:
                 print("New EndUser successfully made.\n")
                 continue    # Allow user to select a new menu option
@@ -157,8 +165,8 @@ def landing_loop():
             continue
 
         # Prompt for login credentials
-        email = input(f"Enter {role} email: ").strip()
-        password = input(f"Enter {role} password: ").strip()
+        email = getpass.getpass(f"Enter {role} email: ").strip()
+        password = getpass.getpass(f"Enter {role} password: ").strip()
 
         # Try inputted credentials against the selected role table
         # Step 2. Authenticate user credentials
@@ -191,31 +199,40 @@ def admin_loop():
 
 # can do CRUD on the Documents table
 def curator_loop():
-    pass
+    choice = None
+    while choice != "X" and choice != "":
+        print_crud_menu()
+        choice = input("Select an option (1-4, X to exit): ").strip()
+
+        if choice == "1":
+            create_doc()
+        elif choice == "2":
+            fetch_docs()
+        elif choice == "3":
+            delete_doc()
+        elif choice == "X" or choice == "":
+            print("Returning to role selection...")
+        else:
+            print("Invalid choice. Please try again.")
 
 # can submit queries
 def enduser_loop():
-    # print_crud_menu():
-    # print("\n=== CRUD Menu ===")
-    # print("1. Create")
-    # print("2. Read")
-    # print("3. Update")
-    # print("4. Delete")
-    # print("X. Exit")
-    # print("=================")
     choice = None
     while choice != "X" and choice != "":
         print_user_menu()
         choice = input("Select an option (1-4, X to exit): ").strip()
 
         if choice == "1":
-            create_user()
-        elif choice == "2":
-            fetch_users()
-        elif choice == "3":
-            update_user()
-        elif choice == "4":
-            delete_user()
+            while True:
+                query = input("What would you like to know about? Answer with \"X\" or nothing to exit.\n->")
+                if query != "X":
+                    # print(f"DEBUG Query is: {query}")
+                    # TODO: convert query string to an embedding eg embedding = model.encode([query], convert_to_numpy=True, normalize_embeddings=True)
+                    # where model is the SentenceTransformer. You can then plug in the embedding into a SQL SELECT statement
+                    query = input("Would you like to enter another query? (Y for a new query or anything else to exit) ")
+                    query = query.upper()
+                if query != "Y":
+                    break
         elif choice == "X" or choice == "":
             print("Returning to role selection...")
         else:
@@ -238,11 +255,11 @@ def main():
         # Step 3. Prompt user with role specific menu
         # Step 4. Accept user input and perform specified action
         # Step 5. Repeat Step 3-4 until we recieve a log out action or program terminates
-        if user_role == 1:
+        if user_role == "1":
             admin_loop()   # can do CRUD on the Users table
-        elif user_role == 2:
+        elif user_role == "2":
             curator_loop() # can do CRUD on the Documents table
-        elif user_role == 3:
+        elif user_role == "3":
             enduser_loop() # can submit queries
         else:
             assert(False)   # dead code
