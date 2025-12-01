@@ -41,8 +41,7 @@ def chunk_text(text: str, max_words: int, overlap: int):
 # helper function for multiprocessor pool
 # returns True if it actually had to extract text, False if the txt file already existed
 def extract_pdf(pdf_path):
-    output_path = TXT_OUTPUT_DIRECTORY + "/" + os.path.basename(pdf_path).rstrip(".pdf") + ".txt"
-    
+    output_path = TXT_OUTPUT_DIRECTORY + "/" + os.path.splitext(os.path.basename(pdf_path))[0] + ".txt"
     # Avoid extracting text if it already exists
     if not os.path.exists(output_path):
         try:

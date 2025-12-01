@@ -118,44 +118,6 @@ def update_all_chunks():
 
     print(f"Loaded {len(chunks)} chunks.")
 
-# OUTDATED
-# def update_all_chunks():
-#     global chunks
-
-#     check_files = glob.glob(os.path.join(pdf_helper.CHUNKS_OUTPUT_DIRECTORY, "*.txt"))
-#     if not check_files:
-#         print("Chunked texts not found — regenerating.")
-#         pdf_helper.process_pdf_to_txt()
-#         pdf_helper.chunk_processed_txt()
-#         print("Chunking complete.")
-
-#     chunk_files = glob.glob(os.path.join(pdf_helper.CHUNKS_OUTPUT_DIRECTORY, "*.txt"))
-
-#     chunks = []
-#     for txt_path in chunk_files:
-#         base_name = os.path.basename(txt_path)              # removes the prefix path
-#         name_without_ext = os.path.splitext(base_name)[0]   # remove the .txt
-#         name_without_ext += ".pdf"                          # replace with .pdf
-        
-#         with conn.cursor() as cur:
-#             doc_id_query = """
-#                 SELECT doc_id
-#                 FROM cs480_finalproject.document
-#                 WHERE source = %s;
-#             """
-
-#             cur.execute(doc_id_query, (name_without_ext,))
-#             result = cur.fetchone()
-#             assert(result is not None)
-#             doc_id = result[0]
-            
-#         with open(txt_path, "r", encoding="utf-8") as f:
-#             for line in f:
-#                 line = line.strip()
-#                 if line:
-#                     chunks.append((line, doc_id))
-
-#     print(f"Loaded {len(chunks)} chunks.")
 
 def init_rag():
     """
@@ -292,4 +254,4 @@ def queryDB(enduser_id):
 
 if __name__ == "__main__":
     init_rag()
-    queryDB()
+    queryDB()  
