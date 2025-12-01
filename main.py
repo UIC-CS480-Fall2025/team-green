@@ -4,27 +4,41 @@ import getpass # handles masking password inputs
 
 ROLE_MAPPING = {"1": "Admin", "2": "Curator", "3": "EndUser"}
 
-def authenticate_user(role, email, password):
+def login_user(role_name, email, password):
     """
-    Stub for authentication logic.
-    Replace with actual backend check.
-    Return True if credentials are valid, False otherwise.
+    Simply hooks in to backend DB helper's authentication implementation.
     """
-    print(f"Authenticating {role} with email={email} (stub).")
-    database_helper.authenticate_user(role, email, password)
-    assert(False)
-    # TODO: implement actual authentication
-    # return False   # always fail for now, so user bounces back
-    return True
+    return database_helper.authenticate_user(role_name, email, password)
 
+# DESIGN CHOICE: sign up can only make new EndUser
+def handle_signup(role_name, email, password):
+    """
+    Simply hooks in to backend DB helper's authentication implementation.
+    """
+    return database_helper.handle_signup(role_name, email, password)
 
 def create_user():
     print("Creating a new EndUser...")
-    res = sign_up()
-    if res:
-        print("New EndUser successfully made.\n")
-    else:
-        print("ERROR: New EndUser was NOT created.\n")
+    name = input("  Enter name: ").strip()
+    email = input("  Enter email: ").strip()
+
+    # unlike "sign_up" admin can actually set the role
+    role = input("  Enter role (\"EndUser\", \"Curator\", \"Admin\"): ").strip()
+    while role not in ['EndUser', 'Curator', 'Admin']:
+        print("Invalid role. Try again.")
+        role = input("  Enter role (\"EndUser\", \"Curator\", \"Admin\"): ").strip()
+    username = input("  Enter username: ").strip()
+    while True:
+        password = input("  Enter password: ").strip()
+        confirm_pw = input("  Confirm password: ").strip()
+
+        if password != confirm_pw:
+            print("    Password does not match...")
+        else:
+            break
+    # return None is something went wrong or return the result row of the newly signed up end user
+    # user_id, user_name, user_email, user_role, user_username, user_password
+    return database_helper.ADMIN_user_create(name=name, email=email, role=role, username=username, password=password)
 
 def create_doc():
     print("Adding a new Document...")
@@ -33,34 +47,18 @@ def create_doc():
 def sign_up():
     name = input("  Enter name: ").strip()
     email = input("  Enter email: ").strip()
-    # TODO: check email is unique
-    # print("Account with that email already exists. Try again.")
     username = input("  Enter username: ").strip()
-    # TODO: check username is unique
     while True:
-        password = getpass.getpass("  Enter password: ").strip()
-        confirm_pw = getpass.getpass("  Confirm password: ").strip()
+        password = input("  Enter password: ").strip()
+        confirm_pw = input("  Confirm password: ").strip()
 
         if password != confirm_pw:
             print("    Password does not match...")
         else:
             break
-    # TODO: add new user to database with name, email, username, and password
-    # if the database has an error return False
-    return True
-
-
-def fetch_users():
-    print("Fetching all Users...")
-    # TODO: implement a SELECT on the Users table in database_helper
-    dictUsers = database_helper.fetch_users(db)
-    for key, value in dictUsers:
-        print(key, value)
-    assert(False)
-
-def fetch_docs():
-    print("Fetching all Documents...")
-    # TODO: implement SELECT on the Documents table in database_helper
+    # return None is something went wrong or return the result row of the newly signed up end user
+    # user_id, user_name, user_email, user_role, user_username, user_password
+    return database_helper.handle_signup(name, email, username, password)
 
 def update_user():
     print("Updating a User's information...")
@@ -75,39 +73,40 @@ def update_user():
     username = input("New username (or press Enter to skip): ").strip()
     name = input("New name (or press Enter to skip): ").strip()
     email = input("New email (or press Enter to skip): ").strip()
-    password = input("New password (or press Enter to skip): ").strip()
-    database_helper.update_user(db, Update_ID, username, name, email, password)
-    assert(False)
+    while True:
+        password = input("  Enter password: ").strip()
+        confirm_pw = input("  Confirm password: ").strip()
+
+        if password != confirm_pw:
+            print("    Password does not match...")
+        else:
+            break
+
+    return database_helper.ADMIN_user_update(user_id=Update_ID, name=name, email=email, username=username, password=password)
 
 def delete_user():
     print("Deleting a User...")
-    # TODO: figure out who to remove, if its an EndUser, make sure to remove all their QueryLogs too
-    Delete_ID = input("Enter the ID of the user you'd like to update: ").strip()
+    Delete_ID = input("Enter the ID of the user you'd like to delete: ").strip()
     if not Delete_ID:
         print("User ID is required.")
         return
-    database_helper.delete_user(db, Delete_ID)
-    assert(False)
+    return database_helper.ADMIN_user_delete(Delete_ID)
+
 
 def delete_doc():
     print("Deleting a Document...")
     # TODO: figure out which document to remove
-
-def handle_signup():
-    assert(False)
-
 
 def print_login_menu():
     print("\n=== Login Selection Menu ===")
     print("1. Admin")
     print("2. Curator")
     print("3. EndUser")
-    print("S. Sign Up")
+    print("S. Sign Up as EndUser")
     print("X. Exit")
     print("===========================")
 
-
-def print_crud_menu():
+def print_curator_menu():
     print("\n=== Curator Menu ===")
     print("1. Add New Document")
     print("2. Fetch Document List")
@@ -150,10 +149,11 @@ def landing_loop():
 
         # sign up can only create new EndUsers
         if role_choice == "S":
-            result = sign_up()
-            if result == True:
+            result_row = sign_up()
+            print(result_row)
+            if result_row is not None:
                 print("New EndUser successfully made.\n")
-                continue    # Allow user to select a new menu option
+                return result_row    # we are signed up now, which will auto log us in as the newly made user
             else:
                 print("ERROR: New EndUser was NOT created.\n")
                 continue    # database error occurred
@@ -165,17 +165,18 @@ def landing_loop():
             continue
 
         # Prompt for login credentials
-        email = getpass.getpass(f"Enter {role} email: ").strip()
-        password = getpass.getpass(f"Enter {role} password: ").strip()
+        email = input(f"Enter {role} email: ").strip()
+        password = input(f"Enter {role} password: ").strip()
 
         # Try inputted credentials against the selected role table
         # Step 2. Authenticate user credentials
-        if not authenticate_user(role, email, password):
+        user_row = login_user(role, email, password)
+        if user_row is None:
             print("Invalid credentials. Try again.")
             continue
 
         # successful log in
-        return role_choice
+        return user_row
 
 # can do CRUD on the Users table
 def admin_loop():
@@ -187,7 +188,8 @@ def admin_loop():
         if choice == "1":
             create_user()
         elif choice == "2":
-            fetch_users()
+            for row in database_helper.ADMIN_users_fetch():
+                print(row)
         elif choice == "3":
             update_user()
         elif choice == "4":
@@ -201,7 +203,7 @@ def admin_loop():
 def curator_loop():
     choice = None
     while choice != "X" and choice != "":
-        print_crud_menu()
+        print_curator_menu()
         choice = input("Select an option (1-4, X to exit): ").strip()
 
         if choice == "1":
@@ -239,7 +241,7 @@ def enduser_loop():
             print("Invalid choice. Please try again.")
 
 def main():
-    fetch_users()
+    print(database_helper.ADMIN_users_fetch())
     """
     Handle main workflow of program.
 
@@ -249,17 +251,18 @@ def main():
     # Step 1. Ask user for role
     # Step 2. Authenticate user credentials
     while True:
-        user_role = landing_loop()
-        print(f"Successfully logged in as {ROLE_MAPPING[user_role]}!")
+        user_row = landing_loop()
+        user_id, user_name, user_email, user_role, user_username, user_password = user_row
+        print(f"Hello, {user_name} you are successfully logged in as {user_role}!")
 
         # Step 3. Prompt user with role specific menu
         # Step 4. Accept user input and perform specified action
         # Step 5. Repeat Step 3-4 until we recieve a log out action or program terminates
-        if user_role == "1":
+        if user_role == "Admin":
             admin_loop()   # can do CRUD on the Users table
-        elif user_role == "2":
+        elif user_role == "Curator":
             curator_loop() # can do CRUD on the Documents table
-        elif user_role == "3":
+        elif user_role == "EndUser":
             enduser_loop() # can submit queries
         else:
             assert(False)   # dead code
